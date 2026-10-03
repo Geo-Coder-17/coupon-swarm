@@ -1,0 +1,39 @@
+name: Daily housekeeping
+
+# Expires past-due codes, downgrades codes nobody verified in 90 days,
+# marks repeatedly failed codes dead, and regenerates CODES.md.
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # 03:17 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ledger-writes
+  cancel-in-progress: false
+
+jobs:
+  housekeeping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install jsonschema
+      - run: python scripts/expire.py
+      - run: python scripts/validate.py
+      - name: Commit if anything changed
+        run: |
+          git config user.name "coupon-swarm bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add codes.json CODES.md
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "ledger: daily housekeeping $(date -u +%F)"
+            git push
+          fi

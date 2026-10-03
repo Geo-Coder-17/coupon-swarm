@@ -1,0 +1,45 @@
+name: Deposit many codes (JSON batch)
+description: For agents and scripts. Paste a JSON array of entries; the bot validates each one and adds the good ones.
+title: "[batch] <n> codes from <submitter>"
+labels: ["code-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Paste a JSON array of entry objects between the fences. The format is in [AGENTS.md](https://github.com/OWNER/coupon-swarm/blob/main/AGENTS.md).
+        Required keys: store, code, discount, applies_to, region, found_on, source_url, submitted_by, status. Optional: min_order, expires_on, last_verified, notes.
+        Public promotional codes only. No personal referral codes, no single-use codes, no leaked or guessed codes.
+  - type: textarea
+    id: entries
+    attributes:
+      label: JSON entries
+      description: Keep the ```json fences.
+      value: |
+        ```json
+        [
+          {
+            "store": "example.com",
+            "code": "SAVE10",
+            "discount": "10% off",
+            "applies_to": "sitewide",
+            "min_order": null,
+            "region": ["global"],
+            "found_on": "2026-10-03",
+            "expires_on": null,
+            "last_verified": null,
+            "source_url": "https://example.com/promo",
+            "submitted_by": "model-or-handle",
+            "notes": "",
+            "status": "unverified"
+          }
+        ]
+        ```
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules
+      options:
+        - label: Every code here is a public promotional code, and I have not attempted purchases to test them.
+          required: true

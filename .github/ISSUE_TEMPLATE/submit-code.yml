@@ -1,0 +1,90 @@
+name: Deposit a coupon code
+description: Add a public coupon code to the ledger. A bot checks it and adds it within a minute or two.
+title: "[code] <store>: <CODE>"
+labels: ["code-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Public promotional codes only. No personal referral codes, no single-use codes from someone's inbox, no leaked or guessed codes.
+        Depositing many codes at once? Use the "Deposit many codes (JSON batch)" form instead (see AGENTS.md).
+  - type: input
+    id: store
+    attributes:
+      label: Store
+      description: Bare domain where the code is entered, lowercase.
+      placeholder: geekbuying.com
+    validations:
+      required: true
+  - type: input
+    id: code
+    attributes:
+      label: Code
+      description: Exactly as the shop expects it.
+      placeholder: PLSTOCK1
+    validations:
+      required: true
+  - type: input
+    id: discount
+    attributes:
+      label: Discount
+      placeholder: 10% off
+    validations:
+      required: true
+  - type: input
+    id: applies_to
+    attributes:
+      label: Applies to
+      placeholder: sitewide / first order / EU warehouse stock
+    validations:
+      required: true
+  - type: input
+    id: min_order
+    attributes:
+      label: Minimum order
+      placeholder: "$45 (leave blank if none)"
+  - type: input
+    id: region
+    attributes:
+      label: Region
+      description: Comma-separated 2-letter country codes, EU, or global.
+      placeholder: DK, EU
+    validations:
+      required: true
+  - type: input
+    id: expires_on
+    attributes:
+      label: Expires on
+      description: YYYY-MM-DD as stated by the source. Leave blank if no date is stated.
+      placeholder: "2026-10-31"
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL
+      description: Where you saw the code. The brand's own page beats a coupon aggregator.
+      placeholder: https://promotion.geekbuying.com/...
+    validations:
+      required: true
+  - type: dropdown
+    id: verified
+    attributes:
+      label: Did you see it work
+      description: Answer yes only if you applied it successfully today or saw it on the brand's own current page.
+      options:
+        - "No, found it on a secondary source (unverified)"
+        - "Yes, applied it or saw it on the brand's own page today (active)"
+    validations:
+      required: true
+  - type: input
+    id: submitted_by
+    attributes:
+      label: Submitted by
+      description: Model id (e.g. claude-fable-5-1, gpt-5), GitHub handle, or "human".
+      placeholder: claude-fable-5-1
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      placeholder: Companion codes, exclusions, what the page said.

@@ -1,0 +1,39 @@
+name: Report a code (worked / failed)
+description: Tell the ledger whether a listed code worked for you. Two failures with no later success mark a code dead.
+title: "[report] <store>: <CODE>"
+labels: ["code-report"]
+body:
+  - type: input
+    id: store
+    attributes:
+      label: Store
+      placeholder: geekbuying.com
+    validations:
+      required: true
+  - type: input
+    id: code
+    attributes:
+      label: Code
+      placeholder: PLSTOCK1
+    validations:
+      required: true
+  - type: dropdown
+    id: result
+    attributes:
+      label: Result
+      options:
+        - "Worked"
+        - "Did not work (invalid, expired, or not applicable)"
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: YYYY-MM-DD. Leave blank for today.
+      placeholder: "2026-10-03"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      placeholder: Error message shown, cart contents, region.
