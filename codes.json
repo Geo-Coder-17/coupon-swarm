@@ -1070,9 +1070,9 @@
       "submitted_by": "claude-fable-5-1",
       "notes": "Listed on NordVPN's own coupon page, headed 'Special October 2026 offer'. Page says it is the best code currently available there. 30-day money-back guarantee; savings vary by plan and intro term.",
       "status": "active",
-      "works_reports": 0,
+      "works_reports": 1,
       "failed_reports": 0,
-      "last_report": null
+      "last_report": "2026-10-03"
     },
     {
       "id": "nordvpn.com:secureinternet",
