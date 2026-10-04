@@ -1,0 +1,515 @@
+{
+  "checked_on": "2026-10-04",
+  "stores": [
+    {
+      "store": "airgreenland.gl",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://airgreenland.gl/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "akiki.gl",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": null,
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "apotekeren.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://apotekeren.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "atuagkat.gl",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": null,
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "aul.gl",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://aul.gl/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "av-cables.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://av-cables.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "babysam.dk",
+      "ships_to_gl": true,
+      "method": null,
+      "cost_note": "Extra delivery fee; price from customer service on request",
+      "customs_note": null,
+      "source_url": "https://babysam.dk/handelsbetingelser",
+      "quote": "Vi leverer til Færøerne, Grønland og andre EU-lande mod et ekstra leveringsgebyr.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "billigparfume.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://billigparfume.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "bog-ide.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://bog-ide.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "bolia.com",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://bolia.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "boozt.com",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://boozt.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "brugseni.gl",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://brugseni.gl/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "computersalg.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://computersalg.dk/handelsbetingelser",
+      "quote": "Priserne er dagspriser, og er kun gældende indenfor Danmarks grænser, ekskl. Færøerne og Grønland.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "coolshop.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://coolshop.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "elgiganten.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": null,
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "elgiganten.gl",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": null,
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "greatgreenland.com",
+      "ships_to_gl": true,
+      "method": "PostNord and Tusass by air",
+      "cost_note": null,
+      "customs_note": "Orders to Greenland and non-EU countries have VAT deducted at checkout",
+      "source_url": "https://greatgreenland.com/levering",
+      "quote": "Grønland: Forsendelse sker med PostNord og Tusass med fly.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "greenland-travel.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://greenland-travel.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "hhe.gl",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://hhe.gl/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "humac.dk",
+      "ships_to_gl": false,
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://humac.dk/handelsbetingelser",
+      "quote": "Humac leverer udelukkende inden for Danmarks grænser og ikke til Færøerne eller Grønland.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "hummel.dk",
+      "ships_to_gl": false,
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://hummel.dk/handelsbetingelser",
+      "quote": "til levering i Danmark, dog ikke Grønland og Færøerne",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "ikea.com",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://ikea.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "imerco.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://imerco.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "intersport.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://intersport.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "inukdesign.com",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": null,
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "jysk.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://jysk.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "komplett.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://komplett.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "lego.com",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": null,
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "lomax.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://lomax.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "luksusbaby.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://luksusbaby.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "magasin.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://magasin.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "matas.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://matas.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "mytrendyphone.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://mytrendyphone.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "netbaby.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://netbaby.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "nicehair.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://nicehair.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "nordicnest.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://nordicnest.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "nuukcenter.gl",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://nuukcenter.gl/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "nuukcouture.com",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": null,
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "pilersuisoq.gl",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://pilersuisoq.gl/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "pisiffik.gl",
+      "ships_to_gl": true,
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://pisiffik.gl/",
+      "quote": "Forsendelse I hele Grønland",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "plusbog.dk",
+      "ships_to_gl": false,
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://www.plusbog.dk/",
+      "quote": "Vi leverer kun i Danmark og ikke til Grønland og Færøerne.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "power.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://power.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "proshop.dk",
+      "ships_to_gl": true,
+      "method": null,
+      "cost_note": null,
+      "customs_note": "Delivers VAT-free (momsfrit) to Greenland",
+      "source_url": "https://www.proshop.dk/Forsendelse-og-levering.htm",
+      "quote": "Ja, vi leverer momsfrit til både Grønland og Færøerne",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "qiviut.gl",
+      "ships_to_gl": "unclear",
+      "method": "Tele Post",
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://qiviut.gl/levering",
+      "quote": "Qiviut benytter Tele Post som fragtfirma.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "royalgreenland.com",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://royalgreenland.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "saxo.com",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://saxo.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "sportmaster.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://sportmaster.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "thansen.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://thansen.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "tusass.gl",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://tusass.gl/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "webapoteket.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://webapoteket.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "zalando.dk",
+      "ships_to_gl": "unclear",
+      "method": null,
+      "cost_note": null,
+      "customs_note": null,
+      "source_url": "https://zalando.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    }
+  ]
+}

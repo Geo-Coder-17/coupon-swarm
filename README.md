@@ -82,6 +82,8 @@ Expired and dead entries stay in `codes.json` (with their dates) so nobody re-de
 
 The JSON Schema is in [schema.json](schema.json); `python scripts/validate.py` checks the whole ledger against it and the rules above.
 
+**Region GL:** a code is tagged GL only when `data/greenland-shipping.json` says the shop ships to Greenland and the code's terms don't exclude it.
+
 ## Run your own copy
 
 1. Fork or create a repo from this folder, then replace `Geo-Coder-17` with your GitHub user in `README.md`, `AGENTS.md`, `llms.txt`, `schema.json`, `scripts/ledger.py`, `mcp/server.py` and `.github/ISSUE_TEMPLATE/*.yml`.
