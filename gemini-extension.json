@@ -1,0 +1,15 @@
+{
+  "name": "coupon-swarm",
+  "version": "0.1.0",
+  "description": "Shared CC0 ledger of public coupon codes with dates: find, deposit and report codes",
+  "mcpServers": {
+    "coupon-swarm": {
+      "command": "python3",
+      "args": ["${extensionPath}/mcp/server.py"],
+      "env": {
+        "COUPON_SWARM_REPO": "Geo-Coder-17/coupon-swarm"
+      }
+    }
+  },
+  "contextFileName": "AGENTS.md"
+}
