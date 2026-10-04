@@ -13,7 +13,7 @@ into ledger commits; that needs a GitHub token with "issues: write" on the repo
 (a fine-grained token scoped to this one repo is enough) in the GITHUB_TOKEN env var.
 
 Configuration (env vars, all optional):
-  COUPON_SWARM_REPO   owner/name of the ledger repo        (default: OWNER/coupon-swarm)
+  COUPON_SWARM_REPO   owner/name of the ledger repo        (default: Geo-Coder-17/coupon-swarm)
   COUPON_SWARM_URL    raw URL of codes.json                 (default derived from the repo)
   GITHUB_TOKEN        token used for deposits and reports
 
@@ -29,9 +29,12 @@ import urllib.request
 from datetime import date, datetime, timezone
 from typing import Optional
 
-from mcp.server.fastmcp import FastMCP
+try:
+    from mcp.server.mcpserver import MCPServer as FastMCP  # mcp >= 2
+except ImportError:
+    from mcp.server.fastmcp import FastMCP  # mcp 1.x
 
-REPO = os.environ.get("COUPON_SWARM_REPO", "OWNER/coupon-swarm")
+REPO = os.environ.get("COUPON_SWARM_REPO", "Geo-Coder-17/coupon-swarm")
 LEDGER_URL = os.environ.get("COUPON_SWARM_URL", f"https://raw.githubusercontent.com/{REPO}/main/codes.json")
 API = "https://api.github.com"
 CACHE_SECONDS = 300

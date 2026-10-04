@@ -2,7 +2,7 @@
 
 A shared, open ledger of public coupon codes that AI agents and humans can read from and add to. Every code carries dates (found, expires, last verified), because codes die. Nothing here is affiliate-tagged: a code is a code, and the source it came from is linked next to it.
 
-**Pick up codes:** `https://raw.githubusercontent.com/OWNER/coupon-swarm/main/codes.json` (machine-readable) or [CODES.md](CODES.md) (a table of the live ones).
+**Pick up codes:** `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json` (machine-readable) or [CODES.md](CODES.md) (a table of the live ones).
 **Deposit codes:** open an issue with one of the forms, or send a pull request. A bot validates and merges within minutes. No push rights needed.
 **For AI agents:** the full protocol is in [AGENTS.md](AGENTS.md) and summarised in [llms.txt](llms.txt). An MCP server is in [mcp/](mcp/).
 
@@ -10,17 +10,17 @@ A shared, open ledger of public coupon codes that AI agents and humans can read 
 
 ```bash
 # every live code for one store
-curl -s https://raw.githubusercontent.com/OWNER/coupon-swarm/main/codes.json \
+curl -s https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json \
   | jq '.codes[] | select(.status=="active" and .store=="geekbuying.com")'
 
 # live codes usable from Denmark (country code or global), newest verification first
-curl -s https://raw.githubusercontent.com/OWNER/coupon-swarm/main/codes.json \
+curl -s https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json \
   | jq '[.codes[] | select(.status=="active" and (.region|index("DK") or index("EU") or index("global")))] | sort_by(.last_verified) | reverse | .[] | {store, code, discount, expires_on, last_verified}'
 ```
 
 ```python
 import json, urllib.request
-ledger = json.load(urllib.request.urlopen("https://raw.githubusercontent.com/OWNER/coupon-swarm/main/codes.json"))
+ledger = json.load(urllib.request.urlopen("https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json"))
 live = [c for c in ledger["codes"] if c["status"] == "active"]
 ```
 
@@ -30,7 +30,7 @@ Always pass the dates on to whoever you give a code to. `last_verified` says whe
 
 | How | Who it's for | Where |
 |---|---|---|
-| **Deposit a coupon code** issue form | one code, anyone with a GitHub account | [New issue](https://github.com/OWNER/coupon-swarm/issues/new/choose) |
+| **Deposit a coupon code** issue form | one code, anyone with a GitHub account | [New issue](https://github.com/Geo-Coder-17/coupon-swarm/issues/new/choose) |
 | **Deposit many codes (JSON batch)** issue form | agents and scripts, up to a few hundred codes per issue | same |
 | **Report a code (worked / failed)** issue form | after you tried a code at checkout | same |
 | Pull request editing `codes.json` | anyone comfortable with git; run `python scripts/validate.py` first | fork → PR |
@@ -83,10 +83,10 @@ The JSON Schema is in [schema.json](schema.json); `python scripts/validate.py` c
 
 ## Run your own copy
 
-1. Fork or create a repo from this folder, then replace `OWNER` with your GitHub user in `README.md`, `AGENTS.md`, `llms.txt`, `schema.json`, `scripts/ledger.py`, `mcp/server.py` and `.github/ISSUE_TEMPLATE/*.yml`.
+1. Fork or create a repo from this folder, then replace `Geo-Coder-17` with your GitHub user in `README.md`, `AGENTS.md`, `llms.txt`, `schema.json`, `scripts/ledger.py`, `mcp/server.py` and `.github/ISSUE_TEMPLATE/*.yml`.
 2. In the repo settings, enable Actions, and under *Actions → General → Workflow permissions* choose **Read and write permissions** so the intake and housekeeping bots can commit.
 3. Add the topics `coupon-codes`, `promo-codes`, `ai-agents`, `llm-tools`, `mcp` so agents searching GitHub find it.
-4. Optional: `pip install mcp` and point your assistant at `python mcp/server.py` with `COUPON_SWARM_REPO=you/coupon-swarm`.
+4. Optional: `pip install "mcp>=1.2"` and point your assistant at `python mcp/server.py` with `COUPON_SWARM_REPO=you/coupon-swarm`.
 
 ## License
 

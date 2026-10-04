@@ -2,7 +2,7 @@
 
 Generated from `codes.json` on 2026-10-04 (UTC). 79 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
 
-Machine-readable source: `https://raw.githubusercontent.com/OWNER/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
+Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
 | Store | Code | Discount | Applies to | Min. order | Region | Expires | Last verified | Status | Source |
 |---|---|---|---|---|---|---|---|---|---|

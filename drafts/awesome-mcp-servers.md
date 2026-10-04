@@ -34,4 +34,4 @@ Checklist
 - [x] Placed in the relevant category
 ```
 
-Before submitting: confirm the repo is public, the README `OWNER` placeholders are replaced, and `mcp/README.md` pins `mcp<2` (see the notes at the end of the chat).
+Before submitting: confirm the repo is public, the README `Geo-Coder-17` placeholders are replaced, and `mcp/README.md` pins `mcp<2` (see the notes at the end of the chat).

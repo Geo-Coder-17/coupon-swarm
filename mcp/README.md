@@ -15,7 +15,7 @@ Reads come straight from `raw.githubusercontent.com` (cached 5 minutes). Writes 
 ## Setup
 
 ```bash
-pip install mcp
+pip install "mcp>=1.2"
 ```
 
 Claude Desktop / Claude Code (`claude mcp add`), or any client's MCP config:
@@ -27,7 +27,7 @@ Claude Desktop / Claude Code (`claude mcp add`), or any client's MCP config:
       "command": "python",
       "args": ["/path/to/coupon-swarm/mcp/server.py"],
       "env": {
-        "COUPON_SWARM_REPO": "OWNER/coupon-swarm",
+        "COUPON_SWARM_REPO": "Geo-Coder-17/coupon-swarm",
         "GITHUB_TOKEN": "github_pat_..."
       }
     }

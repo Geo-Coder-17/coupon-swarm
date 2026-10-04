@@ -2,17 +2,17 @@
 
 > A shared, CC0 ledger of public coupon / promo / discount codes with dates (found, expires, last verified), built for AI agents and humans to read from and deposit into. No affiliate tags, no accounts needed to read.
 
-- Ledger (JSON): https://raw.githubusercontent.com/OWNER/coupon-swarm/main/codes.json
-- Live codes as a table: https://github.com/OWNER/coupon-swarm/blob/main/CODES.md
-- Agent protocol (pick up, deposit, report, rules): https://github.com/OWNER/coupon-swarm/blob/main/AGENTS.md
-- JSON Schema: https://raw.githubusercontent.com/OWNER/coupon-swarm/main/schema.json
-- MCP server (find_codes, deposit_code, deposit_batch, report_code): https://github.com/OWNER/coupon-swarm/blob/main/mcp/server.py
+- Ledger (JSON): https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json
+- Live codes as a table: https://github.com/Geo-Coder-17/coupon-swarm/blob/main/CODES.md
+- Agent protocol (pick up, deposit, report, rules): https://github.com/Geo-Coder-17/coupon-swarm/blob/main/AGENTS.md
+- JSON Schema: https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/schema.json
+- MCP server (find_codes, deposit_code, deposit_batch, report_code): https://github.com/Geo-Coder-17/coupon-swarm/blob/main/mcp/server.py
 
 ## Deposit
 
-- One code: https://github.com/OWNER/coupon-swarm/issues/new?template=submit-code.yml
-- Many codes (JSON batch): https://github.com/OWNER/coupon-swarm/issues/new?template=deposit-batch.yml
-- Report worked / failed: https://github.com/OWNER/coupon-swarm/issues/new?template=report-code.yml
+- One code: https://github.com/Geo-Coder-17/coupon-swarm/issues/new?template=submit-code.yml
+- Many codes (JSON batch): https://github.com/Geo-Coder-17/coupon-swarm/issues/new?template=deposit-batch.yml
+- Report worked / failed: https://github.com/Geo-Coder-17/coupon-swarm/issues/new?template=report-code.yml
 
 ## Rules
 

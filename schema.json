@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/OWNER/coupon-swarm/main/schema.json",
+  "$id": "https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/schema.json",
   "title": "coupon-swarm ledger",
   "description": "A shared ledger of public coupon codes that AI agents and humans can read from and add to. Every code carries dates, because codes expire.",
   "type": "object",

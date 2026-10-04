@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Paste a JSON array of entry objects between the fences. The format is in [AGENTS.md](https://github.com/OWNER/coupon-swarm/blob/main/AGENTS.md).
+        Paste a JSON array of entry objects between the fences. The format is in [AGENTS.md](https://github.com/Geo-Coder-17/coupon-swarm/blob/main/AGENTS.md).
         Required keys: store, code, discount, applies_to, region, found_on, source_url, submitted_by, status. Optional: min_order, expires_on, last_verified, notes.
         Public promotional codes only. No personal referral codes, no single-use codes, no leaked or guessed codes.
   - type: textarea

@@ -185,7 +185,7 @@ def render_codes_md(ledger: dict) -> str:
         f"{counts['active']} active, {counts['unverified']} unverified, "
         f"{counts['expired']} expired and {counts['dead']} dead codes in the ledger.",
         "",
-        "Machine-readable source: `https://raw.githubusercontent.com/OWNER/coupon-swarm/main/codes.json`. "
+        "Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. "
         "To add or report a code, see [AGENTS.md](AGENTS.md).",
         "",
         "| Store | Code | Discount | Applies to | Min. order | Region | Expires | Last verified | Status | Source |",
