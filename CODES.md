@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-04 (UTC). 69 active, 8 unverified, 0 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-04 (UTC). 79 active, 8 unverified, 0 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/OWNER/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -17,10 +17,13 @@ Machine-readable source: `https://raw.githubusercontent.com/OWNER/coupon-swarm/m
 | banggood.com | `BG504437` | Coupon price $239.99 (about EUR 211), list price $299.99 | AOOSTAR AG03 eGPU dock (800W PSU, OCuLink + 2x TB5), shipped from Banggood's Czech (EU) warehouse | - | EU | - | 2026-10-03 | active | [source](https://blog.banggood.com/banggood-deals-september-2026-76620.html) |
 | banggood.com | `BGdc3edc` | Coupon price $73.99 (about EUR 63.92) | GameSir G7 Pro Xbox-certified tri-mode wireless controller, EU stock (Czech warehouse) | - | EU | - | 2026-10-03 | active | [source](https://blog.banggood.com/banggood-deals-september-2026-76620.html) |
 | baseus.com | `RD1` | $110 off ($299.99 to $189.99) | Baseus Spacemate RD1 Pro 15-in-1 docking station | - | US | - | 2026-10-03 | active | [source](https://www.baseus.com/products/spacemate-rd1-pro-15-in-1-win-docking-station) |
+| bergfreunde.dk | `OCTOBER10` | 10% off | Almost everything | - | DK | 2026-10-05 | 2026-10-04 | active | [source](https://www.bergfreunde.dk/black-weekend/) |
+| dell.com | `PROMO20` | 20% off | Dell monitors and accessories when purchased together with a PC | - | DK | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-dk/lp/promo) |
 | dynadot.com | `899COM` | $8.99 first-year .com registration | New .COM domain registrations, first year only | - | global | - | 2026-10-03 | active | [source](https://www.dynadot.com/899com) |
 | edx.org | `SUCCESS2026` | 15% off | Select verified courses, Professional Certificates, MicroBachelors and MicroMasters programs on edX.org; not degree programs or executive education | - | global | 2026-10-21 | 2026-10-03 | active | [source](https://www.edx.org/courses-and-programs-promo) |
 | ellos.dk | `3010` | 30% off the most expensive item + 10% off the rest of the order | Orders of 2+ items at regular price, incl. furniture; not electronics/electrical goods, training equipment or items marked 'Rabatkode gælder ikke'; not combinable with other offers or sale items. | - | DK | 2026-10-06 | 2026-10-03 | active | [source](https://www.ellos.dk/) |
 | en.akkogear.com | `OCT15` | 15% off | Sitewide on Akko's global store (keyboards, keycaps, switches, mice) | - | global | - | 2026-10-03 | active | [source](https://en.akkogear.com/) |
+| engwe.com | `NEWENGWE` | 2% off | All e-bikes at checkout for new customers | - | EU | - | 2026-10-04 | active | [source](https://www.engwe.com/blogs/news) |
 | eu.baseus.com | `AM7120` | EUR 20 off (EUR 69.99 to EUR 49.99) | Baseus PicoGo Air AM71 5000mAh 22.5W magnetic power bank (Black, Silver, Dark Cherry) | - | EU | - | 2026-10-03 | active | [source](https://eu.baseus.com/products/picogo-air-am71-3c-magnetic-power-bank-5000mah-22-5w) |
 | eu.qidi3d.com | `30FOR500` | EUR 30 off | QIDI EU store Halloween Sale, all products, orders of EUR 500 or more | EUR 500 | EU | 2026-10-31 | 2026-10-03 | active | [source](https://eu.qidi3d.com/pages/halloween-sale) |
 | eu.ugreen.com | `DL25095` | 38% off (EUR 96.99 to EUR 59.99) | UGREEN Nexode Pro 160W 4-port GaN mini fast charger | - | EU | - | 2026-10-03 | active | [source](https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger) |
@@ -40,6 +43,8 @@ Machine-readable source: `https://raw.githubusercontent.com/OWNER/coupon-swarm/m
 | geekbuying.com | `PLSTOCK2` | $8 off every $100 spent | Products shipped from Geekbuying's Poland (EU) warehouse, as listed on the EU Warehouse Sale promo page | $100 | EU | - | 2026-10-03 | active | [source](https://promotion.geekbuying.com/promotion/eu_warehouse_sale) |
 | geekompc.com | `GKAN100` | $100 off | GEEKOM A5 mini PC (AMD Ryzen 7 7730U) during the GEEKOM Anniversary Sale, US store | - | US | - | 2026-10-03 | active | [source](https://www.geekompc.com/geekom-anniversary-sale/) |
 | gmktec.com | `X5P39550` | $50 off | GMKtec EVO-X5 Pro mini PC, as an upgrade purchase by existing EVO-X2 or EVO-X3 owners | - | global | - | 2026-10-03 | active | [source](https://www.gmktec.com/blogs/news/gmktec-evo-x5-pro-officially-launched-192gb-of-memory-amd-ryzen%E2%84%A2-ai-max-pro-495-and-offline-320b-ai) |
+| holafly.com | `MONTHLYPLAN10` | 10% off | Holafly monthly subscription eSIM plans | - | global | - | 2026-10-04 | active | [source](https://esim.holafly.com/en/blog/holafly-esim-discount-code/) |
+| holafly.com | `MYESIMNOW5` | 5% off | Any eSIM destination in the Holafly shop | - | global | - | 2026-10-04 | active | [source](https://esim.holafly.com/en/blog/holafly-esim-discount-code/) |
 | homeofcarlsberg.com | `MOLSLINJEN2026` | 15% off | Entry tickets to Home of Carlsberg (Copenhagen) booked online; Kombardo Expressen passengers only - show your bus ticket at the entrance. Not combinable with other discounts. | - | DK | - | 2026-10-03 | active | [source](https://www.kombardoexpressen.dk/rabataftaler/home-of-carlsberg) |
 | hostinger.com | `COUPONSPAGE` | Up to 80% off web hosting (Premium 76% off at $2.84/mo, Unlimited 80% off at $3.79/mo, Cloud Startup 73% off at $7.59/mo) | Hostinger web hosting and cloud hosting plans, new sign-ups | - | global | - | 2026-10-03 | active | [source](https://www.hostinger.com/coupons) |
 | incogni.com | `INCOGNI_BLOG` | 55% off | Incogni annual plans (data-broker removal service) | - | global | - | 2026-10-03 | active | [source](https://blog.incogni.com/incogni-discount-code/) |
@@ -54,6 +59,8 @@ Machine-readable source: `https://raw.githubusercontent.com/OWNER/coupon-swarm/m
 | namecheap.com | `GHOSTDOT` | Discounted first-year domain registration and transfer (.com at $11.08 + $0.20 ICANN fee; transfer $11.28 + $0.20) | Domain registrations and transfers, first year only; not premium or aftermarket domains | - | global | 2026-10-31 | 2026-10-03 | active | [source](https://www.namecheap.com/promos/coupons/) |
 | namecheap.com | `GHOSTPE` | Up to 40% off Professional Business Email plans | Namecheap Professional Business Email, 1- and 2-year billing cycles (discount varies by plan and term) | - | global | 2026-10-31 | 2026-10-03 | active | [source](https://www.namecheap.com/promos/coupons/) |
 | namecheap.com | `GHOSTSSL` | Up to 21% off Standard Wildcard SSL certificates | Namecheap Standard Wildcard SSL, 1- to 5-year terms (discount varies by duration) | - | global | 2026-10-31 | 2026-10-03 | active | [source](https://www.namecheap.com/promos/coupons/) |
+| nomadesim.com | `BEYOND20` | 20% off | Nomad eSIM plans sitewide | - | global | - | 2026-10-04 | active | [source](https://www.nomadesim.com/) |
+| nomadesim.com | `FALL30` | 30% off | Purchase of 2 or more Nomad eSIMs | - | global | - | 2026-10-04 | active | [source](https://www.nomadesim.com/) |
 | nordpass.com | `gladyoufoundthis` | One additional month of NordPass Premium free | NordPass Premium 2-year plan | - | global | - | 2026-10-03 | active | [source](https://nordpass.com/coupon/) |
 | nordvpn.com | `cybersec` | 20-month plan at $4.49/mo instead of $12.49/mo (about 64% off the monthly rate) | NordVPN 20-month plan, new subscriptions | - | global | - | 2026-10-03 | active | [source](https://nordvpn.com/coupon/) |
 | nordvpn.com | `cybersec2y` | 68% off (2-year plan at $3.89/mo instead of $12.49/mo) | NordVPN 2-year plan, new subscriptions | - | global | - | 2026-10-03 | active | [source](https://nordvpn.com/coupon/) |
@@ -75,6 +82,9 @@ Machine-readable source: `https://raw.githubusercontent.com/OWNER/coupon-swarm/m
 | us.govee.com | `TV5C70` | $70 off | Govee Envisual TV Backlight T2 (55-65 inch and 75-85 inch variants) | - | US | 2026-10-06 | 2026-10-03 | active | [source](https://us.govee.com/products/govee-envisual-tv-backlight-t2) |
 | us.qidi3d.com | `30FOR500` | $30 off | QIDI US store Halloween Sale, all products, orders of $500 or more | $500 | US | 2026-10-31 | 2026-10-03 | active | [source](https://us.qidi3d.com/pages/halloween-sale) |
 | us.ugreen.com | `UL65855F` | 30% off | UGREEN 16-in-1 docking station | - | US | - | 2026-10-03 | active | [source](https://us.ugreen.com/products/ugreen-16-in-1-docking-station) |
+| vistaprint.dk | `PROMO` | 70-200 DKK off | Orders 400+ DKK | 400 DKK | DK | 2026-11-01 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
+| vistaprint.dk | `VISTA50` | Up to 50% off | Bestsellers for new customers | - | DK | 2027-01-30 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
+| vistaprint.dk | `VISTADEALS` | Up to 15% off | Select business products | - | DK | 2026-11-01 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
 | airalo.com | `NEWTOAIRALO15` | 15% off the first eSIM purchase | New Airalo accounts with no prior purchase, any eSIM plan; redeem in the app or on airalo.com at checkout | - | global | 2026-12-31 | - | unverified | [source](https://localsinsider.com/digital-life/esims/best-esim-promo-codes-discounts/) |
 | eu.elegoo.com | `IMGIGA5` | 5% off | Orders on the ELEGOO EU store (EUR) | - | EU | - | - | unverified | [source](https://www.dontpayfull.com/at/elegoo.com) |
 | spaceship.com | `COM67` | $3.80 first-year .com registration | New .com registration, first year; limit 1 per customer (create the account first) | - | global | - | - | unverified | [source](https://domainoffer.net/tld/com/spaceship) |

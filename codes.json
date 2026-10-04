@@ -235,6 +235,48 @@
       "last_report": null
     },
     {
+      "id": "bergfreunde.dk:OCTOBER10",
+      "store": "bergfreunde.dk",
+      "code": "OCTOBER10",
+      "discount": "10% off",
+      "applies_to": "Almost everything",
+      "min_order": null,
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-05",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.bergfreunde.dk/black-weekend/",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Does not apply to gift cards, GPS devices/accessories, or brands Patagonia, Arc'teryx, or Norrøna. Expires 2026-10-05 at 11:59 PM.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "dell.com:PROMO20",
+      "store": "dell.com",
+      "code": "PROMO20",
+      "discount": "20% off",
+      "applies_to": "Dell monitors and accessories when purchased together with a PC",
+      "min_order": null,
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.dell.com/en-dk/lp/promo",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Official Dell Denmark promotional page. Code applies to qualifying products at checkout. Can be combined with other selected offers but not with other coupon codes. Maximum 5 products per order. Also confirmed on Dell UK page (dell.com/en-uk/shop/promo).",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "dynadot.com:899COM",
       "store": "dynadot.com",
       "code": "899COM",
@@ -313,6 +355,27 @@
       "source_url": "https://en.akkogear.com/",
       "submitted_by": "claude-fable-5-1",
       "notes": "Header notice on the official store: 'Get 15% OFF Sitewide with Code OCT15', linking to the keyboard catalogue. No expiry or exclusions stated. Store prices in USD/EUR/GBP/CAD/AUD etc. Same banner warns of Golden Week shipping delays.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "engwe.com:NEWENGWE",
+      "store": "engwe.com",
+      "code": "NEWENGWE",
+      "discount": "2% off",
+      "applies_to": "All e-bikes at checkout for new customers",
+      "min_order": null,
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.engwe.com/blogs/news",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "New customer discount code advertised on ENGWE EU website. Code for new customers only.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -718,6 +781,48 @@
       "last_report": null
     },
     {
+      "id": "holafly.com:MONTHLYPLAN10",
+      "store": "holafly.com",
+      "code": "MONTHLYPLAN10",
+      "discount": "10% off",
+      "applies_to": "Holafly monthly subscription eSIM plans",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://esim.holafly.com/en/blog/holafly-esim-discount-code/",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Published on Holafly's official discount code blog article. Code is specifically for monthly subscription plans (30+ day travelers). Only one code per transaction.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "holafly.com:MYESIMNOW5",
+      "store": "holafly.com",
+      "code": "MYESIMNOW5",
+      "discount": "5% off",
+      "applies_to": "Any eSIM destination in the Holafly shop",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://esim.holafly.com/en/blog/holafly-esim-discount-code/",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Published on Holafly's official discount code blog article. Code can be entered at checkout. Only one promotional code per transaction. Article dated 2026.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "homeofcarlsberg.com:MOLSLINJEN2026",
       "store": "homeofcarlsberg.com",
       "code": "MOLSLINJEN2026",
@@ -1006,6 +1111,48 @@
       "source_url": "https://www.namecheap.com/promos/coupons/",
       "submitted_by": "claude-fable-5-1",
       "notes": "Official Namecheap monthly coupons page, 'Valid October 1 - October 31, 2026'. Same page lists GHOSTDOT (domains) and GHOSTPE (business email).",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "nomadesim.com:BEYOND20",
+      "store": "nomadesim.com",
+      "code": "BEYOND20",
+      "discount": "20% off",
+      "applies_to": "Nomad eSIM plans sitewide",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.nomadesim.com/",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Found on Nomad eSIM homepage banner. Code can be redeemed through the app or website account area. No expiry stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "nomadesim.com:FALL30",
+      "store": "nomadesim.com",
+      "code": "FALL30",
+      "discount": "30% off",
+      "applies_to": "Purchase of 2 or more Nomad eSIMs",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.nomadesim.com/",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Advertised on Nomad eSIM homepage. Multi-pack discount for purchasing 2 or more eSIMs in the same order. No expiry stated.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1447,6 +1594,69 @@
       "source_url": "https://us.ugreen.com/products/ugreen-16-in-1-docking-station",
       "submitted_by": "claude-fable-5-1",
       "notes": "Product page: 'Save 30% Code: UL65855F Time-Limited Discount'. US store only. Sibling codes seen today: UL55313 (45% off MagFlow Qi2 25W 2-in-1 foldable charger), UL95127 (36% off 160W retractable charger), UL95458 (20% off ClipBuds Pro 2), UL95405 (15% off 100W 4-port GaN charger).",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "vistaprint.dk:PROMO",
+      "store": "vistaprint.dk",
+      "code": "PROMO",
+      "discount": "70-200 DKK off",
+      "applies_to": "Orders 400+ DKK",
+      "min_order": "400 DKK",
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-11-01",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.vistaprint.dk/tilbud",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "70 DKK off 400+ DKK orders, 200 DKK off 800+ DKK orders. One code per order.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "vistaprint.dk:VISTA50",
+      "store": "vistaprint.dk",
+      "code": "VISTA50",
+      "discount": "Up to 50% off",
+      "applies_to": "Bestsellers for new customers",
+      "min_order": null,
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2027-01-30",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.vistaprint.dk/tilbud",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Listed as a code on the brand's offers page for new customers; one code per order.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "vistaprint.dk:VISTADEALS",
+      "store": "vistaprint.dk",
+      "code": "VISTADEALS",
+      "discount": "Up to 15% off",
+      "applies_to": "Select business products",
+      "min_order": null,
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-11-01",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.vistaprint.dk/tilbud",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Valid on selected products only. One code per order.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
