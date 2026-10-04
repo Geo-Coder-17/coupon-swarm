@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-04 (UTC). 88 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-04 (UTC). 104 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -21,7 +21,9 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | bergfreunde.dk | `OCTOBER10` | 10% off | Almost everything | - | DK | 2026-10-05 | 2026-10-04 | active | [source](https://www.bergfreunde.dk/black-weekend/) |
 | bluebridge.co.nz | `STUDENT` | 5% off | Bluebridge Cook Strait ferry fares (Wellington–Picton), students aged 16+ | - | global | - | 2026-10-04 | active | [source](https://www.bluebridge.co.nz/deals) |
 | cultbeauty.com | `FIRST15` | up to 15% off + £5 credit on second purchase | first order | £25 (€25 on the EU site) | GB, EU, NZ | - | 2026-10-04 | active | [source](https://www.cultbeauty.com/) |
-| dell.com | `PROMO20` | 20% off | Dell monitors and accessories when purchased together with a PC | - | DK | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-dk/lp/promo) |
+| cyberpowerpc.com | `GAMER2026` | 5% off | prebuilt: CyberPowerPC systems, orders of $999+ | $999 | US | - | 2026-10-04 | active | [source](https://www.cyberpowerpc.com/coupons) |
+| dell.com | `PROMO20` | 20% off | Dell monitors and accessories when purchased together with a PC | - | DK, BE, IT, CH, AT | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-dk/lp/promo) |
+| dell.com | `PROMO20IE` | 20% off | monitor: Dell monitors and accessories bought together with a PC (max. 5 items per order) | - | IE | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-ie/lp/promo) |
 | dynadot.com | `899COM` | $8.99 first-year .com registration | New .COM domain registrations, first year only | - | global | - | 2026-10-04 | active | [source](https://www.dynadot.com/899com) |
 | edx.org | `SUCCESS2026` | 15% off | Select verified courses, Professional Certificates, MicroBachelors and MicroMasters programs on edX.org; not degree programs or executive education | - | global | 2026-10-21 | 2026-10-04 | active | [source](https://www.edx.org/courses-and-programs-promo) |
 | ellos.dk | `3010` | 30% off the most expensive item + 10% off the rest of the order | Orders of 2+ items at regular price, incl. furniture; not electronics/electrical goods, training equipment or items marked 'Rabatkode gælder ikke'; not combinable with other offers or sale items. | - | DK | 2026-10-06 | 2026-10-04 | active | [source](https://www.ellos.dk/) |
@@ -31,11 +33,20 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | eu.baseus.com | `AM7120` | EUR 20 off (EUR 69.99 to EUR 49.99) | Baseus PicoGo Air AM71 5000mAh 22.5W magnetic power bank (Black, Silver, Dark Cherry) | - | EU | - | 2026-10-04 | active | [source](https://eu.baseus.com/products/picogo-air-am71-3c-magnetic-power-bank-5000mah-22-5w) |
 | eu.lookfantastic.com | `FIRST10` | 10% off | first order | - | EU | - | 2026-10-04 | active | [source](https://eu.lookfantastic.com/) |
 | eu.qidi3d.com | `30FOR500` | EUR 30 off | QIDI EU store Halloween Sale, all products, orders of EUR 500 or more | EUR 500 | EU | 2026-10-31 | 2026-10-04 | active | [source](https://eu.qidi3d.com/pages/halloween-sale) |
+| eu.ugreen.com | `DL15495` | 34% off | cables-accessories: UGREEN Revodok 105 USB C Hub 5 i 1 Multiport Adapter 4K HDMI on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
 | eu.ugreen.com | `DL25095` | 38% off (EUR 96.99 to EUR 59.99) | UGREEN Nexode Pro 160W 4-port GaN mini fast charger | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger) |
+| eu.ugreen.com | `DL25869` | 37% off | cables-accessories: UGREEN 9-i-1 Steam Deck Dockningsstation (4K@60Hz, PD 100W) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
 | eu.ugreen.com | `DL35038` | 39% off | UGREEN Nexode X 100W Mini GaN Charger (3-port USB-C) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
 | eu.ugreen.com | `DL35527` | 44% off | UGREEN Nexode Power Bank 20000mAh 145W on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
+| eu.ugreen.com | `DL35998` | 25% off | cables-accessories: UGREEN Uno 6-i-1 USB-C Hub on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
+| eu.ugreen.com | `DL45366` | 42% off | cables-accessories: UGREEN Revodok Pro 2102 10-i-1 USB-C dockingstation on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
 | eu.ugreen.com | `DL45699` | 35% off | UGREEN Nexode 300W GaN Wall USB-C Charger (5 ports) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports) |
+| eu.ugreen.com | `DL55766` | 34% off | cables-accessories: UGREEN Revodok Pro Dockingstation (11-porte, dobbelt 4K, 100W) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
+| eu.ugreen.com | `DL55767` | 40% off | cables-accessories: UGREEN Revodok Pro Dockingstation (12-porte, tredobbelt 4K, 100W) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
+| eu.ugreen.com | `DL60515` | 40% off | cables-accessories: UGREEN USB C 7-i-1 Hub med 4K 60Hz HDMI on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
 | eu.ugreen.com | `DL65487` | 30% off (EUR 99.99 to EUR 69.99) | UGREEN Mac mini M4 docking station (11-port, 8TB, 10Gbps) | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/mac-mini-m4-docking-station-11port-8tb-10gbps) |
+| eu.ugreen.com | `DL65488` | 35% off | cables-accessories: UGREEN Mac Mini M4 Dockningsstation (10-porte, 8K@120Hz, 8TB) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
+| eu.ugreen.com | `DL75126` | 38% off | cables-accessories: UGREEN Steam Deck Dockningsstation (6-i-1, 4K@120Hz, 100W, Gigabit Ethernet) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
 | eu.ugreen.com | `DL90912` | 40% off | UGREEN Revodok Pro 209 Dual Display 9-in-1 USB-C 4K docking station on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/copy-of-weekly-sale-product-9-in-1-usb-c-docking-station) |
 | fjellsport.no | `TUR25` | 25% off | your next purchase; minimum 2 items at regular price | 2 items at regular price | NO, SJ | 2026-10-12 | 2026-10-04 | active | [source](https://fjellsport.no/kampanjer/rabattkoder) |
 | footlocker.co.nz | `FINALS` | $100 off | Orders $500 or more | $500 | NZ | - | 2026-10-04 | active | [source](https://www.footlocker.co.nz/) |
@@ -62,10 +73,15 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | jotex.dk | `424965` | 20% off | Whole order when buying for over 2000 DKK (new orders); not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic. | 2000 DKK | DK | 2026-10-04 | 2026-10-04 | active | [source](https://www.jotex.dk/) |
 | jotex.dk | `BLACKOUT20` | 20% off | Blackout curtains (mørklægningsgardiner category), 2 or more items at regular price, new orders; not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic. | - | DK | 2026-10-04 | 2026-10-04 | active | [source](https://www.jotex.dk/) |
 | jotex.dk | `STORAGE20` | 20% off | Storage furniture (opbevaring category, jotex.dk/mobler/opbevaring). | - | DK | - | 2026-10-04 | active | [source](https://www.jotex.dk/) |
+| lamzu.com | `ENVY` | 5% off | mouse: LAMZU x ENVY collaboration (store banner; sitewide scope not stated) | - | global | - | 2026-10-04 | active | [source](https://lamzu.com/products) |
 | lyko.com | `20uniqone` | 20% off | All Uniq One hair-care products on lyko.com/da (Danish site). One code per purchase. | - | DK | - | 2026-10-04 | active | [source](https://lyko.com/da/deals-kup/kampagne/rabatkoder-til-lyko) |
 | namecheap.com | `GHOSTDOT` | Discounted first-year domain registration and transfer (.com at $11.08 + $0.20 ICANN fee; transfer $11.28 + $0.20) | Domain registrations and transfers, first year only; not premium or aftermarket domains | - | global | 2026-10-31 | 2026-10-03 | active | [source](https://www.namecheap.com/promos/coupons/) |
 | namecheap.com | `GHOSTPE` | Up to 40% off Professional Business Email plans | Namecheap Professional Business Email, 1- and 2-year billing cycles (discount varies by plan and term) | - | global | 2026-10-31 | 2026-10-03 | active | [source](https://www.namecheap.com/promos/coupons/) |
 | namecheap.com | `GHOSTSSL` | Up to 21% off Standard Wildcard SSL certificates | Namecheap Standard Wildcard SSL, 1- to 5-year terms (discount varies by duration) | - | global | 2026-10-31 | 2026-10-03 | active | [source](https://www.namecheap.com/promos/coupons/) |
+| newegg.com | `SSF73863` | $20 off | case: Rosewill FBM-X6 Black Micro ATX mid tower case with pre-installed 650W 80+ Gold PSU | - | US | - | 2026-10-04 | active | [source](https://www.newegg.com/deals) |
+| newegg.com | `SSF73865` | $15 off | cpu: AMD Ryzen 5 5600X (AM4, 6-core, 100-100000065BOX) | - | US | - | 2026-10-04 | active | [source](https://www.newegg.com/deals) |
+| newegg.com | `SSF73935` | $16 off | cables-accessories: Rosewill dual monitor mount (15-32 inch, VESA 75/100) | - | US | - | 2026-10-04 | active | [source](https://www.newegg.com/deals) |
+| newegg.com | `TEF992` | $5 off | mouse: Redragon M612 Predator RGB gaming mouse | - | US | - | 2026-10-04 | active | [source](https://www.newegg.com/deals) |
 | nomadesim.com | `BEYOND20` | 20% off | Nomad eSIM plans sitewide | - | global | - | 2026-10-04 | active | [source](https://www.nomadesim.com/) |
 | nomadesim.com | `FALL30` | 30% off | Purchase of 2 or more Nomad eSIMs | - | global | - | 2026-10-04 | active | [source](https://www.nomadesim.com/) |
 | nordpass.com | `gladyoufoundthis` | One additional month of NordPass Premium free | NordPass Premium 2-year plan | - | global | - | 2026-10-03 | active | [source](https://nordpass.com/coupon/) |

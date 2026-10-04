@@ -321,6 +321,27 @@
       "last_report": null
     },
     {
+      "id": "cyberpowerpc.com:GAMER2026",
+      "store": "cyberpowerpc.com",
+      "code": "GAMER2026",
+      "discount": "5% off",
+      "applies_to": "prebuilt: CyberPowerPC systems, orders of $999+",
+      "min_order": "$999",
+      "region": [
+        "US"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.cyberpowerpc.com/coupons",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: CyberPowerPC coupons page (read 2026-10-04): \"5% Instant Off orders of $999+ with coupon code \"GAMER2026\" at checkout.\" Prices in USD; delivery area not stated on the pages read (Affirm financing mentioned for US customers), so region is US only. No end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "dell.com:PROMO20",
       "store": "dell.com",
       "code": "PROMO20",
@@ -328,14 +349,39 @@
       "applies_to": "Dell monitors and accessories when purchased together with a PC",
       "min_order": null,
       "region": [
-        "DK"
+        "DK",
+        "BE",
+        "IT",
+        "CH",
+        "AT"
       ],
       "found_on": "2026-10-04",
       "expires_on": "2026-10-31",
       "last_verified": "2026-10-04",
       "source_url": "https://www.dell.com/en-dk/lp/promo",
       "submitted_by": "claude-haiku-4-5",
-      "notes": "Official Dell Denmark promotional page. Code applies to qualifying products at checkout. Can be combined with other selected offers but not with other coupon codes. Maximum 5 products per order. Also confirmed on Dell UK page (dell.com/en-uk/shop/promo).",
+      "notes": "Official Dell Denmark promotional page. Code applies to qualifying products at checkout. Can be combined with other selected offers but not with other coupon codes. Maximum 5 products per order. Also confirmed on Dell UK page (dell.com/en-uk/shop/promo). | Also shown with the same 20% monitors+accessories offer and \"31/10/2026\" end date on the dell.com BE (fr-be), IT (it-it), CH (de-ch) and AT (de-at) promo pages (read 2026-10-04). UK and DE pages state 30 Oct 2026, and the Norwegian locale pages return the Danish page, so GB, DE and NO are not tagged.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "dell.com:PROMO20IE",
+      "store": "dell.com",
+      "code": "PROMO20IE",
+      "discount": "20% off",
+      "applies_to": "monitor: Dell monitors and accessories bought together with a PC (max. 5 items per order)",
+      "min_order": null,
+      "region": [
+        "IE"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.dell.com/en-ie/lp/promo",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: dell.com/en-ie promo page (read 2026-10-04): \"Save 20% on monitors and accessories purchased with a PC use code PROMO20IE. Discount not available when monitors and accessories are purchased separately. Offer cannot be combined with other coupons unless otherwise stated. Offer limited to 5 monitors or accessories per order. Offer ends 31/10/2026\". Ireland storefront code (other Dell storefronts use PROMO20).",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -531,6 +577,27 @@
       "last_report": null
     },
     {
+      "id": "eu.ugreen.com:DL15495",
+      "store": "eu.ugreen.com",
+      "code": "DL15495",
+      "discount": "34% off",
+      "applies_to": "cables-accessories: UGREEN Revodok 105 USB C Hub 5 i 1 Multiport Adapter 4K HDMI on the UGREEN EU store",
+      "min_order": null,
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://eu.ugreen.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: eu.ugreen.com homepage (read 2026-10-04, Autumn Sale): \"34 % OFF UGREEN Revodok 105 USB C Hub 5 i 1 Multiport Adapter 4K HDMI Kode: DL15495\" (price €16,99, was €25,99). Product-specific code; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "eu.ugreen.com:DL25095",
       "store": "eu.ugreen.com",
       "code": "DL25095",
@@ -546,6 +613,27 @@
       "source_url": "https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger",
       "submitted_by": "claude-fable-5-1",
       "notes": "Product page: 'Save 38% Code: DL25095 Limited Time Offer'. Other homepage codes today: DL35525 (38% off Nexode 25000mAh 200W power bank), DL55960 (40% off MagFlow 2-in-1 Qi2 charger), DL85590F (Maxidok 17-in-1 TB5 dock to EUR 380), DL15203 (28% off Nexode Pro 100W). Upsell banner code AIR-2nd-20%off gives 20% off a second Nexode/MagFlow Air item, not combinable with other order discounts.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "eu.ugreen.com:DL25869",
+      "store": "eu.ugreen.com",
+      "code": "DL25869",
+      "discount": "37% off",
+      "applies_to": "cables-accessories: UGREEN 9-i-1 Steam Deck Dockningsstation (4K@60Hz, PD 100W) on the UGREEN EU store",
+      "min_order": null,
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://eu.ugreen.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: eu.ugreen.com homepage (read 2026-10-04, Autumn Sale): \"37 % OFF UGREEN 9-i-1 Steam Deck Dockningsstation (4K@60Hz, PD 100W) Kode: DL25869\" (price €49,99, was €79,99). Product-specific code; no end date stated.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -594,6 +682,48 @@
       "last_report": null
     },
     {
+      "id": "eu.ugreen.com:DL35998",
+      "store": "eu.ugreen.com",
+      "code": "DL35998",
+      "discount": "25% off",
+      "applies_to": "cables-accessories: UGREEN Uno 6-i-1 USB-C Hub on the UGREEN EU store",
+      "min_order": null,
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://eu.ugreen.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: eu.ugreen.com homepage (read 2026-10-04, Autumn Sale): \"25 % OFF UGREEN Uno 6-i-1 USB-C Hub Kode: DL35998\" (price €29,99, was €39,99). Product-specific code; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "eu.ugreen.com:DL45366",
+      "store": "eu.ugreen.com",
+      "code": "DL45366",
+      "discount": "42% off",
+      "applies_to": "cables-accessories: UGREEN Revodok Pro 2102 10-i-1 USB-C dockingstation on the UGREEN EU store",
+      "min_order": null,
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://eu.ugreen.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: eu.ugreen.com homepage (read 2026-10-04, Autumn Sale): \"42 % OFF UGREEN Revodok Pro 2102 10-i-1 USB-C dockingstation Kode: DL45366\" (price €39,99, was €69,99). Product-specific code; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "eu.ugreen.com:DL45699",
       "store": "eu.ugreen.com",
       "code": "DL45699",
@@ -615,6 +745,69 @@
       "last_report": null
     },
     {
+      "id": "eu.ugreen.com:DL55766",
+      "store": "eu.ugreen.com",
+      "code": "DL55766",
+      "discount": "34% off",
+      "applies_to": "cables-accessories: UGREEN Revodok Pro Dockingstation (11-porte, dobbelt 4K, 100W) on the UGREEN EU store",
+      "min_order": null,
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://eu.ugreen.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: eu.ugreen.com homepage (read 2026-10-04, Autumn Sale): \"34 % OFF UGREEN Revodok Pro Dockingstation (11-porte, dobbelt 4K, 100W) Kode: DL55766\" (price €45,99, was €69,99). Product-specific code; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "eu.ugreen.com:DL55767",
+      "store": "eu.ugreen.com",
+      "code": "DL55767",
+      "discount": "40% off",
+      "applies_to": "cables-accessories: UGREEN Revodok Pro Dockingstation (12-porte, tredobbelt 4K, 100W) on the UGREEN EU store",
+      "min_order": null,
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://eu.ugreen.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: eu.ugreen.com homepage (read 2026-10-04, Autumn Sale): \"40 % OFF UGREEN Revodok Pro Dockingstation (12-porte, tredobbelt 4K, 100W) Kode: DL55767\" (price €47,99, was €79,99). Product-specific code; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "eu.ugreen.com:DL60515",
+      "store": "eu.ugreen.com",
+      "code": "DL60515",
+      "discount": "40% off",
+      "applies_to": "cables-accessories: UGREEN USB C 7-i-1 Hub med 4K 60Hz HDMI on the UGREEN EU store",
+      "min_order": null,
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://eu.ugreen.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: eu.ugreen.com homepage (read 2026-10-04, Autumn Sale): \"40 % OFF UGREEN USB C 7-i-1 Hub med 4K 60Hz HDMI Kode: DL60515\" (price €29,99, was €49,99). Product-specific code; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "eu.ugreen.com:DL65487",
       "store": "eu.ugreen.com",
       "code": "DL65487",
@@ -630,6 +823,48 @@
       "source_url": "https://eu.ugreen.com/products/mac-mini-m4-docking-station-11port-8tb-10gbps",
       "submitted_by": "claude-fable-5-1",
       "notes": "Product page: 'Save 30% Code: DL65487 Limited Time Offer'. No end date shown.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "eu.ugreen.com:DL65488",
+      "store": "eu.ugreen.com",
+      "code": "DL65488",
+      "discount": "35% off",
+      "applies_to": "cables-accessories: UGREEN Mac Mini M4 Dockningsstation (10-porte, 8K@120Hz, 8TB) on the UGREEN EU store",
+      "min_order": null,
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://eu.ugreen.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: eu.ugreen.com homepage (read 2026-10-04, Autumn Sale): \"35 % OFF UGREEN Mac Mini M4 Dockningsstation (10-porte, 8K@120Hz, 8TB) Kode: DL65488\" (price €64,99, was €99,99). Product-specific code; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "eu.ugreen.com:DL75126",
+      "store": "eu.ugreen.com",
+      "code": "DL75126",
+      "discount": "38% off",
+      "applies_to": "cables-accessories: UGREEN Steam Deck Dockningsstation (6-i-1, 4K@120Hz, 100W, Gigabit Ethernet) on the UGREEN EU store",
+      "min_order": null,
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://eu.ugreen.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: eu.ugreen.com homepage (read 2026-10-04, Autumn Sale): \"38 % OFF UGREEN Steam Deck Dockningsstation (6-i-1, 4K@120Hz, 100W, Gigabit Ethernet) Kode: DL75126\" (price €42,99, was €69,99). Product-specific code; no end date stated.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1183,6 +1418,27 @@
       "last_report": null
     },
     {
+      "id": "lamzu.com:ENVY",
+      "store": "lamzu.com",
+      "code": "ENVY",
+      "discount": "5% off",
+      "applies_to": "mouse: LAMZU x ENVY collaboration (store banner; sitewide scope not stated)",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://lamzu.com/products",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: Store banner (read 2026-10-04): \"LAMZU X ENVY——Code ENVY Get 5% OFF\". Delivery area is not stated on the pages read; the banner notes VAT, taxes and import duties are not included and Brazil customers pay VAT at customs, so the store ships internationally. No end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "lyko.com:20uniqone",
       "store": "lyko.com",
       "code": "20uniqone",
@@ -1261,6 +1517,90 @@
       "source_url": "https://www.namecheap.com/promos/coupons/",
       "submitted_by": "claude-fable-5-1",
       "notes": "Official Namecheap monthly coupons page, 'Valid October 1 - October 31, 2026'. Same page lists GHOSTDOT (domains) and GHOSTPE (business email).",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "newegg.com:SSF73863",
+      "store": "newegg.com",
+      "code": "SSF73863",
+      "discount": "$20 off",
+      "applies_to": "case: Rosewill FBM-X6 Black Micro ATX mid tower case with pre-installed 650W 80+ Gold PSU",
+      "min_order": null,
+      "region": [
+        "US"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.newegg.com/deals",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: Newegg product-specific code shown on the page (read 2026-10-04): \"Rosewill FBM-X6 Black Micro ATX Mid Tower Case ... Pre-Installed 650W 80+ Gold Power Supply + $20 off w/ promo code SSF73863, limited offer\". Applies to that listing only; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "newegg.com:SSF73865",
+      "store": "newegg.com",
+      "code": "SSF73865",
+      "discount": "$15 off",
+      "applies_to": "cpu: AMD Ryzen 5 5600X (AM4, 6-core, 100-100000065BOX)",
+      "min_order": null,
+      "region": [
+        "US"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.newegg.com/deals",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: Newegg product-specific code shown on the page (read 2026-10-04): \"AMD Ryzen 5 5600X - Ryzen 5 5000 Series 6-Core 3.7 GHz Socket AM4 65W None Integrated Graphics Desktop CPU Processor - 100-100000065BOX + $15 off w/ promo code SSF73865, limited offer\". Applies to that listing only; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "newegg.com:SSF73935",
+      "store": "newegg.com",
+      "code": "SSF73935",
+      "discount": "$16 off",
+      "applies_to": "cables-accessories: Rosewill dual monitor mount (15-32 inch, VESA 75/100)",
+      "min_order": null,
+      "region": [
+        "US"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.newegg.com/deals",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: Newegg product-specific code shown on the page (read 2026-10-04): \"Rosewill Dual Monitor Mount, 15 -32 Inch Monitor Mount 2 Monitors + $16 off w/ promo code SSF73935, limited offer\". Applies to that listing only; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "newegg.com:TEF992",
+      "store": "newegg.com",
+      "code": "TEF992",
+      "discount": "$5 off",
+      "applies_to": "mouse: Redragon M612 Predator RGB gaming mouse",
+      "min_order": null,
+      "region": [
+        "US"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.newegg.com/deals",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: Newegg product-specific code shown on the page (read 2026-10-04): \"Redragon M612 Predator RGB Gaming Mouse, 8000 DPI Wired Optical Gamer Mouse + $5 off w/ promo code TEF992, limited offer\". Applies to that listing only; no end date stated.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
