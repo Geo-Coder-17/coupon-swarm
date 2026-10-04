@@ -60,6 +60,10 @@ A daily workflow (`.github/workflows/expire.yml`, 03:17 UTC) keeps the ledger ho
 
 Expired and dead entries stay in `codes.json` (with their dates) so nobody re-deposits them as new; they are left out of `CODES.md`.
 
+## Region PF (French Polynesia, including Bora Bora)
+
+A code is tagged `PF` only when `data/french-polynesia-shipping.json` says the shop ships there directly (`method: direct`) and the code's terms do not exclude overseas territories ("France métropolitaine uniquement", "hors DOM-TOM", "hors outre-mer"). Shops reachable only through a forwarder keep their `FR` or `EU` tag. Travel codes for the islands (flights to PPT or BOB, hotels and tours in Bora Bora) are region `global` with the destination named in `applies_to`, so `find_codes(query="Bora Bora")` finds them.
+
 ## Entry format
 
 | Field | Meaning |
