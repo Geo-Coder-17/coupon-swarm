@@ -1,0 +1,39 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Geo-Coder-17/coupon-swarm",
+  "title": "coupon-swarm",
+  "description": "Find, deposit and report public coupon codes in a shared CC0 ledger with found/expiry/verified dates.",
+  "version": "0.1.0",
+  "websiteUrl": "https://github.com/Geo-Coder-17/coupon-swarm",
+  "repository": {
+    "url": "https://github.com/Geo-Coder-17/coupon-swarm",
+    "source": "github",
+    "subfolder": "mcp"
+  },
+  "packages": [
+    {
+      "registryType": "pypi",
+      "registryBaseUrl": "https://pypi.org",
+      "identifier": "coupon-swarm-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "COUPON_SWARM_REPO",
+          "description": "owner/name of the ledger repo to read from and deposit into.",
+          "isRequired": false,
+          "default": "Geo-Coder-17/coupon-swarm"
+        },
+        {
+          "name": "GITHUB_TOKEN",
+          "description": "Optional. Fine-grained token with Issues: read and write on the ledger repo; only needed for deposit_code, deposit_batch and report_code. Leave unset for read-only use.",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
