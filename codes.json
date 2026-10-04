@@ -235,6 +235,27 @@
       "last_report": null
     },
     {
+      "id": "bergans.com:404",
+      "store": "bergans.com",
+      "code": "404",
+      "discount": "10% off",
+      "applies_to": "one purchase; not Y collections or already reduced items",
+      "min_order": null,
+      "region": [
+        "NO"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://bergans.com/no/tilbud",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Shown on Bergans' own 404 error page (read 2026-10-04, Norwegian site): \"Som takk for at du fant en 404-side får du herved en rabattkode som gir deg 10 % på ett kjøp (*gjelder ikke Y-kolleksjonene eller allerede nedsatte varer). Bruk koden: 404\" (as thanks for finding a 404 page, a code for 10% off one purchase; excludes Y collections and already reduced items). Published to any visitor of the page; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "bergfreunde.dk:OCTOBER10",
       "store": "bergfreunde.dk",
       "code": "OCTOBER10",
@@ -378,6 +399,27 @@
       "source_url": "https://www.ellos.dk/",
       "submitted_by": "claude-fable-5-1",
       "notes": "Printed in the top banner of Ellos.dk's front page: \"30% på din dyreste vare* + 10% på resten af orden.* Inkl. møbler! Brug koden: 3010\" (30% off your most expensive item + 10% off the rest of the order, incl. furniture, use code 3010). Terms from Ellos's own campaign-terms API (campaign EL00000001825): \"Gælder ved køb af 2 eller flere produkter til og med 06.10.2026. Gælder ikke elektronik/elektriske varer/tilbehør, træningsredskaber, udstyr eller varer mærket med 'Rabatkode gælder ikke'. Kan ikke kombineres med andre tilbud eller nedsatte varer.\" (Valid when buying 2+ products through 6 Oct 2026; excludes electronics, training equipment and marked items; not combinable with other offers or sale items.)",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "ellos.no:3010",
+      "store": "ellos.no",
+      "code": "3010",
+      "discount": "30% off the most expensive item + 10% off the rest",
+      "applies_to": "orders of several items, incl. furniture (full terms on the 'Se vilkår' link, not read)",
+      "min_order": null,
+      "region": [
+        "NO"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.ellos.no/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Ellos.no homepage banner (read 2026-10-04): \"30% på dyreste vare* + 10% på resten av ordern.* Inkl. møbler! Bruk kode: 3010 Se vilkår\" (30% off the most expensive item plus 10% off the rest of the order, incl. furniture; terms linked, not read). No end date stated. Ellos does not deliver to Svalbard (\"Vi leverer ikke til Svalbard.\"), so region is NO only.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -609,6 +651,28 @@
       "source_url": "https://eu.ugreen.com/products/copy-of-weekly-sale-product-9-in-1-usb-c-docking-station",
       "submitted_by": "claude-fable-5-1",
       "notes": "Shown as '40% OFF HOT ... Code: DL90912' on the UGREEN EU store homepage (Autumn Sale, no end date stated). Product-specific code. Other dock/hub codes on the same page: DL55767 (40% off Revodok Pro 12-port triple-4K dock), DL55766 (34% off Revodok Pro 11-port dock), DL45366 (42% off Revodok Pro 2102 10-in-1 dock), DL60515 (40% off 7-in-1 USB-C hub with 4K60 HDMI), DL15495 (34% off Revodok 105 5-in-1 hub), DL75126 (38% off Steam Deck 6-in-1 dock). Honey (Oct 2026) lists DL90912 at 40% off. | Product page: 'Save 40% Code: DL90912 Limited Time Offer'. Also on the eu.ugreen.com homepage deals strip. No end date shown.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "fjellsport.no:TUR25",
+      "store": "fjellsport.no",
+      "code": "TUR25",
+      "discount": "25% off",
+      "applies_to": "your next purchase; minimum 2 items at regular price",
+      "min_order": "2 items at regular price",
+      "region": [
+        "NO",
+        "SJ"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-12",
+      "last_verified": "2026-10-04",
+      "source_url": "https://fjellsport.no/kampanjer/rabattkoder",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Fjellsport rabattkoder page (read 2026-10-04): \"-25% på ditt neste kjøp med rabattkode: TUR25 ... Ved kjøp av minimum 2 varer til ordinærpris. ... Gjelder ikke Norrøna, Patagonia, Hilleberg, Fjällräven, Arc'teryx, Fjellsportpris, turmat, elektronikk, kart, pakkepriser, gavekort eller allerede nedsatte varer. Kan ikke kombineres med andre koder. Varighet til og med 12.10.26.\" (25% off your next purchase, min. 2 items at regular price, excludes listed brands/categories, not combinable, valid through 12 Oct 2026). Svalbard: MVA deducted for Svalbard addresses (shipping page: \"Vi tilbyr momsfri levering til Svalbard.\"); terms do not exclude Svalbard.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1029,6 +1093,27 @@
       "source_url": "https://www.jollyroom.dk/rabatkoder/wow",
       "submitted_by": "claude-fable-5-1",
       "notes": "Jollyroom's own 'Aktuelle rabatkoder' page: \"Brug rabatkoden: WOW. Rabatkoder kan ikke kombineres. Gælder på udvalgte produkter til 19/10 kl. 10.00.\" (Use code WOW; codes cannot be combined; valid on selected products until 19 Oct at 10:00.) Each eligible product shows its own percentage, e.g. '25% kode: WOW', '10% kode: WOW'. Campaign ends at 10:00 on the expiry date.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "jollyroom.no:WOW",
+      "store": "jollyroom.no",
+      "code": "WOW",
+      "discount": "10–25% off",
+      "applies_to": "selected products",
+      "min_order": null,
+      "region": [
+        "NO"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-19",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.jollyroom.no/rabattkoder/wow",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Jollyroom rabattkoder page (read 2026-10-04): \"Rabattkode: WOW. Rabattkoder kan ikke kombineres, gjelder på utvalgte produkter til 19/10 kl 10:00.\" (code WOW, 10–25% on selected products, not combinable, valid until 19 Oct 10:00). Jollyroom does not deliver to Svalbard (\"Jollyroom leverer ikke til Svalbard.\"), so region is NO only.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,

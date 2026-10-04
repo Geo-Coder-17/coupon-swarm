@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-04 (UTC). 84 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-04 (UTC). 88 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -17,6 +17,7 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | banggood.com | `BG504437` | Coupon price $239.99 (about EUR 211), list price $299.99 | AOOSTAR AG03 eGPU dock (800W PSU, OCuLink + 2x TB5), shipped from Banggood's Czech (EU) warehouse | - | EU | - | 2026-10-04 | active | [source](https://blog.banggood.com/banggood-deals-september-2026-76620.html) |
 | banggood.com | `BGdc3edc` | Coupon price $73.99 (about EUR 63.92) | GameSir G7 Pro Xbox-certified tri-mode wireless controller, EU stock (Czech warehouse) | - | EU | - | 2026-10-04 | active | [source](https://blog.banggood.com/banggood-deals-september-2026-76620.html) |
 | baseus.com | `RD1` | $110 off ($299.99 to $189.99) | Baseus Spacemate RD1 Pro 15-in-1 docking station | - | US | - | 2026-10-04 | active | [source](https://www.baseus.com/products/spacemate-rd1-pro-15-in-1-win-docking-station) |
+| bergans.com | `404` | 10% off | one purchase; not Y collections or already reduced items | - | NO | - | 2026-10-04 | active | [source](https://bergans.com/no/tilbud) |
 | bergfreunde.dk | `OCTOBER10` | 10% off | Almost everything | - | DK | 2026-10-05 | 2026-10-04 | active | [source](https://www.bergfreunde.dk/black-weekend/) |
 | bluebridge.co.nz | `STUDENT` | 5% off | Bluebridge Cook Strait ferry fares (Wellington–Picton), students aged 16+ | - | global | - | 2026-10-04 | active | [source](https://www.bluebridge.co.nz/deals) |
 | cultbeauty.com | `FIRST15` | up to 15% off + £5 credit on second purchase | first order | £25 (€25 on the EU site) | GB, EU, NZ | - | 2026-10-04 | active | [source](https://www.cultbeauty.com/) |
@@ -24,6 +25,7 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | dynadot.com | `899COM` | $8.99 first-year .com registration | New .COM domain registrations, first year only | - | global | - | 2026-10-04 | active | [source](https://www.dynadot.com/899com) |
 | edx.org | `SUCCESS2026` | 15% off | Select verified courses, Professional Certificates, MicroBachelors and MicroMasters programs on edX.org; not degree programs or executive education | - | global | 2026-10-21 | 2026-10-04 | active | [source](https://www.edx.org/courses-and-programs-promo) |
 | ellos.dk | `3010` | 30% off the most expensive item + 10% off the rest of the order | Orders of 2+ items at regular price, incl. furniture; not electronics/electrical goods, training equipment or items marked 'Rabatkode gælder ikke'; not combinable with other offers or sale items. | - | DK | 2026-10-06 | 2026-10-04 | active | [source](https://www.ellos.dk/) |
+| ellos.no | `3010` | 30% off the most expensive item + 10% off the rest | orders of several items, incl. furniture (full terms on the 'Se vilkår' link, not read) | - | NO | - | 2026-10-04 | active | [source](https://www.ellos.no/) |
 | en.akkogear.com | `OCT15` | 15% off | Sitewide on Akko's global store (keyboards, keycaps, switches, mice) | - | global | - | 2026-10-04 | active | [source](https://en.akkogear.com/) |
 | engwe.com | `NEWENGWE` | 2% off | All e-bikes at checkout for new customers | - | EU | - | 2026-10-04 | active | [source](https://www.engwe.com/blogs/news) |
 | eu.baseus.com | `AM7120` | EUR 20 off (EUR 69.99 to EUR 49.99) | Baseus PicoGo Air AM71 5000mAh 22.5W magnetic power bank (Black, Silver, Dark Cherry) | - | EU | - | 2026-10-04 | active | [source](https://eu.baseus.com/products/picogo-air-am71-3c-magnetic-power-bank-5000mah-22-5w) |
@@ -35,6 +37,7 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | eu.ugreen.com | `DL45699` | 35% off | UGREEN Nexode 300W GaN Wall USB-C Charger (5 ports) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports) |
 | eu.ugreen.com | `DL65487` | 30% off (EUR 99.99 to EUR 69.99) | UGREEN Mac mini M4 docking station (11-port, 8TB, 10Gbps) | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/mac-mini-m4-docking-station-11port-8tb-10gbps) |
 | eu.ugreen.com | `DL90912` | 40% off | UGREEN Revodok Pro 209 Dual Display 9-in-1 USB-C 4K docking station on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/copy-of-weekly-sale-product-9-in-1-usb-c-docking-station) |
+| fjellsport.no | `TUR25` | 25% off | your next purchase; minimum 2 items at regular price | 2 items at regular price | NO, SJ | 2026-10-12 | 2026-10-04 | active | [source](https://fjellsport.no/kampanjer/rabattkoder) |
 | footlocker.co.nz | `FINALS` | $100 off | Orders $500 or more | $500 | NZ | - | 2026-10-04 | active | [source](https://www.footlocker.co.nz/) |
 | geekbuying.com | `DESTOCK1` | 7% off | Products shipped from Geekbuying's Germany (EU) warehouse, as listed on the EU Warehouse Sale promo page | - | EU | - | 2026-10-04 | active | [source](https://promotion.geekbuying.com/promotion/eu_warehouse_sale) |
 | geekbuying.com | `DESTOCK2` | $15 off every $200 spent | Products shipped from Geekbuying's Germany (EU) warehouse, as listed on the EU Warehouse Sale promo page | $200 | EU | - | 2026-10-04 | active | [source](https://promotion.geekbuying.com/promotion/eu_warehouse_sale) |
@@ -55,6 +58,7 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | joindeleteme.com | `DM20` | 20% off | All DeleteMe privacy protection plans (1-year and 2-year; 1 person, 2 people, family), new members only, USA consumer plans | - | US | - | 2026-10-04 | active | [source](https://joindeleteme.com/offers/couponco/) |
 | joindeleteme.com | `PARTNER20` | 20% off | First DeleteMe subscription (individual, couple or family plans) | - | global | - | 2026-10-03 | active | [source](https://www.dontpayfull.com/at/joindeleteme.com) |
 | jollyroom.dk | `WOW` | 10-25% off (percentage shown per product) | Selected products labelled with the code on jollyroom.dk (car seats, snowsuits, boots, toys, interior, baby gear etc.). Codes cannot be combined. | - | DK | 2026-10-19 | 2026-10-04 | active | [source](https://www.jollyroom.dk/rabatkoder/wow) |
+| jollyroom.no | `WOW` | 10–25% off | selected products | - | NO | 2026-10-19 | 2026-10-04 | active | [source](https://www.jollyroom.no/rabattkoder/wow) |
 | jotex.dk | `424965` | 20% off | Whole order when buying for over 2000 DKK (new orders); not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic. | 2000 DKK | DK | 2026-10-04 | 2026-10-04 | active | [source](https://www.jotex.dk/) |
 | jotex.dk | `BLACKOUT20` | 20% off | Blackout curtains (mørklægningsgardiner category), 2 or more items at regular price, new orders; not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic. | - | DK | 2026-10-04 | 2026-10-04 | active | [source](https://www.jotex.dk/) |
 | jotex.dk | `STORAGE20` | 20% off | Storage furniture (opbevaring category, jotex.dk/mobler/opbevaring). | - | DK | - | 2026-10-04 | active | [source](https://www.jotex.dk/) |
