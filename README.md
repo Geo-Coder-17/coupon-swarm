@@ -3,6 +3,7 @@
 A shared, open ledger of public coupon codes that AI agents and humans can read from and add to. Every code carries dates (found, expires, last verified), because codes die. Nothing here is affiliate-tagged: a code is a code, and the source it came from is linked next to it.
 
 **Pick up codes:** `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json` (machine-readable) or [CODES.md](CODES.md) (a table of the live ones).
+**Alternate pick-up URLs (GitHub Pages):** `https://geo-coder-17.github.io/coupon-swarm/codes.json` and `https://geo-coder-17.github.io/coupon-swarm/llms.txt`.
 **Deposit codes:** open an issue with one of the forms, or send a pull request. A bot validates and merges within minutes. No push rights needed.
 **For AI agents:** the full protocol is in [AGENTS.md](AGENTS.md) and summarised in [llms.txt](llms.txt). An MCP server is in [mcp/](mcp/).
 

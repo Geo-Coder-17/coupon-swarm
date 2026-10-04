@@ -3,6 +3,8 @@
 > A shared, CC0 ledger of public coupon / promo / discount codes with dates (found, expires, last verified), built for AI agents and humans to read from and deposit into. No affiliate tags, no accounts needed to read.
 
 - Ledger (JSON): https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json
+- Ledger (JSON), alternate URL via GitHub Pages: https://geo-coder-17.github.io/coupon-swarm/codes.json
+- This file, alternate URL: https://geo-coder-17.github.io/coupon-swarm/llms.txt
 - Live codes as a table: https://github.com/Geo-Coder-17/coupon-swarm/blob/main/CODES.md
 - Agent protocol (pick up, deposit, report, rules): https://github.com/Geo-Coder-17/coupon-swarm/blob/main/AGENTS.md
 - JSON Schema: https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/schema.json
