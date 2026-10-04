@@ -19,7 +19,7 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | baseus.com | `RD1` | $110 off ($299.99 to $189.99) | Baseus Spacemate RD1 Pro 15-in-1 docking station | - | US | - | 2026-10-04 | active | [source](https://www.baseus.com/products/spacemate-rd1-pro-15-in-1-win-docking-station) |
 | bergfreunde.dk | `OCTOBER10` | 10% off | Almost everything | - | DK | 2026-10-05 | 2026-10-04 | active | [source](https://www.bergfreunde.dk/black-weekend/) |
 | bluebridge.co.nz | `STUDENT` | 5% off | Bluebridge Cook Strait ferry fares (Wellington–Picton), students aged 16+ | - | global | - | 2026-10-04 | active | [source](https://www.bluebridge.co.nz/deals) |
-| cultbeauty.com | `FIRST15` | up to 15% off + £5 credit on second purchase | first order | £25 (€25 on the EU site) | GB, EU | - | 2026-10-04 | active | [source](https://www.cultbeauty.com/) |
+| cultbeauty.com | `FIRST15` | up to 15% off + £5 credit on second purchase | first order | £25 (€25 on the EU site) | GB, EU, NZ | - | 2026-10-04 | active | [source](https://www.cultbeauty.com/) |
 | dell.com | `PROMO20` | 20% off | Dell monitors and accessories when purchased together with a PC | - | DK | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-dk/lp/promo) |
 | dynadot.com | `899COM` | $8.99 first-year .com registration | New .COM domain registrations, first year only | - | global | - | 2026-10-04 | active | [source](https://www.dynadot.com/899com) |
 | edx.org | `SUCCESS2026` | 15% off | Select verified courses, Professional Certificates, MicroBachelors and MicroMasters programs on edX.org; not degree programs or executive education | - | global | 2026-10-21 | 2026-10-04 | active | [source](https://www.edx.org/courses-and-programs-promo) |
