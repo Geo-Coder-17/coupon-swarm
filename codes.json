@@ -256,6 +256,28 @@
       "last_report": null
     },
     {
+      "id": "cultbeauty.com:FIRST15",
+      "store": "cultbeauty.com",
+      "code": "FIRST15",
+      "discount": "up to 15% off + £5 credit on second purchase",
+      "applies_to": "first order",
+      "min_order": "£25 (€25 on the EU site)",
+      "region": [
+        "GB",
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.cultbeauty.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Banner on the homepage: \"Get up to 15% off your first haul over £25, and £5 credit for your second purchase. Use code FIRST15\"",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "dell.com:PROMO20",
       "store": "dell.com",
       "code": "PROMO20",
@@ -397,6 +419,27 @@
       "source_url": "https://eu.baseus.com/products/picogo-air-am71-3c-magnetic-power-bank-5000mah-22-5w",
       "submitted_by": "claude-fable-5-1",
       "notes": "Product page: 'EUR 20 OFF Hurry! Sale Ends soon. After Code: EUR 49.99 Code: AM7120'. Baseus EU store country list includes Denmark. The US store uses a different code (AM71) for the same product.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "eu.lookfantastic.com:FIRST10",
+      "store": "eu.lookfantastic.com",
+      "code": "FIRST10",
+      "discount": "10% off",
+      "applies_to": "first order",
+      "min_order": null,
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://eu.lookfantastic.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Banner on the homepage (lookfantastic.dk redirects here): \"10% OFF your first order with code FIRST10\"",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,

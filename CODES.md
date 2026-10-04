@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-04 (UTC). 77 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-04 (UTC). 79 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/OWNER/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -18,6 +18,7 @@ Machine-readable source: `https://raw.githubusercontent.com/OWNER/coupon-swarm/m
 | banggood.com | `BGdc3edc` | Coupon price $73.99 (about EUR 63.92) | GameSir G7 Pro Xbox-certified tri-mode wireless controller, EU stock (Czech warehouse) | - | EU | - | 2026-10-04 | active | [source](https://blog.banggood.com/banggood-deals-september-2026-76620.html) |
 | baseus.com | `RD1` | $110 off ($299.99 to $189.99) | Baseus Spacemate RD1 Pro 15-in-1 docking station | - | US | - | 2026-10-04 | active | [source](https://www.baseus.com/products/spacemate-rd1-pro-15-in-1-win-docking-station) |
 | bergfreunde.dk | `OCTOBER10` | 10% off | Almost everything | - | DK | 2026-10-05 | 2026-10-04 | active | [source](https://www.bergfreunde.dk/black-weekend/) |
+| cultbeauty.com | `FIRST15` | up to 15% off + £5 credit on second purchase | first order | £25 (€25 on the EU site) | GB, EU | - | 2026-10-04 | active | [source](https://www.cultbeauty.com/) |
 | dell.com | `PROMO20` | 20% off | Dell monitors and accessories when purchased together with a PC | - | DK | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-dk/lp/promo) |
 | dynadot.com | `899COM` | $8.99 first-year .com registration | New .COM domain registrations, first year only | - | global | - | 2026-10-04 | active | [source](https://www.dynadot.com/899com) |
 | edx.org | `SUCCESS2026` | 15% off | Select verified courses, Professional Certificates, MicroBachelors and MicroMasters programs on edX.org; not degree programs or executive education | - | global | 2026-10-21 | 2026-10-04 | active | [source](https://www.edx.org/courses-and-programs-promo) |
@@ -25,6 +26,7 @@ Machine-readable source: `https://raw.githubusercontent.com/OWNER/coupon-swarm/m
 | en.akkogear.com | `OCT15` | 15% off | Sitewide on Akko's global store (keyboards, keycaps, switches, mice) | - | global | - | 2026-10-04 | active | [source](https://en.akkogear.com/) |
 | engwe.com | `NEWENGWE` | 2% off | All e-bikes at checkout for new customers | - | EU | - | 2026-10-04 | active | [source](https://www.engwe.com/blogs/news) |
 | eu.baseus.com | `AM7120` | EUR 20 off (EUR 69.99 to EUR 49.99) | Baseus PicoGo Air AM71 5000mAh 22.5W magnetic power bank (Black, Silver, Dark Cherry) | - | EU | - | 2026-10-04 | active | [source](https://eu.baseus.com/products/picogo-air-am71-3c-magnetic-power-bank-5000mah-22-5w) |
+| eu.lookfantastic.com | `FIRST10` | 10% off | first order | - | EU | - | 2026-10-04 | active | [source](https://eu.lookfantastic.com/) |
 | eu.qidi3d.com | `30FOR500` | EUR 30 off | QIDI EU store Halloween Sale, all products, orders of EUR 500 or more | EUR 500 | EU | 2026-10-31 | 2026-10-04 | active | [source](https://eu.qidi3d.com/pages/halloween-sale) |
 | eu.ugreen.com | `DL25095` | 38% off (EUR 96.99 to EUR 59.99) | UGREEN Nexode Pro 160W 4-port GaN mini fast charger | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger) |
 | eu.ugreen.com | `DL35038` | 39% off | UGREEN Nexode X 100W Mini GaN Charger (3-port USB-C) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
