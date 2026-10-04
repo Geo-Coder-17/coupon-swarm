@@ -25,6 +25,27 @@
       "last_report": null
     },
     {
+      "id": "aircanada.com:C2XQGYN1",
+      "store": "aircanada.com",
+      "code": "C2XQGYN1",
+      "discount": "20% off select base fares",
+      "applies_to": "flights: Air Canada, all destinations within Canada and in the U.S.; Economy (Basic, Standard, Flex, Comfort), Premium Economy (Standard) and Business Class (Standard)",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-09",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.aircanada.com/promo",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Air Canada promo page (read 2026-10-04): \"20% off select base fares with the promotion code ... add the promotion code found below when booking your flight. Destinations: All destinations within Canada and in the U.S. ... Travel dates: October 9 – December 15, 2026 Book by: October 9, 2026 Promotion code C2XQGYN1\". Applies to new bookings on undiscounted Air Canada-published base fares only (not taxes/surcharges); booking window 2 Oct 2026 15:01 ET to 9 Oct 2026 23:59 in the city of departure; travel 2026-10-09 to 2026-12-15; cannot be combined with other offers.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "aliexpress.com:SAVING06E",
       "store": "aliexpress.com",
       "code": "SAVING06E",
@@ -292,6 +313,27 @@
       "source_url": "https://www.bluebridge.co.nz/deals",
       "submitted_by": "claude-sonnet-5-5",
       "notes": "New Zealand: Bluebridge deals page (read 2026-10-04): \"Secondary and tertiary students aged 16+ save 5% on all fares with our STUDENT promo code every time you sail.\" and \"Enter promo code STUDENT at the time of booking. It cannot be added later.\" Valid all-year-round (no end date stated). Valid student photo ID or acceptance letter required at check-in; direct bookings only, max six passengers per booking.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "cheapoair.com:FLY100",
+      "store": "cheapoair.com",
+      "code": "FLY100",
+      "discount": "up to $20 per traveller off service fees (max $100)",
+      "applies_to": "flights: qualified airline tickets, first booking in the CheapOair app only",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.cheapoair.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "CheapOair homepage (read 2026-10-04): \"App users save more. Save on your first app booking with promo code FLY100. ... Maximum savings of $100 calculated as up to $20 per person for up to five (5) travelers off service fees for qualified airline tickets. ... Cannot be combined with any other coupon, promotion or special offer.\" First app booking only (bookings after 1 Jan 2026); app only; no end date stated.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1418,6 +1460,48 @@
       "last_report": null
     },
     {
+      "id": "kenya-airways.com:KQMOBILE",
+      "store": "kenya-airways.com",
+      "code": "KQMOBILE",
+      "discount": "up to 15% off flights",
+      "applies_to": "flights: all routes, Kenya Airways mobile app bookings only",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.kenya-airways.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Kenya Airways homepage (read 2026-10-04): \"App-Exclusive: Save Up to 15% on Flights! Use promo code KQMOBILE when booking your next flight on the Kenya Airways mobile app.\" App only; no end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "kenya-airways.com:SCM26",
+      "store": "kenya-airways.com",
+      "code": "SCM26",
+      "discount": "up to 7% off domestic, up to 15% off international flights",
+      "applies_to": "flights: Kenya Airways flights for the marathon event promotion (domestic and international)",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.kenya-airways.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Kenya Airways homepage banner (read 2026-10-04): \"Fly to Kenya's Premier Marathon Event! Domestic Flights: Up to 7% Off International Flights: Up to 15% Off Use Code: SCM26\". No end date or travel window stated on the page.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "lamzu.com:ENVY",
       "store": "lamzu.com",
       "code": "ENVY",
@@ -2189,6 +2273,27 @@
       "source_url": "https://www.vistaprint.dk/tilbud",
       "submitted_by": "claude-haiku-4-5",
       "notes": "Valid on selected products only. One code per order.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "westjet.com:5B4H5DD",
+      "store": "westjet.com",
+      "code": "5B4H5DD",
+      "discount": "20% off select base fares",
+      "applies_to": "flights: WestJet wholly operated flights within Canada and between Canada and the United States (UltraBasic, Econo, Premium fares); no codeshare or interline",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-04",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.westjet.com/deals",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "WestJet deals page (read 2026-10-04): \"Use discount code: 5B4H5DD to save 20% off select base fares. Hurry, this offer ends soon. ... Book by: October 4, 2026 (11:59 p.m. MT) Travel: October 9, 2026 – December 15, 2026 Blackout dates: November 12-13, 16, 2026\". travel 2026-10-09 to 2026-12-15.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,

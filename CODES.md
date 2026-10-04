@@ -1,12 +1,13 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-04 (UTC). 104 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-04 (UTC). 109 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
 | Store | Code | Discount | Applies to | Min. order | Region | Expires | Last verified | Status | Source |
 |---|---|---|---|---|---|---|---|---|---|
 | aarhushavnerundfart.dk | `MOLS15` | 15% off | Aarhus Havnerundfart (harbour cruise) tickets; Kombardo Expressen passengers only, bus ticket needed as documentation. Enter under 'evt. betalingskode' when booking. Not combinable. | - | DK | - | 2026-10-03 | active | [source](https://www.kombardoexpressen.dk/rabataftaler/aarhus-havnerundfart) |
+| aircanada.com | `C2XQGYN1` | 20% off select base fares | flights: Air Canada, all destinations within Canada and in the U.S.; Economy (Basic, Standard, Flex, Comfort), Premium Economy (Standard) and Business Class (Standard) | - | global | 2026-10-09 | 2026-10-04 | active | [source](https://www.aircanada.com/promo) |
 | aliexpress.com | `SAVING06E` | $6 off | AliExpress orders during the global Choice Day event, 1-7 October 2026 | $45 | global | 2026-10-07 | 2026-10-04 | active | [source](https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html) |
 | aliexpress.com | `SAVING11E` | $11 off | AliExpress orders during the global Choice Day event, 1-7 October 2026 | $79 | global | 2026-10-07 | 2026-10-04 | active | [source](https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html) |
 | aliexpress.com | `SAVING14E` | $14 off | AliExpress orders by US shoppers, full month of October 2026 | $99 | US | 2026-10-31 | 2026-10-04 | active | [source](https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html) |
@@ -20,6 +21,7 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | bergans.com | `404` | 10% off | one purchase; not Y collections or already reduced items | - | NO | - | 2026-10-04 | active | [source](https://bergans.com/no/tilbud) |
 | bergfreunde.dk | `OCTOBER10` | 10% off | Almost everything | - | DK | 2026-10-05 | 2026-10-04 | active | [source](https://www.bergfreunde.dk/black-weekend/) |
 | bluebridge.co.nz | `STUDENT` | 5% off | Bluebridge Cook Strait ferry fares (Wellington–Picton), students aged 16+ | - | global | - | 2026-10-04 | active | [source](https://www.bluebridge.co.nz/deals) |
+| cheapoair.com | `FLY100` | up to $20 per traveller off service fees (max $100) | flights: qualified airline tickets, first booking in the CheapOair app only | - | global | - | 2026-10-04 | active | [source](https://www.cheapoair.com/) |
 | cultbeauty.com | `FIRST15` | up to 15% off + £5 credit on second purchase | first order | £25 (€25 on the EU site) | GB, EU, NZ | - | 2026-10-04 | active | [source](https://www.cultbeauty.com/) |
 | cyberpowerpc.com | `GAMER2026` | 5% off | prebuilt: CyberPowerPC systems, orders of $999+ | $999 | US | - | 2026-10-04 | active | [source](https://www.cyberpowerpc.com/coupons) |
 | dell.com | `PROMO20` | 20% off | monitor: Dell monitors and accessories when purchased together with a PC | - | DK, BE, IT, CH, AT | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-dk/lp/promo) |
@@ -73,6 +75,8 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | jotex.dk | `424965` | 20% off | Whole order when buying for over 2000 DKK (new orders); not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic. | 2000 DKK | DK | 2026-10-04 | 2026-10-04 | active | [source](https://www.jotex.dk/) |
 | jotex.dk | `BLACKOUT20` | 20% off | Blackout curtains (mørklægningsgardiner category), 2 or more items at regular price, new orders; not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic. | - | DK | 2026-10-04 | 2026-10-04 | active | [source](https://www.jotex.dk/) |
 | jotex.dk | `STORAGE20` | 20% off | Storage furniture (opbevaring category, jotex.dk/mobler/opbevaring). | - | DK | - | 2026-10-04 | active | [source](https://www.jotex.dk/) |
+| kenya-airways.com | `KQMOBILE` | up to 15% off flights | flights: all routes, Kenya Airways mobile app bookings only | - | global | - | 2026-10-04 | active | [source](https://www.kenya-airways.com/) |
+| kenya-airways.com | `SCM26` | up to 7% off domestic, up to 15% off international flights | flights: Kenya Airways flights for the marathon event promotion (domestic and international) | - | global | - | 2026-10-04 | active | [source](https://www.kenya-airways.com/) |
 | lamzu.com | `ENVY` | 5% off | mouse: LAMZU x ENVY collaboration (store banner; sitewide scope not stated) | - | global | - | 2026-10-04 | active | [source](https://lamzu.com/products) |
 | lyko.com | `20uniqone` | 20% off | All Uniq One hair-care products on lyko.com/da (Danish site). One code per purchase. | - | DK | - | 2026-10-04 | active | [source](https://lyko.com/da/deals-kup/kampagne/rabatkoder-til-lyko) |
 | namecheap.com | `GHOSTDOT` | Discounted first-year domain registration and transfer (.com at $11.08 + $0.20 ICANN fee; transfer $11.28 + $0.20) | Domain registrations and transfers, first year only; not premium or aftermarket domains | - | global | 2026-10-31 | 2026-10-03 | active | [source](https://www.namecheap.com/promos/coupons/) |
@@ -110,6 +114,7 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | vistaprint.dk | `PROMO` | 70-200 DKK off | Orders 400+ DKK | 400 DKK | DK | 2026-11-01 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
 | vistaprint.dk | `VISTA50` | Up to 50% off | Bestsellers for new customers | - | DK | 2027-01-30 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
 | vistaprint.dk | `VISTADEALS` | Up to 15% off | Select business products | - | DK | 2026-11-01 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
+| westjet.com | `5B4H5DD` | 20% off select base fares | flights: WestJet wholly operated flights within Canada and between Canada and the United States (UltraBasic, Econo, Premium fares); no codeshare or interline | - | global | 2026-10-04 | 2026-10-04 | active | [source](https://www.westjet.com/deals) |
 | airalo.com | `NEWTOAIRALO15` | 15% off the first eSIM purchase | New Airalo accounts with no prior purchase, any eSIM plan; redeem in the app or on airalo.com at checkout | - | global | 2026-12-31 | - | unverified | [source](https://localsinsider.com/digital-life/esims/best-esim-promo-codes-discounts/) |
 | eu.elegoo.com | `IMGIGA5` | 5% off | Orders on the ELEGOO EU store (EUR) | - | EU | - | - | unverified | [source](https://www.dontpayfull.com/at/elegoo.com) |
 | fanatical.com | `FANATICAL15` | 15% off any full-price game | Full-price (non-discounted) games and DLC on Fanatical, pre-orders included; not bundles, Star Deals, pick-and-mix, books or comics; some publishers and titles excluded | - | global | 2027-03-24 | 2026-10-03 | unverified | [source](https://www.fanatical.com/en/promo-codes) |
