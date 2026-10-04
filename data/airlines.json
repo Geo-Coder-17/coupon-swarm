@@ -1883,12 +1883,12 @@
       "continent": "north-america",
       "country": "CA",
       "type": "full-service",
-      "promo_field": "unclear",
-      "field_name": null,
-      "where": null,
+      "promo_field": true,
+      "field_name": "promotion code",
+      "where": "website",
       "loyalty_required": "unclear",
-      "source_url": "https://www.aircanada.com/",
-      "quote": null,
+      "source_url": "https://www.aircanada.com/promo",
+      "quote": "To take advantage of this limited-time offer, remember to add the promotion code found below when booking your flight.",
       "checked_on": "2026-10-04"
     },
     {
