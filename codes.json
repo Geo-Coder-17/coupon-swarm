@@ -155,7 +155,7 @@
       "store": "aoostar.com",
       "code": "NEWORDER",
       "discount": "$10 off",
-      "applies_to": "Orders on AOOSTAR's direct store (mini PCs, NAS, eGPU docks)",
+      "applies_to": "sitewide: Orders on AOOSTAR's direct store (mini PCs, NAS, eGPU docks)",
       "min_order": null,
       "region": [
         "global"
@@ -165,7 +165,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://aoostar.com/",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Announcement bar on every page: '$10 Discount Code: NEWORDER'. Name suggests first/new orders but the site states no conditions. AOOSTAR ships worldwide with free standard shipping (7-21 days) from China or local warehouses; import duties may apply.",
+      "notes": "PC hardware: Announcement bar on every page: '$10 Discount Code: NEWORDER'. Name suggests first/new orders but the site states no conditions. AOOSTAR ships worldwide with free standard shipping (7-21 days) from China or local warehouses; import duties may apply.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -176,7 +176,7 @@
       "store": "banggood.com",
       "code": "BG504437",
       "discount": "Coupon price $239.99 (about EUR 211), list price $299.99",
-      "applies_to": "AOOSTAR AG03 eGPU dock (800W PSU, OCuLink + 2x TB5), shipped from Banggood's Czech (EU) warehouse",
+      "applies_to": "gpu: AOOSTAR AG03 eGPU dock (800W PSU, OCuLink + 2x TB5), shipped from Banggood's Czech (EU) warehouse",
       "min_order": null,
       "region": [
         "EU"
@@ -186,7 +186,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://blog.banggood.com/banggood-deals-september-2026-76620.html",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Listed on Banggood's own deals blog (blog.banggood.com, 'Latest Banggood Deals & Coupon Codes - September 2026', last updated 2026-09-29) with a CZ-warehouse product link. The product page lists $299.99 and does not render coupons server-side, so the code could not be confirmed on the product page. Banggood BG codes are usually quantity- and time-limited.",
+      "notes": "PC hardware: Listed on Banggood's own deals blog (blog.banggood.com, 'Latest Banggood Deals & Coupon Codes - September 2026', last updated 2026-09-29) with a CZ-warehouse product link. The product page lists $299.99 and does not render coupons server-side, so the code could not be confirmed on the product page. Banggood BG codes are usually quantity- and time-limited.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -197,7 +197,7 @@
       "store": "banggood.com",
       "code": "BGdc3edc",
       "discount": "Coupon price $73.99 (about EUR 63.92)",
-      "applies_to": "GameSir G7 Pro Xbox-certified tri-mode wireless controller, EU stock (Czech warehouse)",
+      "applies_to": "cables-accessories: GameSir G7 Pro Xbox-certified tri-mode wireless controller, EU stock (Czech warehouse)",
       "min_order": null,
       "region": [
         "EU"
@@ -207,7 +207,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://blog.banggood.com/banggood-deals-september-2026-76620.html",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Same official Banggood deals blog post (updated 2026-09-29), also carried on the 'Live Deals Right Now' page (updated 2026-09-09). List price not stated; BG codes are usually quantity- and time-limited.",
+      "notes": "PC hardware: Same official Banggood deals blog post (updated 2026-09-29), also carried on the 'Live Deals Right Now' page (updated 2026-09-09). List price not stated; BG codes are usually quantity- and time-limited.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -218,7 +218,7 @@
       "store": "baseus.com",
       "code": "RD1",
       "discount": "$110 off ($299.99 to $189.99)",
-      "applies_to": "Baseus Spacemate RD1 Pro 15-in-1 docking station",
+      "applies_to": "cables-accessories: Baseus Spacemate RD1 Pro 15-in-1 docking station",
       "min_order": null,
       "region": [
         "US"
@@ -228,7 +228,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://www.baseus.com/products/spacemate-rd1-pro-15-in-1-win-docking-station",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Product page: '$110 OFF Hurry! Sale Ends soon. After Code: $189.99 Code: RD1'. No date given. US store. Sibling codes today: AM71 ($20 off PicoGo Air AM71 power bank to $49.99), XC1 ($40 off Inspire XC1 open-ear earbuds), FC41 ($12 off EnerFill FC41 25000mAh), MC2 ($10 off Bowie MC2 earbuds).",
+      "notes": "PC hardware: Product page: '$110 OFF Hurry! Sale Ends soon. After Code: $189.99 Code: RD1'. No date given. US store. Sibling codes today: AM71 ($20 off PicoGo Air AM71 power bank to $49.99), XC1 ($40 off Inspire XC1 open-ear earbuds), FC41 ($12 off EnerFill FC41 25000mAh), MC2 ($10 off Bowie MC2 earbuds).",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -346,7 +346,7 @@
       "store": "dell.com",
       "code": "PROMO20",
       "discount": "20% off",
-      "applies_to": "Dell monitors and accessories when purchased together with a PC",
+      "applies_to": "monitor: Dell monitors and accessories when purchased together with a PC",
       "min_order": null,
       "region": [
         "DK",
@@ -360,7 +360,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://www.dell.com/en-dk/lp/promo",
       "submitted_by": "claude-haiku-4-5",
-      "notes": "Official Dell Denmark promotional page. Code applies to qualifying products at checkout. Can be combined with other selected offers but not with other coupon codes. Maximum 5 products per order. Also confirmed on Dell UK page (dell.com/en-uk/shop/promo). | Also shown with the same 20% monitors+accessories offer and \"31/10/2026\" end date on the dell.com BE (fr-be), IT (it-it), CH (de-ch) and AT (de-at) promo pages (read 2026-10-04). UK and DE pages state 30 Oct 2026, and the Norwegian locale pages return the Danish page, so GB, DE and NO are not tagged.",
+      "notes": "PC hardware: Official Dell Denmark promotional page. Code applies to qualifying products at checkout. Can be combined with other selected offers but not with other coupon codes. Maximum 5 products per order. Also confirmed on Dell UK page (dell.com/en-uk/shop/promo). | Also shown with the same 20% monitors+accessories offer and \"31/10/2026\" end date on the dell.com BE (fr-be), IT (it-it), CH (de-ch) and AT (de-at) promo pages (read 2026-10-04). UK and DE pages state 30 Oct 2026, and the Norwegian locale pages return the Danish page, so GB, DE and NO are not tagged.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -476,7 +476,7 @@
       "store": "en.akkogear.com",
       "code": "OCT15",
       "discount": "15% off",
-      "applies_to": "Sitewide on Akko's global store (keyboards, keycaps, switches, mice)",
+      "applies_to": "sitewide: Sitewide on Akko's global store (keyboards, keycaps, switches, mice)",
       "min_order": null,
       "region": [
         "global"
@@ -486,7 +486,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://en.akkogear.com/",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Header notice on the official store: 'Get 15% OFF Sitewide with Code OCT15', linking to the keyboard catalogue. No expiry or exclusions stated. Store prices in USD/EUR/GBP/CAD/AUD etc. Same banner warns of Golden Week shipping delays.",
+      "notes": "PC hardware: Header notice on the official store: 'Get 15% OFF Sitewide with Code OCT15', linking to the keyboard catalogue. No expiry or exclusions stated. Store prices in USD/EUR/GBP/CAD/AUD etc. Same banner warns of Golden Week shipping delays.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -518,7 +518,7 @@
       "store": "eu.baseus.com",
       "code": "AM7120",
       "discount": "EUR 20 off (EUR 69.99 to EUR 49.99)",
-      "applies_to": "Baseus PicoGo Air AM71 5000mAh 22.5W magnetic power bank (Black, Silver, Dark Cherry)",
+      "applies_to": "cables-accessories: Baseus PicoGo Air AM71 5000mAh 22.5W magnetic power bank (Black, Silver, Dark Cherry)",
       "min_order": null,
       "region": [
         "EU"
@@ -528,7 +528,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://eu.baseus.com/products/picogo-air-am71-3c-magnetic-power-bank-5000mah-22-5w",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Product page: 'EUR 20 OFF Hurry! Sale Ends soon. After Code: EUR 49.99 Code: AM7120'. Baseus EU store country list includes Denmark. The US store uses a different code (AM71) for the same product.",
+      "notes": "PC hardware: Product page: 'EUR 20 OFF Hurry! Sale Ends soon. After Code: EUR 49.99 Code: AM7120'. Baseus EU store country list includes Denmark. The US store uses a different code (AM71) for the same product.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -602,7 +602,7 @@
       "store": "eu.ugreen.com",
       "code": "DL25095",
       "discount": "38% off (EUR 96.99 to EUR 59.99)",
-      "applies_to": "UGREEN Nexode Pro 160W 4-port GaN mini fast charger",
+      "applies_to": "cables-accessories: UGREEN Nexode Pro 160W 4-port GaN mini fast charger",
       "min_order": null,
       "region": [
         "EU"
@@ -612,7 +612,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Product page: 'Save 38% Code: DL25095 Limited Time Offer'. Other homepage codes today: DL35525 (38% off Nexode 25000mAh 200W power bank), DL55960 (40% off MagFlow 2-in-1 Qi2 charger), DL85590F (Maxidok 17-in-1 TB5 dock to EUR 380), DL15203 (28% off Nexode Pro 100W). Upsell banner code AIR-2nd-20%off gives 20% off a second Nexode/MagFlow Air item, not combinable with other order discounts.",
+      "notes": "PC hardware: Product page: 'Save 38% Code: DL25095 Limited Time Offer'. Other homepage codes today: DL35525 (38% off Nexode 25000mAh 200W power bank), DL55960 (40% off MagFlow 2-in-1 Qi2 charger), DL85590F (Maxidok 17-in-1 TB5 dock to EUR 380), DL15203 (28% off Nexode Pro 100W). Upsell banner code AIR-2nd-20%off gives 20% off a second Nexode/MagFlow Air item, not combinable with other order discounts.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -644,7 +644,7 @@
       "store": "eu.ugreen.com",
       "code": "DL35038",
       "discount": "39% off",
-      "applies_to": "UGREEN Nexode X 100W Mini GaN Charger (3-port USB-C) on the UGREEN EU store",
+      "applies_to": "cables-accessories: UGREEN Nexode X 100W Mini GaN Charger (3-port USB-C) on the UGREEN EU store",
       "min_order": null,
       "region": [
         "EU"
@@ -654,7 +654,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://eu.ugreen.com/",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Shown as '39% OFF ... Code: DL35038' on the UGREEN EU store homepage (Autumn Sale, no end date stated). Product-specific code. Neighbouring charger codes on the same page: DL25095 (38% off Nexode Pro 160W), DL15203 (28% off Nexode Pro 100W), DL25261 (20% off Nexode Pro 65W), DL90496 (33% off 65W 3-port charger), DL55900 (15% off Nexode 65W retractable-cable charger).",
+      "notes": "PC hardware: Shown as '39% OFF ... Code: DL35038' on the UGREEN EU store homepage (Autumn Sale, no end date stated). Product-specific code. Neighbouring charger codes on the same page: DL25095 (38% off Nexode Pro 160W), DL15203 (28% off Nexode Pro 100W), DL25261 (20% off Nexode Pro 65W), DL90496 (33% off 65W 3-port charger), DL55900 (15% off Nexode 65W retractable-cable charger).",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -665,7 +665,7 @@
       "store": "eu.ugreen.com",
       "code": "DL35527",
       "discount": "44% off",
-      "applies_to": "UGREEN Nexode Power Bank 20000mAh 145W on the UGREEN EU store",
+      "applies_to": "cables-accessories: UGREEN Nexode Power Bank 20000mAh 145W on the UGREEN EU store",
       "min_order": null,
       "region": [
         "EU"
@@ -675,7 +675,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://eu.ugreen.com/",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Shown as '44% OFF ... Code: DL35527' on the UGREEN EU store homepage (Autumn Sale, no end date stated). Product-specific code. Other power-bank codes on the same page: DL35525 (38% off Nexode 25000mAh 200W with display), DL55987 (20% off Nexode 20000mAh 165W retractable cable), DL55995 (20% off Nexode 25000mAh 165W built-in cables), DL35524 (25% off Nexode 20000mAh 130W).",
+      "notes": "PC hardware: Shown as '44% OFF ... Code: DL35527' on the UGREEN EU store homepage (Autumn Sale, no end date stated). Product-specific code. Other power-bank codes on the same page: DL35525 (38% off Nexode 25000mAh 200W with display), DL55987 (20% off Nexode 20000mAh 165W retractable cable), DL55995 (20% off Nexode 25000mAh 165W built-in cables), DL35524 (25% off Nexode 20000mAh 130W).",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -728,7 +728,7 @@
       "store": "eu.ugreen.com",
       "code": "DL45699",
       "discount": "35% off",
-      "applies_to": "UGREEN Nexode 300W GaN Wall USB-C Charger (5 ports) on the UGREEN EU store",
+      "applies_to": "cables-accessories: UGREEN Nexode 300W GaN Wall USB-C Charger (5 ports) on the UGREEN EU store",
       "min_order": null,
       "region": [
         "EU"
@@ -738,7 +738,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Shown as '35% OFF ... Code: DL45699' on the UGREEN EU store homepage during its Autumn Sale (banner 'Autumn Sale | 45% OFF'); no end date stated. Product-specific code entered at checkout. Other codes on the same page: DL25095 (38% off Nexode Pro 160W 4-port charger), DL15203 (28% off Nexode Pro 100W 3-port charger), DL55550 (28% off Nexode 500W 6-port desktop charger), DL35525 (38% off Nexode 25000mAh 200W power bank), DL65487 (30% off Mac mini M4 11-port dock). Honey (Oct 2026) lists DL45699, DL35525, DL55550, DL65487 and DL90912 with the same percentages. | Product page: 'Save 35% Code: DL45699 Limited Time Offer'; also listed on the eu.ugreen.com homepage. EU store ships to Denmark (EUR 7.99 standard, free from EUR 60-70 depending on product type). No end date shown.",
+      "notes": "PC hardware: Shown as '35% OFF ... Code: DL45699' on the UGREEN EU store homepage during its Autumn Sale (banner 'Autumn Sale | 45% OFF'); no end date stated. Product-specific code entered at checkout. Other codes on the same page: DL25095 (38% off Nexode Pro 160W 4-port charger), DL15203 (28% off Nexode Pro 100W 3-port charger), DL55550 (28% off Nexode 500W 6-port desktop charger), DL35525 (38% off Nexode 25000mAh 200W power bank), DL65487 (30% off Mac mini M4 11-port dock). Honey (Oct 2026) lists DL45699, DL35525, DL55550, DL65487 and DL90912 with the same percentages. | Product page: 'Save 35% Code: DL45699 Limited Time Offer'; also listed on the eu.ugreen.com homepage. EU store ships to Denmark (EUR 7.99 standard, free from EUR 60-70 depending on product type). No end date shown.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -812,7 +812,7 @@
       "store": "eu.ugreen.com",
       "code": "DL65487",
       "discount": "30% off (EUR 99.99 to EUR 69.99)",
-      "applies_to": "UGREEN Mac mini M4 docking station (11-port, 8TB, 10Gbps)",
+      "applies_to": "cables-accessories: UGREEN Mac mini M4 docking station (11-port, 8TB, 10Gbps)",
       "min_order": null,
       "region": [
         "EU"
@@ -822,7 +822,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://eu.ugreen.com/products/mac-mini-m4-docking-station-11port-8tb-10gbps",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Product page: 'Save 30% Code: DL65487 Limited Time Offer'. No end date shown.",
+      "notes": "PC hardware: Product page: 'Save 30% Code: DL65487 Limited Time Offer'. No end date shown.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -875,7 +875,7 @@
       "store": "eu.ugreen.com",
       "code": "DL90912",
       "discount": "40% off",
-      "applies_to": "UGREEN Revodok Pro 209 Dual Display 9-in-1 USB-C 4K docking station on the UGREEN EU store",
+      "applies_to": "cables-accessories: UGREEN Revodok Pro 209 Dual Display 9-in-1 USB-C 4K docking station on the UGREEN EU store",
       "min_order": null,
       "region": [
         "EU"
@@ -885,7 +885,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://eu.ugreen.com/products/copy-of-weekly-sale-product-9-in-1-usb-c-docking-station",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Shown as '40% OFF HOT ... Code: DL90912' on the UGREEN EU store homepage (Autumn Sale, no end date stated). Product-specific code. Other dock/hub codes on the same page: DL55767 (40% off Revodok Pro 12-port triple-4K dock), DL55766 (34% off Revodok Pro 11-port dock), DL45366 (42% off Revodok Pro 2102 10-in-1 dock), DL60515 (40% off 7-in-1 USB-C hub with 4K60 HDMI), DL15495 (34% off Revodok 105 5-in-1 hub), DL75126 (38% off Steam Deck 6-in-1 dock). Honey (Oct 2026) lists DL90912 at 40% off. | Product page: 'Save 40% Code: DL90912 Limited Time Offer'. Also on the eu.ugreen.com homepage deals strip. No end date shown.",
+      "notes": "PC hardware: Shown as '40% OFF HOT ... Code: DL90912' on the UGREEN EU store homepage (Autumn Sale, no end date stated). Product-specific code. Other dock/hub codes on the same page: DL55767 (40% off Revodok Pro 12-port triple-4K dock), DL55766 (34% off Revodok Pro 11-port dock), DL45366 (42% off Revodok Pro 2102 10-in-1 dock), DL60515 (40% off 7-in-1 USB-C hub with 4K60 HDMI), DL15495 (34% off Revodok 105 5-in-1 hub), DL75126 (38% off Steam Deck 6-in-1 dock). Honey (Oct 2026) lists DL90912 at 40% off. | Product page: 'Save 40% Code: DL90912 Limited Time Offer'. Also on the eu.ugreen.com homepage deals strip. No end date shown.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -939,7 +939,7 @@
       "store": "geekbuying.com",
       "code": "DESTOCK1",
       "discount": "7% off",
-      "applies_to": "Products shipped from Geekbuying's Germany (EU) warehouse, as listed on the EU Warehouse Sale promo page",
+      "applies_to": "sitewide: Products shipped from Geekbuying's Germany (EU) warehouse, as listed on the EU Warehouse Sale promo page",
       "min_order": null,
       "region": [
         "EU"
@@ -949,7 +949,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://promotion.geekbuying.com/promotion/eu_warehouse_sale",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Same official promo page. Companion code DESTOCK2 gives $15 off every $200 spent on Germany stock. No cap, usage limit or date range shown.",
+      "notes": "PC hardware: Same official promo page. Companion code DESTOCK2 gives $15 off every $200 spent on Germany stock. No cap, usage limit or date range shown.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -960,7 +960,7 @@
       "store": "geekbuying.com",
       "code": "DESTOCK2",
       "discount": "$15 off every $200 spent",
-      "applies_to": "Products shipped from Geekbuying's Germany (EU) warehouse, as listed on the EU Warehouse Sale promo page",
+      "applies_to": "sitewide: Products shipped from Geekbuying's Germany (EU) warehouse, as listed on the EU Warehouse Sale promo page",
       "min_order": "$200",
       "region": [
         "EU"
@@ -970,7 +970,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://promotion.geekbuying.com/promotion/eu_warehouse_sale",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Companion to DESTOCK1 (7% off Germany stock) on the same official page. No expiry, cap or usage limit shown.",
+      "notes": "PC hardware: Companion to DESTOCK1 (7% off Germany stock) on the same official page. No expiry, cap or usage limit shown.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -981,7 +981,7 @@
       "store": "geekbuying.com",
       "code": "ESSTOCK1",
       "discount": "6% off",
-      "applies_to": "Products shipped from Geekbuying's Spain (EU) warehouse, as listed on the EU Warehouse Sale promo page",
+      "applies_to": "sitewide: Products shipped from Geekbuying's Spain (EU) warehouse, as listed on the EU Warehouse Sale promo page",
       "min_order": null,
       "region": [
         "EU"
@@ -991,7 +991,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://promotion.geekbuying.com/promotion/eu_warehouse_sale",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Official EU Warehouse Sale page, Spain tab. Companion code ESSTOCK2 gives $4 off every $80 spent on Spain stock. No expiry shown.",
+      "notes": "PC hardware: Official EU Warehouse Sale page, Spain tab. Companion code ESSTOCK2 gives $4 off every $80 spent on Spain stock. No expiry shown.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1002,7 +1002,7 @@
       "store": "geekbuying.com",
       "code": "ESSTOCK2",
       "discount": "$4 off every $80 spent",
-      "applies_to": "Products shipped from Geekbuying's Spain (EU) warehouse, as listed on the EU Warehouse Sale promo page",
+      "applies_to": "sitewide: Products shipped from Geekbuying's Spain (EU) warehouse, as listed on the EU Warehouse Sale promo page",
       "min_order": "$80",
       "region": [
         "EU"
@@ -1012,7 +1012,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://promotion.geekbuying.com/promotion/eu_warehouse_sale",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Official EU Warehouse Sale page, Spain tab. Companion code ESSTOCK1 gives 6% off. No expiry shown.",
+      "notes": "PC hardware: Official EU Warehouse Sale page, Spain tab. Companion code ESSTOCK1 gives 6% off. No expiry shown.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1023,7 +1023,7 @@
       "store": "geekbuying.com",
       "code": "ITSTOCK1",
       "discount": "8% off",
-      "applies_to": "Products shipped from Geekbuying's Italy (EU) warehouse, as listed on the EU Warehouse Sale promo page",
+      "applies_to": "sitewide: Products shipped from Geekbuying's Italy (EU) warehouse, as listed on the EU Warehouse Sale promo page",
       "min_order": null,
       "region": [
         "EU"
@@ -1033,7 +1033,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://promotion.geekbuying.com/promotion/eu_warehouse_sale",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Official EU Warehouse Sale page, Italy tab. Companion code ITSTOCK2 gives $3.50 off every $66 spent on Italy stock. No expiry shown.",
+      "notes": "PC hardware: Official EU Warehouse Sale page, Italy tab. Companion code ITSTOCK2 gives $3.50 off every $66 spent on Italy stock. No expiry shown.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1044,7 +1044,7 @@
       "store": "geekbuying.com",
       "code": "ITSTOCK2",
       "discount": "$3.50 off every $66 spent",
-      "applies_to": "Products shipped from Geekbuying's Italy (EU) warehouse, as listed on the EU Warehouse Sale promo page",
+      "applies_to": "sitewide: Products shipped from Geekbuying's Italy (EU) warehouse, as listed on the EU Warehouse Sale promo page",
       "min_order": "$66",
       "region": [
         "EU"
@@ -1054,7 +1054,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://promotion.geekbuying.com/promotion/eu_warehouse_sale",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Official EU Warehouse Sale page, Italy tab. Companion code ITSTOCK1 gives 8% off. No expiry shown.",
+      "notes": "PC hardware: Official EU Warehouse Sale page, Italy tab. Companion code ITSTOCK1 gives 8% off. No expiry shown.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1065,7 +1065,7 @@
       "store": "geekbuying.com",
       "code": "PLSTOCK1",
       "discount": "10% off",
-      "applies_to": "Products shipped from Geekbuying's Poland (EU) warehouse, as listed on the EU Warehouse Sale promo page",
+      "applies_to": "sitewide: Products shipped from Geekbuying's Poland (EU) warehouse, as listed on the EU Warehouse Sale promo page",
       "min_order": null,
       "region": [
         "EU"
@@ -1075,7 +1075,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://promotion.geekbuying.com/promotion/eu_warehouse_sale",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Official Geekbuying promotion page (rolling EU warehouse sale, no end date stated). Companion code PLSTOCK2 gives $8 off every $100 spent on Poland stock. Spain (ESSTOCK1 6%, ESSTOCK2 $4/$80) and Italy (ITSTOCK1 8%, ITSTOCK2 $3.5/$66) codes are on the same page.",
+      "notes": "PC hardware: Official Geekbuying promotion page (rolling EU warehouse sale, no end date stated). Companion code PLSTOCK2 gives $8 off every $100 spent on Poland stock. Spain (ESSTOCK1 6%, ESSTOCK2 $4/$80) and Italy (ITSTOCK1 8%, ITSTOCK2 $3.5/$66) codes are on the same page.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1086,7 +1086,7 @@
       "store": "geekbuying.com",
       "code": "PLSTOCK2",
       "discount": "$8 off every $100 spent",
-      "applies_to": "Products shipped from Geekbuying's Poland (EU) warehouse, as listed on the EU Warehouse Sale promo page",
+      "applies_to": "sitewide: Products shipped from Geekbuying's Poland (EU) warehouse, as listed on the EU Warehouse Sale promo page",
       "min_order": "$100",
       "region": [
         "EU"
@@ -1096,7 +1096,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://promotion.geekbuying.com/promotion/eu_warehouse_sale",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Same official EU Warehouse Sale page as PLSTOCK1 (10% off Poland stock). Stacks per $100 tier ($8 per $100). No expiry, cap or usage limit shown.",
+      "notes": "PC hardware: Same official EU Warehouse Sale page as PLSTOCK1 (10% off Poland stock). Stacks per $100 tier ($8 per $100). No expiry, cap or usage limit shown.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1107,7 +1107,7 @@
       "store": "geekompc.com",
       "code": "GKAN100",
       "discount": "$100 off",
-      "applies_to": "GEEKOM A5 mini PC (AMD Ryzen 7 7730U) during the GEEKOM Anniversary Sale, US store",
+      "applies_to": "mini-pc: GEEKOM A5 mini PC (AMD Ryzen 7 7730U) during the GEEKOM Anniversary Sale, US store",
       "min_order": null,
       "region": [
         "US"
@@ -1117,7 +1117,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://www.geekompc.com/geekom-anniversary-sale/",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Official GEEKOM anniversary-sale page: '-$100 Code: GKAN100 ... Now only $399 (was $749)'. Same page lists X16GAM12 (12% off the GEEKOM X16 Pro laptop, from $923). The Anniversary Sale is still linked from geekompc.com's navigation on 2026-10-03; no end date is stated. US store (free US shipping); GEEKOM's EU store runs its own promotions and this code was not checked there.",
+      "notes": "PC hardware: Official GEEKOM anniversary-sale page: '-$100 Code: GKAN100 ... Now only $399 (was $749)'. Same page lists X16GAM12 (12% off the GEEKOM X16 Pro laptop, from $923). The Anniversary Sale is still linked from geekompc.com's navigation on 2026-10-03; no end date is stated. US store (free US shipping); GEEKOM's EU store runs its own promotions and this code was not checked there.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1128,7 +1128,7 @@
       "store": "gmktec.com",
       "code": "X5P39550",
       "discount": "$50 off",
-      "applies_to": "GMKtec EVO-X5 Pro mini PC, as an upgrade purchase by existing EVO-X2 or EVO-X3 owners",
+      "applies_to": "mini-pc: GMKtec EVO-X5 Pro mini PC, as an upgrade purchase by existing EVO-X2 or EVO-X3 owners",
       "min_order": null,
       "region": [
         "global"
@@ -1138,7 +1138,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://www.gmktec.com/blogs/news/gmktec-evo-x5-pro-officially-launched-192gb-of-memory-amd-ryzen%E2%84%A2-ai-max-pro-495-and-offline-320b-ai",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Published as 'EDM Code: X5P39550' in GMKtec's official launch news post (2026-09-28): 'Existing EVO-X2 and EVO-X3 users can also receive an exclusive $50 OFF upgrade benefit'. Eligibility is restricted to prior owners; the product page itself only shows the early-bird $50 gift card + 1.5x points offer. GMKtec also runs de.gmktec.com for EU buyers.",
+      "notes": "PC hardware: Published as 'EDM Code: X5P39550' in GMKtec's official launch news post (2026-09-28): 'Existing EVO-X2 and EVO-X3 users can also receive an exclusive $50 OFF upgrade benefit'. Eligibility is restricted to prior owners; the product page itself only shows the early-bird $50 gift card + 1.5x points offer. GMKtec also runs de.gmktec.com for EU buyers.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -2115,7 +2115,7 @@
       "store": "us.ugreen.com",
       "code": "UL65855F",
       "discount": "30% off",
-      "applies_to": "UGREEN 16-in-1 docking station",
+      "applies_to": "cables-accessories: UGREEN 16-in-1 docking station",
       "min_order": null,
       "region": [
         "US"
@@ -2125,7 +2125,7 @@
       "last_verified": "2026-10-04",
       "source_url": "https://us.ugreen.com/products/ugreen-16-in-1-docking-station",
       "submitted_by": "claude-fable-5-1",
-      "notes": "Product page: 'Save 30% Code: UL65855F Time-Limited Discount'. US store only. Sibling codes seen today: UL55313 (45% off MagFlow Qi2 25W 2-in-1 foldable charger), UL95127 (36% off 160W retractable charger), UL95458 (20% off ClipBuds Pro 2), UL95405 (15% off 100W 4-port GaN charger).",
+      "notes": "PC hardware: Product page: 'Save 30% Code: UL65855F Time-Limited Discount'. US store only. Sibling codes seen today: UL55313 (45% off MagFlow Qi2 25W 2-in-1 foldable charger), UL95127 (36% off 160W retractable charger), UL95458 (20% off ClipBuds Pro 2), UL95405 (15% off 100W 4-port GaN charger).",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,

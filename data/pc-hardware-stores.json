@@ -126,6 +126,35 @@
       "checked_on": "2026-10-04"
     },
     {
+      "store": "aoostar.com",
+      "type": "brand-store",
+      "sectors": [
+        "ram",
+        "motherboard",
+        "cpu",
+        "mini-pc",
+        "prebuilt",
+        "networking"
+      ],
+      "ships_to": [
+        "US",
+        "GB",
+        "CA",
+        "AU",
+        "FR",
+        "PL",
+        "DE",
+        "RU",
+        "MX",
+        "JP",
+        "KR"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.aoostar.com/pages/shipping-delivery",
+      "quote": "Orders placed through www.aoostar.com can be shipped to most countries, such as the United States, United Kingdom, Canada, Australia, France, Poland, Germany, Russia, Mexico, Japan, South Korea, and more.",
+      "checked_on": "2026-10-04"
+    },
+    {
       "store": "aquatuning.de",
       "type": "brand-store",
       "sectors": [
@@ -264,6 +293,19 @@
       "ships_to": [],
       "storefronts": [],
       "source_url": "https://www.backmarket.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "banggood.com",
+      "type": "marketplace",
+      "sectors": [
+        "mini-pc",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.banggood.com/help_center/question_category.html?catid=209",
       "quote": null,
       "checked_on": "2026-10-04"
     },
@@ -828,6 +870,29 @@
       "checked_on": "2026-10-04"
     },
     {
+      "store": "geekbuying.com",
+      "type": "retailer",
+      "sectors": [
+        "cooler",
+        "ssd",
+        "ram",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "mini-pc",
+        "laptop",
+        "networking",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.geekbuying.com/item/Akluer-480L-A-Walking-Pad-with-Incline-531219.html",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
       "store": "geekom.com",
       "type": "brand-store",
       "sectors": [],
@@ -835,6 +900,32 @@
       "storefronts": [],
       "source_url": "https://www.geekom.com/",
       "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "geekompc.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "ssd",
+        "ram",
+        "gpu",
+        "cpu",
+        "monitor",
+        "keyboard",
+        "headset",
+        "mini-pc",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [
+        "US"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.geekompc.com/shipping-delivery/",
+      "quote": "Orders placed through www.geekompc.com can be shipped to the United States.",
       "checked_on": "2026-10-04"
     },
     {
@@ -872,6 +963,30 @@
       "ships_to": [],
       "storefronts": [],
       "source_url": "https://glorious.gg/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "gmktec.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "ssd",
+        "ram",
+        "gpu",
+        "cpu",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "mini-pc",
+        "prebuilt",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.gmktec.com/shipping",
       "quote": null,
       "checked_on": "2026-10-04"
     },
@@ -1868,6 +1983,42 @@
       "storefronts": [],
       "source_url": "https://www.tp-link.com/",
       "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "us.ugreen.com",
+      "type": "brand-store",
+      "sectors": [
+        "cooler",
+        "ssd",
+        "monitor",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [
+        "US",
+        "EU",
+        "CA",
+        "DE",
+        "GB",
+        "FR",
+        "NL",
+        "JP"
+      ],
+      "storefronts": [
+        "us.ugreen.com (US)",
+        "Europe (eu.ugreen.com)",
+        "Canada",
+        "Deutschland",
+        "United Kingdom",
+        "France",
+        "Nederland",
+        "日本"
+      ],
+      "source_url": "https://us.ugreen.com/pages/shipping-policy",
+      "quote": "Choose your country or region United States English Europe English Canada English Deutschland Deutsch United Kingdom English France Français Nederland Nederlands 日本 日本語",
       "checked_on": "2026-10-04"
     },
     {
