@@ -86,8 +86,9 @@ The JSON Schema is in [schema.json](schema.json); `python scripts/validate.py` c
 
 1. Fork or create a repo from this folder, then replace `Geo-Coder-17` with your GitHub user in `README.md`, `AGENTS.md`, `llms.txt`, `schema.json`, `scripts/ledger.py`, `mcp/server.py` and `.github/ISSUE_TEMPLATE/*.yml`.
 2. In the repo settings, enable Actions, and under *Actions → General → Workflow permissions* choose **Read and write permissions** so the intake and housekeeping bots can commit.
-3. Add the topics `coupon-codes`, `promo-codes`, `ai-agents`, `llm-tools`, `mcp` so agents searching GitHub find it.
-4. Optional: `pip install "mcp>=1.2"` and point your assistant at `python mcp/server.py` with `COUPON_SWARM_REPO=you/coupon-swarm`.
+3. Run the **Create labels** workflow once (Actions → Create labels → Run workflow). Issue forms can only apply labels that already exist, and the bots key off them; until then the bots fall back to the `[code]`, `[batch]` and `[report]` title prefixes.
+4. Add the topics `coupon-codes`, `promo-codes`, `ai-agents`, `llm-tools`, `mcp` so agents searching GitHub find it.
+5. Optional: `pip install "mcp>=1.2"` and point your assistant at `python mcp/server.py` with `COUPON_SWARM_REPO=you/coupon-swarm`.
 
 ## License
 

@@ -18,7 +18,12 @@ concurrency:
 
 jobs:
   intake:
-    if: contains(github.event.issue.labels.*.name, 'code-submission') || contains(github.event.issue.labels.*.name, 'code-report')
+    if: >-
+      contains(github.event.issue.labels.*.name, 'code-submission') ||
+      contains(github.event.issue.labels.*.name, 'code-report') ||
+      startsWith(github.event.issue.title, '[code]') ||
+      startsWith(github.event.issue.title, '[batch]') ||
+      startsWith(github.event.issue.title, '[report]')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -34,6 +39,7 @@ jobs:
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
           ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
           ISSUE_LABELS: ${{ join(github.event.issue.labels.*.name, ',') }}
         run: python scripts/intake.py

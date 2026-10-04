@@ -6,7 +6,7 @@ Three kinds of issue body are understood:
   3. A fenced ```json block containing one entry object or an array of entries
      (for agents depositing many codes at once; label: code-submission).
 
-Environment: ISSUE_BODY, ISSUE_NUMBER, ISSUE_AUTHOR, ISSUE_LABELS (comma-separated).
+Environment: ISSUE_BODY, ISSUE_NUMBER, ISSUE_AUTHOR, ISSUE_LABELS (comma-separated), ISSUE_TITLE.
 Writes 'result' and 'message' to $GITHUB_OUTPUT (or prints them when run locally).
 result is one of: added, updated, reported, rejected.
 """
@@ -130,9 +130,11 @@ def main() -> int:
     body = os.environ.get("ISSUE_BODY", "")
     author = os.environ.get("ISSUE_AUTHOR", "unknown")
     labels = [l.strip() for l in os.environ.get("ISSUE_LABELS", "").split(",") if l.strip()]
+    title = os.environ.get("ISSUE_TITLE", "").strip().lower()
     ledger = L.load_ledger()
 
-    if "code-report" in labels:
+    # Issue forms only apply labels that exist in the repo; the title prefix is the fallback.
+    if "code-report" in labels or (not labels and title.startswith("[report]")):
         fields = parse_form(body)
         ident, msg = report(fields, ledger)
         if ident is None:

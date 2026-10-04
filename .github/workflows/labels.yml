@@ -1,0 +1,27 @@
+name: Create labels
+
+# Issue forms can only apply labels that already exist in the repo, and the intake
+# bot keys off those labels. Run this once after forking (Actions -> Create labels ->
+# Run workflow); it also runs automatically the first time this file lands on main.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/labels.yml"]
+
+permissions:
+  issues: write
+
+jobs:
+  labels:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create or update the three labels
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          gh label create code-submission --repo "$REPO" --color 0E8A16 --description "A coupon code deposit; the intake bot processes it" --force
+          gh label create code-report     --repo "$REPO" --color 1D76DB --description "A worked/failed report on a listed code" --force
+          gh label create needs-fix       --repo "$REPO" --color D93F0B --description "The bot rejected this deposit; edit the issue to fix it" --force
