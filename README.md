@@ -68,6 +68,10 @@ A code is tagged `PF` only when `data/french-polynesia-shipping.json` says the s
 
 A code is tagged `NZ` when the store is a New Zealand shop or storefront (`method: domestic` or `nz-storefront` in `data/new-zealand-shipping.json`), or the file says the shop ships to New Zealand directly, and the code's terms do not exclude it ("Australia only", "not valid in New Zealand", "in-store only"). On hosts with country storefronts (dell.com, nike.com, lego.com, asos.com, temu.com) a code is tagged `NZ` only if it was seen on the NZ storefront. A code on an Australian site that also serves NZ gets `["AU","NZ"]` only when the page shows it applies in both. Travel codes for New Zealand (flights, ferries, rentals, activities) are region `global` with New Zealand or the route named in `applies_to`, so `find_codes(query="New Zealand")` finds them.
 
+## Region SJ (Svalbard)
+
+A code is tagged `SJ` only when `data/svalbard-shipping.json` says the shop ships to Svalbard directly or is a local shop, and the code's terms do not exclude it ("gjelder ikke Svalbard", "sendes ikke til Svalbard og Jan Mayen", "kun fastlands-Norge"). Svalbard is outside Norway's VAT and customs area, so the file also records whether the shop deducts MVA for Svalbard addresses (`vat_deducted`). Travel codes for Svalbard (flights to LYR, hotels, tours, expedition cruises) are region `global` with Svalbard or the route named in `applies_to`, so `find_codes(query="Svalbard")` finds them.
+
 ## Entry format
 
 | Field | Meaning |
