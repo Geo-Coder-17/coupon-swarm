@@ -72,6 +72,10 @@ A code is tagged `NZ` when the store is a New Zealand shop or storefront (`metho
 
 A code is tagged `SJ` only when `data/svalbard-shipping.json` says the shop ships to Svalbard directly or is a local shop, and the code's terms do not exclude it ("gjelder ikke Svalbard", "sendes ikke til Svalbard og Jan Mayen", "kun fastlands-Norge"). Svalbard is outside Norway's VAT and customs area, so the file also records whether the shop deducts MVA for Svalbard addresses (`vat_deducted`). Travel codes for Svalbard (flights to LYR, hotels, tours, expedition cruises) are region `global` with Svalbard or the route named in `applies_to`, so `find_codes(query="Svalbard")` finds them.
 
+## Category sweeps: PC hardware
+
+Codes from `data/pc-hardware-stores.json` shops carry the sector in `applies_to` (one of case, cooler, psu, ssd, hdd, ram, gpu, motherboard, cpu, monitor, keyboard, mouse, headset, mini-pc, prebuilt, laptop, networking, cables-accessories, refurbished, or `sitewide` for a storewide code) and a `notes` field beginning `PC hardware:`, so `find_codes(query="PC hardware")` lists the category and `find_codes(query="ssd")` narrows it. `region` is the shop's delivery area, or the storefront the code was seen on for brand hosts with regional shops.
+
 ## Entry format
 
 | Field | Meaning |

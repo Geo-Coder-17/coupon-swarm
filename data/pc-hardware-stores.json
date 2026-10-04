@@ -1,0 +1,1978 @@
+{
+  "checked_on": "2026-10-04",
+  "stores": [
+    {
+      "store": "acemagic.com",
+      "type": "brand-store",
+      "sectors": [
+        "ssd",
+        "ram",
+        "gpu",
+        "cpu",
+        "monitor",
+        "mini-pc",
+        "prebuilt",
+        "laptop",
+        "networking"
+      ],
+      "ships_to": [
+        "EU"
+      ],
+      "storefronts": [],
+      "source_url": "https://acemagic.com/pages/shipping-policy",
+      "quote": "All orders to Europe are shipped from the Europe warehouse.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "acer.com",
+      "type": "brand-store",
+      "sectors": [
+        "gpu",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "mini-pc",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [
+        "acer.com/dk"
+      ],
+      "source_url": "https://acer.com/dk/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "adorama.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.adorama.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "akkogear.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.akkogear.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "alphacool.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.alphacool.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "alternate.de",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "psu",
+        "ssd",
+        "ram",
+        "gpu",
+        "cpu",
+        "monitor",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.alternate.de/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "alza.cz",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.alza.cz/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "anker.com",
+      "type": "brand-store",
+      "sectors": [
+        "cooler",
+        "monitor",
+        "headset",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.anker.com/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "aquatuning.de",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ram",
+        "gpu",
+        "motherboard",
+        "cpu",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "prebuilt",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.aquatuning.de/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "arctic.de",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "cpu",
+        "monitor",
+        "prebuilt",
+        "networking",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [
+        "DE"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.arctic.de/en/Payback/",
+      "quote": "Free shipping from 39€ in Germany / 59€ outside Germany.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "asus.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ram",
+        "gpu",
+        "motherboard",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "mini-pc",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.asus.com/support/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "av-cables.dk",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ssd",
+        "ram",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://av-cables.dk/policies/shipping-policy",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "awd-it.co.uk",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ssd",
+        "ram",
+        "gpu",
+        "motherboard",
+        "cpu",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "prebuilt",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.awd-it.co.uk/free-delivery.html",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "azerty.nl",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.azerty.nl/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "backmarket.dk",
+      "type": "refurb",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.backmarket.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "baseus.com",
+      "type": "brand-store",
+      "sectors": [
+        "headset",
+        "cables-accessories"
+      ],
+      "ships_to": [
+        "US"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.baseus.com/pages/shipping-return-policy",
+      "quote": "Baseus official website supports delivery to most areas of the United States.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "bee-link.com",
+      "type": "brand-store",
+      "sectors": [
+        "psu",
+        "ssd",
+        "cpu",
+        "mini-pc",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.bee-link.com/pages/shipping-policy",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "benq.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "monitor",
+        "laptop",
+        "networking",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.benq.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "bequiet.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ssd",
+        "motherboard",
+        "cpu",
+        "keyboard",
+        "mouse",
+        "prebuilt",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.bequiet.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "bhphotovideo.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.bhphotovideo.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "box.co.uk",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "cooler",
+        "ssd",
+        "ram",
+        "gpu",
+        "motherboard",
+        "cpu",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [
+        "GB"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.box.co.uk/delivery-info",
+      "quote": "Delivery is available to the UK mainland only.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "cablematters.com",
+      "type": "brand-store",
+      "sectors": [
+        "cooler",
+        "ssd",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "prebuilt",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.cablematters.com/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "cablemod.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.cablemod.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "caseking.de",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ssd",
+        "ram",
+        "gpu",
+        "motherboard",
+        "cpu",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "mini-pc",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.caseking.de/cp/versandkosten/cp_000014.html",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "cclonline.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.cclonline.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "computersalg.dk",
+      "type": "retailer",
+      "sectors": [
+        "ram",
+        "cables-accessories"
+      ],
+      "ships_to": [
+        "DK"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.computersalg.dk/shippingprices",
+      "quote": "Er du bosiddende på Grønland kan du enten benytte en leveringsadresse i Danmark",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "computeruniverse.net",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.computeruniverse.net/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "coolermaster.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "gpu",
+        "cpu",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.coolermaster.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "coolmod.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.coolmod.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "coolshop.dk",
+      "type": "retailer",
+      "sectors": [
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "laptop",
+        "networking",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.coolshop.dk/minisite/inline/fragt",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "corsair.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ssd",
+        "ram",
+        "cpu",
+        "keyboard",
+        "mouse",
+        "headset",
+        "prebuilt",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.corsair.com/s/shipping-return-refund-policy",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "crucial.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.crucial.com/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "currys.co.uk",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.currys.co.uk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "cyberport.de",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.cyberport.de/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "cyberpowerpc.com",
+      "type": "system-builder",
+      "sectors": [
+        "case",
+        "cooler",
+        "ssd",
+        "ram",
+        "gpu",
+        "motherboard",
+        "cpu",
+        "keyboard",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.cyberpowerpc.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "cybertek.fr",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "cooler",
+        "ssd",
+        "cpu",
+        "keyboard",
+        "mini-pc",
+        "laptop",
+        "networking",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [
+        "FR",
+        "BE"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.cybertek.fr/cybertek/livraisons-express.aspx",
+      "quote": "Nous vendons et expédions tous nos produits en France métropolitaine, en Corse (hors produits encombrants) et en Belgique.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "deepcool.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "cpu",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.deepcool.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "dell.com",
+      "type": "brand-store",
+      "sectors": [
+        "cooler",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [
+        "dell.com/da-dk"
+      ],
+      "source_url": "https://www.dell.com/da-dk/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "drop.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://drop.com/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "dustin.dk",
+      "type": "retailer",
+      "sectors": [
+        "monitor",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.dustin.dk/service/levering",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "ebuyer.com",
+      "type": "retailer",
+      "sectors": [
+        "ssd",
+        "ram",
+        "gpu",
+        "monitor",
+        "prebuilt",
+        "laptop",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.ebuyer.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "ekwb.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.ekwb.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "elgiganten.dk",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.elgiganten.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "endgamegear.com",
+      "type": "brand-store",
+      "sectors": [
+        "keyboard",
+        "mouse",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [
+        "US"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.endgamegear.com/pages/shipping-returns",
+      "quote": "We currently ship to addresses within the continental United States",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "epomaker.com",
+      "type": "brand-store",
+      "sectors": [
+        "keyboard",
+        "mouse",
+        "headset",
+        "prebuilt",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.epomaker.com/policies/shipping-policy",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "eshop.macsales.com",
+      "type": "brand-store",
+      "sectors": [
+        "ssd",
+        "ram",
+        "monitor",
+        "prebuilt",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://eshop.macsales.com/shop/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "eu.ugreen.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "ssd",
+        "monitor",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://eu.ugreen.com/da-dk/policies/shipping-policy",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "foniks.dk",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.foniks.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "fractal-design.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.fractal-design.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "galaxus.de",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "cooler",
+        "ssd",
+        "gpu",
+        "monitor",
+        "keyboard",
+        "headset",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.galaxus.de/de/guide/28",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "geekom.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.geekom.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "gigabyte.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "ram",
+        "gpu",
+        "motherboard",
+        "monitor",
+        "mini-pc",
+        "prebuilt",
+        "laptop"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.gigabyte.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "glorious.gg",
+      "type": "brand-store",
+      "sectors": [
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "prebuilt",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://glorious.gg/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "hp.com",
+      "type": "brand-store",
+      "sectors": [
+        "monitor",
+        "prebuilt",
+        "laptop",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [
+        "hp.com/dk"
+      ],
+      "source_url": "https://www.hp.com/dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "hyperx.com",
+      "type": "brand-store",
+      "sectors": [
+        "ram",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [
+        "US"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.hyperx.com/pages/delivery-information",
+      "quote": "HyperX.com ships to street addresses within the 50 United States and the District of Columbia.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "hyte.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "monitor",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.hyte.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "ibuypower.com",
+      "type": "system-builder",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.ibuypower.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "inet.se",
+      "type": "retailer",
+      "sectors": [
+        "cooler",
+        "ssd",
+        "ram",
+        "cpu",
+        "headset",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.inet.se/info/2/om-inet",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "jimms.fi",
+      "type": "retailer",
+      "sectors": [
+        "cooler",
+        "ssd",
+        "gpu",
+        "cpu",
+        "monitor",
+        "mouse",
+        "headset",
+        "mini-pc",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.jimms.fi/fi/Product/List/000-15X/ohjelmistot--digitaalinen-toimitus",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "keychron.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "keyboard",
+        "mouse",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.keychron.com/shipping-policy",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "kingston.com",
+      "type": "brand-store",
+      "sectors": [
+        "ssd",
+        "ram",
+        "prebuilt",
+        "laptop",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.kingston.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "komplett.dk",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.komplett.dk/kundeservice/fragt-og-levering/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "komplett.no",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.komplett.no/kundeservice/frakt-og-levering/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "komplett.se",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.komplett.se/kundservice/frakt-och-leverans/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "lamzu.com",
+      "type": "brand-store",
+      "sectors": [
+        "keyboard",
+        "mouse",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.lamzu.com/pages/shipping-information",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "ldlc.com",
+      "type": "retailer",
+      "sectors": [
+        "ssd",
+        "monitor",
+        "keyboard",
+        "networking",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.ldlc.com/pages/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "lenovo.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [
+        "lenovo.com/dk"
+      ],
+      "source_url": "https://www.lenovo.com/dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "lexar.com",
+      "type": "brand-store",
+      "sectors": [
+        "ssd",
+        "ram",
+        "prebuilt",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.lexar.com/support/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "lg.com",
+      "type": "brand-store",
+      "sectors": [
+        "cooler",
+        "cpu",
+        "monitor",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.lg.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "lian-li.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.lian-li.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "lofree.co",
+      "type": "brand-store",
+      "sectors": [
+        "keyboard",
+        "mouse",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.lofree.co/pages/shipping-policy",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "logitechg.com",
+      "type": "brand-store",
+      "sectors": [
+        "keyboard",
+        "mouse",
+        "headset",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.logitechg.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "materiel.net",
+      "type": "retailer",
+      "sectors": [
+        "cooler",
+        "ssd",
+        "ram",
+        "monitor",
+        "keyboard",
+        "mini-pc",
+        "prebuilt",
+        "networking",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.materiel.net/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "megekko.nl",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.megekko.nl/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "microcenter.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.microcenter.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "mindfactory.de",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.mindfactory.de/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "minisforum.com",
+      "type": "brand-store",
+      "sectors": [
+        "cooler",
+        "ssd",
+        "ram",
+        "cpu",
+        "mini-pc",
+        "laptop",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.minisforum.com/policies/shipping-policy",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "mm-vision.dk",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ssd",
+        "ram",
+        "gpu",
+        "motherboard",
+        "cpu",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.mm-vision.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "moddiy.com",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "gpu",
+        "cpu",
+        "keyboard",
+        "mouse",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [
+        "global"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.moddiy.com/pages/shipping",
+      "quote": "We ship worldwide to all countries, except a few unsupported destinations",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "monoprice.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.monoprice.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "montech.com",
+      "type": "brand-store",
+      "sectors": [
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.montech.com/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "morele.net",
+      "type": "retailer",
+      "sectors": [
+        "ssd",
+        "ram",
+        "cpu",
+        "monitor",
+        "mini-pc",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.morele.net/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "msi.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.msi.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "netgear.com",
+      "type": "brand-store",
+      "sectors": [
+        "networking",
+        "refurbished"
+      ],
+      "ships_to": [
+        "US"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.netgear.com/about/shipping-and-returns/",
+      "quote": "We ship to most locations within the United States (50 states as well as to Military (APO/FPO) addresses.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "newegg.com",
+      "type": "retailer",
+      "sectors": [
+        "cooler",
+        "psu",
+        "ssd",
+        "ram",
+        "gpu",
+        "motherboard",
+        "cpu",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.newegg.com/shipping-policy",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "notebooksbilliger.de",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.notebooksbilliger.de/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "nuphy.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.nuphy.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "nzxt.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "gpu",
+        "motherboard",
+        "cpu",
+        "prebuilt",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.nzxt.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "overclockers.co.uk",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.overclockers.co.uk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "pccomponentes.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.pccomponentes.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "pcdiga.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.pcdiga.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "performance-pcs.com",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ssd",
+        "ram",
+        "gpu",
+        "motherboard",
+        "cpu",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [
+        "global"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.performance-pcs.com/shipping",
+      "quote": "WORLDWIDE DELIVERY",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "phanteks.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "gpu",
+        "cpu",
+        "monitor",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.phanteks.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "plugable.com",
+      "type": "brand-store",
+      "sectors": [
+        "monitor",
+        "keyboard",
+        "mouse",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://plugable.com/collections/docking-stations/power-delivery-host-charging",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "pny.com",
+      "type": "brand-store",
+      "sectors": [
+        "ssd",
+        "ram",
+        "gpu",
+        "prebuilt",
+        "networking"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.pny.com/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "power.dk",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.power.dk/levering",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "powercolor.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.powercolor.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "proshop.dk",
+      "type": "retailer",
+      "sectors": [
+        "ssd",
+        "laptop",
+        "networking"
+      ],
+      "ships_to": [
+        "DK",
+        "GL",
+        "FO"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.proshop.dk/Forsendelse-og-levering.htm",
+      "quote": "Ja, vi leverer momsfrit til både Grønland og Færøerne",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "proshop.fi",
+      "type": "retailer",
+      "sectors": [
+        "ssd"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.proshop.fi/Kuljetus-Toimitus.htm",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "proshop.se",
+      "type": "retailer",
+      "sectors": [
+        "ssd"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.proshop.se/Leverans.htm",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "pulsar.gg",
+      "type": "brand-store",
+      "sectors": [
+        "keyboard",
+        "mouse",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.pulsar.gg/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "razer.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "laptop",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.razer.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "refurb.dk",
+      "type": "refurb",
+      "sectors": [
+        "prebuilt",
+        "laptop",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.refurb.dk/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "sabrent.com",
+      "type": "brand-store",
+      "sectors": [
+        "cooler",
+        "ssd",
+        "ram",
+        "gpu",
+        "monitor",
+        "prebuilt",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.sabrent.com/pages/shipping-policy",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "samsung.com",
+      "type": "brand-store",
+      "sectors": [
+        "cooler",
+        "ram",
+        "monitor",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.samsung.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "satechi.net",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "ssd",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.satechi.net/pages/shipping-delivery",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "scan.co.uk",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "ram",
+        "gpu",
+        "prebuilt",
+        "laptop",
+        "networking"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.scan.co.uk/info/delivery",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "seagate.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.seagate.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "sharkgaming.dk",
+      "type": "retailer",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ssd",
+        "ram",
+        "gpu",
+        "motherboard",
+        "cpu",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.sharkgaming.dk/gaming-computere",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "silverstonetek.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.silverstonetek.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "steelseries.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.steelseries.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "teamgroupinc.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "ssd",
+        "ram",
+        "cpu",
+        "monitor",
+        "prebuilt",
+        "laptop",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.teamgroupinc.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "thermal-grizzly.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "gpu",
+        "motherboard",
+        "cpu",
+        "monitor",
+        "cables-accessories"
+      ],
+      "ships_to": [
+        "global"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.thermal-grizzly.com/footer/informationen/lieferung-und-versand/",
+      "quote": "Die Lieferung der Ware erfolgt weltweit.",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "thermaltake.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ram",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "prebuilt",
+        "laptop"
+      ],
+      "ships_to": [
+        "AU",
+        "BR",
+        "CN",
+        "DE",
+        "ES",
+        "JP",
+        "KR",
+        "PL",
+        "RU",
+        "TH",
+        "TR",
+        "TW",
+        "US"
+      ],
+      "storefronts": [],
+      "source_url": "https://www.thermaltake.com/",
+      "quote": "Global Australia Brazil China Germany Japan Korea Latam Poland Russia Spain Taiwan Thailand Turkey UK USA Subscribe to our emails Email Face",
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "titanrig.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.titanrig.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "topachat.com",
+      "type": "retailer",
+      "sectors": [
+        "ssd",
+        "ram",
+        "keyboard",
+        "networking"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.topachat.com/p/assistance/avant-ma-commande/livraison",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "tp-link.com",
+      "type": "brand-store",
+      "sectors": [
+        "prebuilt",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.tp-link.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "verkkokauppa.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.verkkokauppa.com/fi/tunnin-toimitus",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "viewsonic.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "monitor",
+        "prebuilt",
+        "networking",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.viewsonic.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "webhallen.com",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.webhallen.com/shipping",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "westerndigital.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.westerndigital.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "x-kom.pl",
+      "type": "retailer",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.x-kom.pl/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "xpg.com",
+      "type": "brand-store",
+      "sectors": [
+        "case",
+        "cooler",
+        "psu",
+        "ssd",
+        "ram",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "headset",
+        "prebuilt",
+        "cables-accessories"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.xpg.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "zotac.com",
+      "type": "brand-store",
+      "sectors": [],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.zotac.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    },
+    {
+      "store": "zowie.benq.com",
+      "type": "brand-store",
+      "sectors": [
+        "monitor",
+        "mouse",
+        "networking",
+        "cables-accessories",
+        "refurbished"
+      ],
+      "ships_to": [],
+      "storefronts": [],
+      "source_url": "https://www.zowie.benq.com/",
+      "quote": null,
+      "checked_on": "2026-10-04"
+    }
+  ]
+}
