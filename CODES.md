@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-04 (UTC). 79 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-04 (UTC). 84 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -18,6 +18,7 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | banggood.com | `BGdc3edc` | Coupon price $73.99 (about EUR 63.92) | GameSir G7 Pro Xbox-certified tri-mode wireless controller, EU stock (Czech warehouse) | - | EU | - | 2026-10-04 | active | [source](https://blog.banggood.com/banggood-deals-september-2026-76620.html) |
 | baseus.com | `RD1` | $110 off ($299.99 to $189.99) | Baseus Spacemate RD1 Pro 15-in-1 docking station | - | US | - | 2026-10-04 | active | [source](https://www.baseus.com/products/spacemate-rd1-pro-15-in-1-win-docking-station) |
 | bergfreunde.dk | `OCTOBER10` | 10% off | Almost everything | - | DK | 2026-10-05 | 2026-10-04 | active | [source](https://www.bergfreunde.dk/black-weekend/) |
+| bluebridge.co.nz | `STUDENT` | 5% off | Bluebridge Cook Strait ferry fares (Wellington–Picton), students aged 16+ | - | global | - | 2026-10-04 | active | [source](https://www.bluebridge.co.nz/deals) |
 | cultbeauty.com | `FIRST15` | up to 15% off + £5 credit on second purchase | first order | £25 (€25 on the EU site) | GB, EU | - | 2026-10-04 | active | [source](https://www.cultbeauty.com/) |
 | dell.com | `PROMO20` | 20% off | Dell monitors and accessories when purchased together with a PC | - | DK | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-dk/lp/promo) |
 | dynadot.com | `899COM` | $8.99 first-year .com registration | New .COM domain registrations, first year only | - | global | - | 2026-10-04 | active | [source](https://www.dynadot.com/899com) |
@@ -34,6 +35,7 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | eu.ugreen.com | `DL45699` | 35% off | UGREEN Nexode 300W GaN Wall USB-C Charger (5 ports) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports) |
 | eu.ugreen.com | `DL65487` | 30% off (EUR 99.99 to EUR 69.99) | UGREEN Mac mini M4 docking station (11-port, 8TB, 10Gbps) | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/mac-mini-m4-docking-station-11port-8tb-10gbps) |
 | eu.ugreen.com | `DL90912` | 40% off | UGREEN Revodok Pro 209 Dual Display 9-in-1 USB-C 4K docking station on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/copy-of-weekly-sale-product-9-in-1-usb-c-docking-station) |
+| footlocker.co.nz | `FINALS` | $100 off | Orders $500 or more | $500 | NZ | - | 2026-10-04 | active | [source](https://www.footlocker.co.nz/) |
 | geekbuying.com | `DESTOCK1` | 7% off | Products shipped from Geekbuying's Germany (EU) warehouse, as listed on the EU Warehouse Sale promo page | - | EU | - | 2026-10-04 | active | [source](https://promotion.geekbuying.com/promotion/eu_warehouse_sale) |
 | geekbuying.com | `DESTOCK2` | $15 off every $200 spent | Products shipped from Geekbuying's Germany (EU) warehouse, as listed on the EU Warehouse Sale promo page | $200 | EU | - | 2026-10-04 | active | [source](https://promotion.geekbuying.com/promotion/eu_warehouse_sale) |
 | geekbuying.com | `ESSTOCK1` | 6% off | Products shipped from Geekbuying's Spain (EU) warehouse, as listed on the EU Warehouse Sale promo page | - | EU | - | 2026-10-04 | active | [source](https://promotion.geekbuying.com/promotion/eu_warehouse_sale) |
@@ -68,11 +70,14 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | nordvpn.com | `secureinternet` | 64% off (3-month plan at $7.99/mo instead of $12.49/mo) | NordVPN 3-month plan, new subscriptions | - | global | - | 2026-10-03 | active | [source](https://nordvpn.com/coupon/) |
 | notino.dk | `flash` | 10% off | Selected products (Notino's flash-sale selection) with more than 75 kr. of them in the basket; not products already on offer or sale. In the Notino app the code flashapp gives 15% instead. | 75 kr. | DK | - | 2026-10-03 | active | [source](https://www.notino.dk/vouchers-and-discount-codes/) |
 | notino.dk | `sale` | Up to 20% off | Selected products in Notino's offers section; not products already on offer or sale. | - | DK | - | 2026-10-03 | active | [source](https://www.notino.dk/vouchers-and-discount-codes/) |
+| nz.iherb.com | `OCT26SUPPS` | 20% off | Supplements (selected), iHerb New Zealand storefront | - | NZ | - | 2026-10-04 | active | [source](https://nz.iherb.com/) |
+| nz.myprotein.com | `FUEL` | extra 25% off | Selected products in Double Discount promotion, stackable with other discounts | - | NZ | - | 2026-10-04 | active | [source](https://nz.myprotein.com/all-offers/double-discount.list) |
 | omio.com | `APPNEW10` | 10% off (discount applied on purchases of up to EUR 80) | First booking in the Omio app, new customers only | - | global | 2026-11-30 | 2026-10-03 | active | [source](https://www.omio.com/offers) |
 | omio.com | `NEW10` | 10% off (discount applied on purchases of up to EUR 80) | First booking, new Omio customers only (train, bus, ferry tickets sold via Omio) | - | global | 2026-11-30 | 2026-10-03 | active | [source](https://www.omio.com/offers) |
 | oneplus.com | `OPAPP20` | 20% off | Audio products and accessories bought through the OnePlus Store app, US store | - | US | - | 2026-10-04 | active | [source](https://www.oneplus.com/us) |
 | optery.com | `FALL2026` | 20% off | Optery personal data-removal plans, applied at checkout (2026 Fall Sale) | - | global | - | 2026-10-04 | active | [source](https://www.optery.com/optery-promo-codes/) |
 | purevpn.com | `PURE10` | Extra 10% off | All PureVPN subscription plans (applied on top of the plan's listed discount) | - | global | - | 2026-10-04 | active | [source](https://www.purevpn.com/coupons) |
+| realnz.com | `MILFORD10` | 10% off | Milford Sound Day Cruises (RealNZ), New Zealand | - | global | - | 2026-10-04 | active | [source](https://www.realnz.com/specials) |
 | saily.com | `XTRA10` | Extra discount on your first eSIM plan (percentage is rendered dynamically on the page; the code name indicates 10%) | First Saily eSIM data plan purchase, new customers; redeemable in the app or on the web via 'Got a coupon?' at checkout | - | global | - | 2026-10-03 | active | [source](https://saily.com/coupon/) |
 | skagenfood.dk | `3xFrugtkasse` | Frugtkassen (fruit box) free for 3 weeks, worth up to 591 kr. | New customers only, when creating a meal-box subscription (weekly or bi-weekly delivery) at the same time; valid for all meal boxes. Free shipping, no binding period. | - | DK | 2026-12-31 | 2026-10-04 | active | [source](https://skagenfood.dk/da-dk/maaltidskasser) |
 | surfshark.com | `Sharkgift` | 80% off plus one extra month free | Surfshark VPN subscription (plan not specified on the page; discount is on long-term plans) | - | global | - | 2026-10-03 | active | [source](https://surfshark.com/coupon) |

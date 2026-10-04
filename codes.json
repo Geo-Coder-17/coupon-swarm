@@ -256,6 +256,27 @@
       "last_report": null
     },
     {
+      "id": "bluebridge.co.nz:STUDENT",
+      "store": "bluebridge.co.nz",
+      "code": "STUDENT",
+      "discount": "5% off",
+      "applies_to": "Bluebridge Cook Strait ferry fares (Wellington–Picton), students aged 16+",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.bluebridge.co.nz/deals",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "New Zealand: Bluebridge deals page (read 2026-10-04): \"Secondary and tertiary students aged 16+ save 5% on all fares with our STUDENT promo code every time you sail.\" and \"Enter promo code STUDENT at the time of booking. It cannot be added later.\" Valid all-year-round (no end date stated). Valid student photo ID or acceptance letter required at check-in; direct bookings only, max six passengers per booking.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "cultbeauty.com:FIRST15",
       "store": "cultbeauty.com",
       "code": "FIRST15",
@@ -587,6 +608,27 @@
       "source_url": "https://eu.ugreen.com/products/copy-of-weekly-sale-product-9-in-1-usb-c-docking-station",
       "submitted_by": "claude-fable-5-1",
       "notes": "Shown as '40% OFF HOT ... Code: DL90912' on the UGREEN EU store homepage (Autumn Sale, no end date stated). Product-specific code. Other dock/hub codes on the same page: DL55767 (40% off Revodok Pro 12-port triple-4K dock), DL55766 (34% off Revodok Pro 11-port dock), DL45366 (42% off Revodok Pro 2102 10-in-1 dock), DL60515 (40% off 7-in-1 USB-C hub with 4K60 HDMI), DL15495 (34% off Revodok 105 5-in-1 hub), DL75126 (38% off Steam Deck 6-in-1 dock). Honey (Oct 2026) lists DL90912 at 40% off. | Product page: 'Save 40% Code: DL90912 Limited Time Offer'. Also on the eu.ugreen.com homepage deals strip. No end date shown.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "footlocker.co.nz:FINALS",
+      "store": "footlocker.co.nz",
+      "code": "FINALS",
+      "discount": "$100 off",
+      "applies_to": "Orders $500 or more",
+      "min_order": "$500",
+      "region": [
+        "NZ"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.footlocker.co.nz/",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Homepage banner (read 2026-10-04): \"SCORE $100 OFF $500 USE CODE: 'FINALS' ONLINE OR IN-STORE\"; \"T&C's Apply*\" (terms not shown on the homepage).",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1307,6 +1349,48 @@
       "last_report": null
     },
     {
+      "id": "nz.iherb.com:OCT26SUPPS",
+      "store": "nz.iherb.com",
+      "code": "OCT26SUPPS",
+      "discount": "20% off",
+      "applies_to": "Supplements (selected), iHerb New Zealand storefront",
+      "min_order": null,
+      "region": [
+        "NZ"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://nz.iherb.com/",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "nz.iherb.com homepage banner (read 2026-10-04): \"20% Off Supplements Top brands, everyday essentials and more Use Code: OCT26SUPPS\". No end date stated on the page; terms of the offer not shown on the homepage.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "nz.myprotein.com:FUEL",
+      "store": "nz.myprotein.com",
+      "code": "FUEL",
+      "discount": "extra 25% off",
+      "applies_to": "Selected products in Double Discount promotion, stackable with other discounts",
+      "min_order": null,
+      "region": [
+        "NZ"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://nz.myprotein.com/all-offers/double-discount.list",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Brand's own NZ storefront page (read 2026-10-04): \"Double Discount! Enjoy further savings on selected products plus stack with code FUEL for an extra 25% off\". Selected short-dated products only; no expiry stated on the page.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "omio.com:APPNEW10",
       "store": "omio.com",
       "code": "APPNEW10",
@@ -1406,6 +1490,27 @@
       "source_url": "https://www.purevpn.com/coupons",
       "submitted_by": "claude-fable-5-1",
       "notes": "Official PureVPN coupons page: 'get an extra 10% off all PureVPN plans with the code PURE10'. Enter it under 'Got a coupon code?' at checkout. No end date stated. Cybernews' VPN coupon roundup (updated 2026-10-02) lists PureVPN only as a link-applied deal, so this is the only public PureVPN code string found. | Official PureVPN coupons page titled 'Get an Extra 10% Off This [October 2026]': 'get an extra 10% off all PureVPN plans with the code PURE10'. One coupon per order; stacks on top of the plan's intro pricing. 31-day money-back guarantee. No end date stated.",
+      "status": "active",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "realnz.com:MILFORD10",
+      "store": "realnz.com",
+      "code": "MILFORD10",
+      "discount": "10% off",
+      "applies_to": "Milford Sound Day Cruises (RealNZ), New Zealand",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": null,
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.realnz.com/specials",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "New Zealand: RealNZ specials page (read 2026-10-04): \"Save 10% on Milford Sound Day Cruises! Use promo code 'MILFORD10' for stunning views and an unforgettable journey.\" No end date stated on the page.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
