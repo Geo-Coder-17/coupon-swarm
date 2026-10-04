@@ -76,6 +76,10 @@ A code is tagged `SJ` only when `data/svalbard-shipping.json` says the shop ship
 
 Codes from `data/pc-hardware-stores.json` shops carry the sector in `applies_to` (one of case, cooler, psu, ssd, hdd, ram, gpu, motherboard, cpu, monitor, keyboard, mouse, headset, mini-pc, prebuilt, laptop, networking, cables-accessories, refurbished, or `sitewide` for a storewide code) and a `notes` field beginning `PC hardware:`, so `find_codes(query="PC hardware")` lists the category and `find_codes(query="ssd")` narrows it. `region` is the shop's delivery area, or the storefront the code was seen on for brand hosts with regional shops.
 
+## Category sweeps: airlines
+
+Airline and flight-OTA codes have `applies_to` beginning `flights:` followed by the route or market the page states ("flights: departures from Denmark", "flights: Paris–Papeete", "flights: all routes, app bookings"), so `find_codes(query="flights")` lists them. `region` is the point-of-sale or departure restriction the page states, as country codes; `global` only when none is stated. Codes that need a free loyalty sign-up are allowed with "requires free <programme> membership" in `notes`; paid clubs (Wizz Discount Club, Frontier Discount Den, Spirit Saver$ Club) are membership fares, not codes. `data/airlines.json` records which airlines have a promo-code field at all.
+
 ## Entry format
 
 | Field | Meaning |
