@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-04 (UTC). 109 active, 10 unverified, 0 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-05 (UTC). 106 active, 10 unverified, 3 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -72,8 +72,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | joindeleteme.com | `PARTNER20` | 20% off | First DeleteMe subscription (individual, couple or family plans) | - | global | - | 2026-10-03 | active | [source](https://www.dontpayfull.com/at/joindeleteme.com) |
 | jollyroom.dk | `WOW` | 10-25% off (percentage shown per product) | Selected products labelled with the code on jollyroom.dk (car seats, snowsuits, boots, toys, interior, baby gear etc.). Codes cannot be combined. | - | DK | 2026-10-19 | 2026-10-04 | active | [source](https://www.jollyroom.dk/rabatkoder/wow) |
 | jollyroom.no | `WOW` | 10–25% off | selected products | - | NO | 2026-10-19 | 2026-10-04 | active | [source](https://www.jollyroom.no/rabattkoder/wow) |
-| jotex.dk | `424965` | 20% off | Whole order when buying for over 2000 DKK (new orders); not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic. | 2000 DKK | DK | 2026-10-04 | 2026-10-04 | active | [source](https://www.jotex.dk/) |
-| jotex.dk | `BLACKOUT20` | 20% off | Blackout curtains (mørklægningsgardiner category), 2 or more items at regular price, new orders; not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic. | - | DK | 2026-10-04 | 2026-10-04 | active | [source](https://www.jotex.dk/) |
 | jotex.dk | `STORAGE20` | 20% off | Storage furniture (opbevaring category, jotex.dk/mobler/opbevaring). | - | DK | - | 2026-10-04 | active | [source](https://www.jotex.dk/) |
 | kenya-airways.com | `KQMOBILE` | up to 15% off flights | flights: all routes, Kenya Airways mobile app bookings only | - | global | - | 2026-10-04 | active | [source](https://www.kenya-airways.com/) |
 | kenya-airways.com | `SCM26` | up to 7% off domestic, up to 15% off international flights | flights: Kenya Airways flights for the marathon event promotion (domestic and international) | - | global | - | 2026-10-04 | active | [source](https://www.kenya-airways.com/) |
@@ -114,7 +112,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | vistaprint.dk | `PROMO` | 70-200 DKK off | Orders 400+ DKK | 400 DKK | DK | 2026-11-01 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
 | vistaprint.dk | `VISTA50` | Up to 50% off | Bestsellers for new customers | - | DK | 2027-01-30 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
 | vistaprint.dk | `VISTADEALS` | Up to 15% off | Select business products | - | DK | 2026-11-01 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
-| westjet.com | `5B4H5DD` | 20% off select base fares | flights: WestJet wholly operated flights within Canada and between Canada and the United States (UltraBasic, Econo, Premium fares); no codeshare or interline | - | global | 2026-10-04 | 2026-10-04 | active | [source](https://www.westjet.com/deals) |
 | airalo.com | `NEWTOAIRALO15` | 15% off the first eSIM purchase | New Airalo accounts with no prior purchase, any eSIM plan; redeem in the app or on airalo.com at checkout | - | global | 2026-12-31 | - | unverified | [source](https://localsinsider.com/digital-life/esims/best-esim-promo-codes-discounts/) |
 | eu.elegoo.com | `IMGIGA5` | 5% off | Orders on the ELEGOO EU store (EUR) | - | EU | - | - | unverified | [source](https://www.dontpayfull.com/at/elegoo.com) |
 | fanatical.com | `FANATICAL15` | 15% off any full-price game | Full-price (non-discounted) games and DLC on Fanatical, pre-orders included; not bundles, Star Deals, pick-and-mix, books or comics; some publishers and titles excluded | - | global | 2027-03-24 | 2026-10-03 | unverified | [source](https://www.fanatical.com/en/promo-codes) |

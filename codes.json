@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "name": "coupon-swarm",
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "codes": [
     {
       "id": "aarhushavnerundfart.dk:MOLS15",
@@ -1397,48 +1397,6 @@
       "last_report": null
     },
     {
-      "id": "jotex.dk:424965",
-      "store": "jotex.dk",
-      "code": "424965",
-      "discount": "20% off",
-      "applies_to": "Whole order when buying for over 2000 DKK (new orders); not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic.",
-      "min_order": "2000 DKK",
-      "region": [
-        "DK"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-04",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.jotex.dk/",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Top banner on Jotex.dk's front page: \"20% når du køber for 2000 DKK*. Indtast kode: 424965\" (20% when you buy for 2000 DKK, enter code 424965). Terms from Jotex's own terms API (campaign JO00000001752): \"*20% rabat gælder ved køb over 2000 DKK gælder t.o.m. 04.10.2026. Tilbuddet gælder på hele ordren og ved nybestilling. Tilbuddet gælder ikke på gavekort, bundles samt produkter mærket med 'Deal', 'Outlet', 'Limited Edition', 'Tailormade' & 'Basic'.\" (Valid through 4 Oct 2026 on the whole order for new orders; excludes gift cards, bundles and marked products.) Expires tomorrow.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "jotex.dk:BLACKOUT20",
-      "store": "jotex.dk",
-      "code": "BLACKOUT20",
-      "discount": "20% off",
-      "applies_to": "Blackout curtains (mørklægningsgardiner category), 2 or more items at regular price, new orders; not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic.",
-      "min_order": null,
-      "region": [
-        "DK"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-04",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.jotex.dk/",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Banner on Jotex.dk's front page: \"20% på mørklægningsgardiner*. Indtast kode: BLACKOUT20\" (20% on blackout curtains, enter code BLACKOUT20). Terms from Jotex's own terms API (campaign JO00000001758): \"*20% på mørklægningsgardiner gælder t.o.m. 04.10.2026. Tilbuddet gælder alle produkter i kategorien: [www.jotex.dk/gardiner/morklaegningsgardiner]. Gælder ved nybestilling og når du køber 2 eller flere varer. Tilbuddet gælder på ordinære priser.\" (Valid through 4 Oct 2026 on the whole blackout-curtain category when buying 2+ items at regular price.) Expires tomorrow.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
       "id": "jotex.dk:STORAGE20",
       "store": "jotex.dk",
       "code": "STORAGE20",
@@ -2279,27 +2237,6 @@
       "last_report": null
     },
     {
-      "id": "westjet.com:5B4H5DD",
-      "store": "westjet.com",
-      "code": "5B4H5DD",
-      "discount": "20% off select base fares",
-      "applies_to": "flights: WestJet wholly operated flights within Canada and between Canada and the United States (UltraBasic, Econo, Premium fares); no codeshare or interline",
-      "min_order": null,
-      "region": [
-        "global"
-      ],
-      "found_on": "2026-10-04",
-      "expires_on": "2026-10-04",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.westjet.com/deals",
-      "submitted_by": "claude-sonnet-5-5",
-      "notes": "WestJet deals page (read 2026-10-04): \"Use discount code: 5B4H5DD to save 20% off select base fares. Hurry, this offer ends soon. ... Book by: October 4, 2026 (11:59 p.m. MT) Travel: October 9, 2026 – December 15, 2026 Blackout dates: November 12-13, 16, 2026\". travel 2026-10-09 to 2026-12-15.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
       "id": "airalo.com:NEWTOAIRALO15",
       "store": "airalo.com",
       "code": "NEWTOAIRALO15",
@@ -2505,6 +2442,69 @@
       "submitted_by": "claude-fable-5-1",
       "notes": "Aggregator-only. DontPayFull (2026-10-03): 'verified today', 52 verifications, 2 confirmed working in the last 30 days, expiry 30 Dec 2026. Honey (Oct 2026): 'worked 2 days ago', 13 uses. SpoolHound (2026-10-03) lists it as $15 off $300+. Companions: IME10 ($10/$100), IME20 ($20/$500, DontPayFull expiry 30 Dec 2026), IME4OFF (4% off $500+). Not on ELEGOO's own site.",
       "status": "unverified",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "jotex.dk:424965",
+      "store": "jotex.dk",
+      "code": "424965",
+      "discount": "20% off",
+      "applies_to": "Whole order when buying for over 2000 DKK (new orders); not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic.",
+      "min_order": "2000 DKK",
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-04",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.jotex.dk/",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Top banner on Jotex.dk's front page: \"20% når du køber for 2000 DKK*. Indtast kode: 424965\" (20% when you buy for 2000 DKK, enter code 424965). Terms from Jotex's own terms API (campaign JO00000001752): \"*20% rabat gælder ved køb over 2000 DKK gælder t.o.m. 04.10.2026. Tilbuddet gælder på hele ordren og ved nybestilling. Tilbuddet gælder ikke på gavekort, bundles samt produkter mærket med 'Deal', 'Outlet', 'Limited Edition', 'Tailormade' & 'Basic'.\" (Valid through 4 Oct 2026 on the whole order for new orders; excludes gift cards, bundles and marked products.) Expires tomorrow.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "jotex.dk:BLACKOUT20",
+      "store": "jotex.dk",
+      "code": "BLACKOUT20",
+      "discount": "20% off",
+      "applies_to": "Blackout curtains (mørklægningsgardiner category), 2 or more items at regular price, new orders; not gift cards, bundles or products marked Deal, Outlet, Limited Edition, Tailormade or Basic.",
+      "min_order": null,
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-04",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.jotex.dk/",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Banner on Jotex.dk's front page: \"20% på mørklægningsgardiner*. Indtast kode: BLACKOUT20\" (20% on blackout curtains, enter code BLACKOUT20). Terms from Jotex's own terms API (campaign JO00000001758): \"*20% på mørklægningsgardiner gælder t.o.m. 04.10.2026. Tilbuddet gælder alle produkter i kategorien: [www.jotex.dk/gardiner/morklaegningsgardiner]. Gælder ved nybestilling og når du køber 2 eller flere varer. Tilbuddet gælder på ordinære priser.\" (Valid through 4 Oct 2026 on the whole blackout-curtain category when buying 2+ items at regular price.) Expires tomorrow.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "westjet.com:5B4H5DD",
+      "store": "westjet.com",
+      "code": "5B4H5DD",
+      "discount": "20% off select base fares",
+      "applies_to": "flights: WestJet wholly operated flights within Canada and between Canada and the United States (UltraBasic, Econo, Premium fares); no codeshare or interline",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-04",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.westjet.com/deals",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "WestJet deals page (read 2026-10-04): \"Use discount code: 5B4H5DD to save 20% off select base fares. Hurry, this offer ends soon. ... Book by: October 4, 2026 (11:59 p.m. MT) Travel: October 9, 2026 – December 15, 2026 Blackout dates: November 12-13, 16, 2026\". travel 2026-10-09 to 2026-12-15.",
+      "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,
       "last_report": null
