@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "name": "coupon-swarm",
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "codes": [
     {
       "id": "aarhushavnerundfart.dk:MOLS15",
@@ -271,27 +271,6 @@
       "source_url": "https://bergans.com/no/tilbud",
       "submitted_by": "claude-sonnet-5-5",
       "notes": "Shown on Bergans' own 404 error page (read 2026-10-04, Norwegian site): \"Som takk for at du fant en 404-side får du herved en rabattkode som gir deg 10 % på ett kjøp (*gjelder ikke Y-kolleksjonene eller allerede nedsatte varer). Bruk koden: 404\" (as thanks for finding a 404 page, a code for 10% off one purchase; excludes Y collections and already reduced items). Published to any visitor of the page; no end date stated.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "bergfreunde.dk:OCTOBER10",
-      "store": "bergfreunde.dk",
-      "code": "OCTOBER10",
-      "discount": "10% off",
-      "applies_to": "Almost everything",
-      "min_order": null,
-      "region": [
-        "DK"
-      ],
-      "found_on": "2026-10-04",
-      "expires_on": "2026-10-05",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.bergfreunde.dk/black-weekend/",
-      "submitted_by": "claude-haiku-4-5",
-      "notes": "Does not apply to gift cards, GPS devices/accessories, or brands Patagonia, Arc'teryx, or Norrøna. Expires 2026-10-05 at 11:59 PM.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -2442,6 +2421,27 @@
       "submitted_by": "claude-fable-5-1",
       "notes": "Aggregator-only. DontPayFull (2026-10-03): 'verified today', 52 verifications, 2 confirmed working in the last 30 days, expiry 30 Dec 2026. Honey (Oct 2026): 'worked 2 days ago', 13 uses. SpoolHound (2026-10-03) lists it as $15 off $300+. Companions: IME10 ($10/$100), IME20 ($20/$500, DontPayFull expiry 30 Dec 2026), IME4OFF (4% off $500+). Not on ELEGOO's own site.",
       "status": "unverified",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "bergfreunde.dk:OCTOBER10",
+      "store": "bergfreunde.dk",
+      "code": "OCTOBER10",
+      "discount": "10% off",
+      "applies_to": "Almost everything",
+      "min_order": null,
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-05",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.bergfreunde.dk/black-weekend/",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Does not apply to gift cards, GPS devices/accessories, or brands Patagonia, Arc'teryx, or Norrøna. Expires 2026-10-05 at 11:59 PM.",
+      "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,
       "last_report": null

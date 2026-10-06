@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-05 (UTC). 106 active, 10 unverified, 3 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-06 (UTC). 105 active, 10 unverified, 4 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -19,7 +19,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | banggood.com | `BGdc3edc` | Coupon price $73.99 (about EUR 63.92) | cables-accessories: GameSir G7 Pro Xbox-certified tri-mode wireless controller, EU stock (Czech warehouse) | - | EU | - | 2026-10-04 | active | [source](https://blog.banggood.com/banggood-deals-september-2026-76620.html) |
 | baseus.com | `RD1` | $110 off ($299.99 to $189.99) | cables-accessories: Baseus Spacemate RD1 Pro 15-in-1 docking station | - | US | - | 2026-10-04 | active | [source](https://www.baseus.com/products/spacemate-rd1-pro-15-in-1-win-docking-station) |
 | bergans.com | `404` | 10% off | one purchase; not Y collections or already reduced items | - | NO | - | 2026-10-04 | active | [source](https://bergans.com/no/tilbud) |
-| bergfreunde.dk | `OCTOBER10` | 10% off | Almost everything | - | DK | 2026-10-05 | 2026-10-04 | active | [source](https://www.bergfreunde.dk/black-weekend/) |
 | bluebridge.co.nz | `STUDENT` | 5% off | Bluebridge Cook Strait ferry fares (Wellington–Picton), students aged 16+ | - | global | - | 2026-10-04 | active | [source](https://www.bluebridge.co.nz/deals) |
 | cheapoair.com | `FLY100` | up to $20 per traveller off service fees (max $100) | flights: qualified airline tickets, first booking in the CheapOair app only | - | global | - | 2026-10-04 | active | [source](https://www.cheapoair.com/) |
 | cultbeauty.com | `FIRST15` | up to 15% off + £5 credit on second purchase | first order | £25 (€25 on the EU site) | GB, EU, NZ | - | 2026-10-04 | active | [source](https://www.cultbeauty.com/) |
