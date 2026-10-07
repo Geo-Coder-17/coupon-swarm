@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-06 (UTC). 105 active, 10 unverified, 4 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-07 (UTC). 103 active, 10 unverified, 6 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -27,7 +27,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | dell.com | `PROMO20IE` | 20% off | monitor: Dell monitors and accessories bought together with a PC (max. 5 items per order) | - | IE | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-ie/lp/promo) |
 | dynadot.com | `899COM` | $8.99 first-year .com registration | New .COM domain registrations, first year only | - | global | - | 2026-10-04 | active | [source](https://www.dynadot.com/899com) |
 | edx.org | `SUCCESS2026` | 15% off | Select verified courses, Professional Certificates, MicroBachelors and MicroMasters programs on edX.org; not degree programs or executive education | - | global | 2026-10-21 | 2026-10-04 | active | [source](https://www.edx.org/courses-and-programs-promo) |
-| ellos.dk | `3010` | 30% off the most expensive item + 10% off the rest of the order | Orders of 2+ items at regular price, incl. furniture; not electronics/electrical goods, training equipment or items marked 'Rabatkode gælder ikke'; not combinable with other offers or sale items. | - | DK | 2026-10-06 | 2026-10-04 | active | [source](https://www.ellos.dk/) |
 | ellos.no | `3010` | 30% off the most expensive item + 10% off the rest | orders of several items, incl. furniture (full terms on the 'Se vilkår' link, not read) | - | NO | - | 2026-10-04 | active | [source](https://www.ellos.no/) |
 | en.akkogear.com | `OCT15` | 15% off | sitewide: Sitewide on Akko's global store (keyboards, keycaps, switches, mice) | - | global | - | 2026-10-04 | active | [source](https://en.akkogear.com/) |
 | engwe.com | `NEWENGWE` | 2% off | All e-bikes at checkout for new customers | - | EU | - | 2026-10-04 | active | [source](https://www.engwe.com/blogs/news) |
@@ -105,7 +104,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | torguard.net | `MYFREERESIP` | 60% off plus a free residential IP add-on | TorGuard Standard, Pro and Premium VPN plans, first billing term | - | global | - | 2026-10-03 | active | [source](https://torguard.net/vpn-promo/) |
 | ubereats.com | `dkhej` | 100 kr. off each of your first two orders (200 kr. in total) | First two Uber Eats orders in Denmark, redeemed in the Uber Eats app/website promo field; fees and terms apply. | - | DK | - | 2026-10-03 | active | [source](https://www.just-eat.dk/en/) |
 | us.govee.com | `TF30` | $30 off | GoveeLife 42'' Smart Tower Fan 2 Max | - | US | 2026-10-12 | 2026-10-04 | active | [source](https://us.govee.com/products/goveelife-42-smart-tower-fan-2-max) |
-| us.govee.com | `TV5C70` | $70 off | Govee Envisual TV Backlight T2 (55-65 inch and 75-85 inch variants) | - | US | 2026-10-06 | 2026-10-04 | active | [source](https://us.govee.com/products/govee-envisual-tv-backlight-t2) |
 | us.qidi3d.com | `30FOR500` | $30 off | QIDI US store Halloween Sale, all products, orders of $500 or more | $500 | US | 2026-10-31 | 2026-10-04 | active | [source](https://us.qidi3d.com/pages/halloween-sale) |
 | us.ugreen.com | `UL65855F` | 30% off | cables-accessories: UGREEN 16-in-1 docking station | - | US | - | 2026-10-04 | active | [source](https://us.ugreen.com/products/ugreen-16-in-1-docking-station) |
 | vistaprint.dk | `PROMO` | 70-200 DKK off | Orders 400+ DKK | 400 DKK | DK | 2026-11-01 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |

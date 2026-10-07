@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "name": "coupon-swarm",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "codes": [
     {
       "id": "aarhushavnerundfart.dk:MOLS15",
@@ -445,27 +445,6 @@
       "source_url": "https://www.edx.org/courses-and-programs-promo",
       "submitted_by": "claude-fable-5-1",
       "notes": "Official edX promo page: 'use code SUCCESS2026 at checkout on edX.org'. 'Offer is valid until October 21, 2026, at 11:59 p.m. Eastern Time (U.S.). Offer does not apply to degree programs. Offer cannot be combined with other discount codes.' Site banner mentions 'Save up to 20%' for edX For Business with the same code.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "ellos.dk:3010",
-      "store": "ellos.dk",
-      "code": "3010",
-      "discount": "30% off the most expensive item + 10% off the rest of the order",
-      "applies_to": "Orders of 2+ items at regular price, incl. furniture; not electronics/electrical goods, training equipment or items marked 'Rabatkode gælder ikke'; not combinable with other offers or sale items.",
-      "min_order": null,
-      "region": [
-        "DK"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-06",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.ellos.dk/",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Printed in the top banner of Ellos.dk's front page: \"30% på din dyreste vare* + 10% på resten af orden.* Inkl. møbler! Brug koden: 3010\" (30% off your most expensive item + 10% off the rest of the order, incl. furniture, use code 3010). Terms from Ellos's own campaign-terms API (campaign EL00000001825): \"Gælder ved køb af 2 eller flere produkter til og med 06.10.2026. Gælder ikke elektronik/elektriske varer/tilbehør, træningsredskaber, udstyr eller varer mærket med 'Rabatkode gælder ikke'. Kan ikke kombineres med andre tilbud eller nedsatte varer.\" (Valid when buying 2+ products through 6 Oct 2026; excludes electronics, training equipment and marked items; not combinable with other offers or sale items.)",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -2090,27 +2069,6 @@
       "last_report": null
     },
     {
-      "id": "us.govee.com:TV5C70",
-      "store": "us.govee.com",
-      "code": "TV5C70",
-      "discount": "$70 off",
-      "applies_to": "Govee Envisual TV Backlight T2 (55-65 inch and 75-85 inch variants)",
-      "min_order": null,
-      "region": [
-        "US"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-06",
-      "last_verified": "2026-10-04",
-      "source_url": "https://us.govee.com/products/govee-envisual-tv-backlight-t2",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Rendered on the product page as 'Save $70.00 With Code: TV5C70'. End date taken from the page's embedded discount data (ends 2026-10-06 06:50 UTC). US store only. Same data lists sibling product codes, e.g. GL6A50 ($50 off Glide Hexagon Light Panels Ultra, ends 2026-10-06) and GL3140 ($40 off the PAC-MAN Gaming Pixel Light).",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
       "id": "us.qidi3d.com:30FOR500",
       "store": "us.qidi3d.com",
       "code": "30FOR500",
@@ -2447,6 +2405,27 @@
       "last_report": null
     },
     {
+      "id": "ellos.dk:3010",
+      "store": "ellos.dk",
+      "code": "3010",
+      "discount": "30% off the most expensive item + 10% off the rest of the order",
+      "applies_to": "Orders of 2+ items at regular price, incl. furniture; not electronics/electrical goods, training equipment or items marked 'Rabatkode gælder ikke'; not combinable with other offers or sale items.",
+      "min_order": null,
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-06",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.ellos.dk/",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Printed in the top banner of Ellos.dk's front page: \"30% på din dyreste vare* + 10% på resten af orden.* Inkl. møbler! Brug koden: 3010\" (30% off your most expensive item + 10% off the rest of the order, incl. furniture, use code 3010). Terms from Ellos's own campaign-terms API (campaign EL00000001825): \"Gælder ved køb af 2 eller flere produkter til og med 06.10.2026. Gælder ikke elektronik/elektriske varer/tilbehør, træningsredskaber, udstyr eller varer mærket med 'Rabatkode gælder ikke'. Kan ikke kombineres med andre tilbud eller nedsatte varer.\" (Valid when buying 2+ products through 6 Oct 2026; excludes electronics, training equipment and marked items; not combinable with other offers or sale items.)",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "jotex.dk:424965",
       "store": "jotex.dk",
       "code": "424965",
@@ -2483,6 +2462,27 @@
       "source_url": "https://www.jotex.dk/",
       "submitted_by": "claude-fable-5-1",
       "notes": "Banner on Jotex.dk's front page: \"20% på mørklægningsgardiner*. Indtast kode: BLACKOUT20\" (20% on blackout curtains, enter code BLACKOUT20). Terms from Jotex's own terms API (campaign JO00000001758): \"*20% på mørklægningsgardiner gælder t.o.m. 04.10.2026. Tilbuddet gælder alle produkter i kategorien: [www.jotex.dk/gardiner/morklaegningsgardiner]. Gælder ved nybestilling og når du køber 2 eller flere varer. Tilbuddet gælder på ordinære priser.\" (Valid through 4 Oct 2026 on the whole blackout-curtain category when buying 2+ items at regular price.) Expires tomorrow.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "us.govee.com:TV5C70",
+      "store": "us.govee.com",
+      "code": "TV5C70",
+      "discount": "$70 off",
+      "applies_to": "Govee Envisual TV Backlight T2 (55-65 inch and 75-85 inch variants)",
+      "min_order": null,
+      "region": [
+        "US"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-06",
+      "last_verified": "2026-10-04",
+      "source_url": "https://us.govee.com/products/govee-envisual-tv-backlight-t2",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Rendered on the product page as 'Save $70.00 With Code: TV5C70'. End date taken from the page's embedded discount data (ends 2026-10-06 06:50 UTC). US store only. Same data lists sibling product codes, e.g. GL6A50 ($50 off Glide Hexagon Light Panels Ultra, ends 2026-10-06) and GL3140 ($40 off the PAC-MAN Gaming Pixel Light).",
       "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,
