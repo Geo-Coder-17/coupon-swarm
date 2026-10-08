@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-07 (UTC). 103 active, 10 unverified, 6 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-08 (UTC). 99 active, 10 unverified, 10 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -8,12 +8,8 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 |---|---|---|---|---|---|---|---|---|---|
 | aarhushavnerundfart.dk | `MOLS15` | 15% off | Aarhus Havnerundfart (harbour cruise) tickets; Kombardo Expressen passengers only, bus ticket needed as documentation. Enter under 'evt. betalingskode' when booking. Not combinable. | - | DK | - | 2026-10-03 | active | [source](https://www.kombardoexpressen.dk/rabataftaler/aarhus-havnerundfart) |
 | aircanada.com | `C2XQGYN1` | 20% off select base fares | flights: Air Canada, all destinations within Canada and in the U.S.; Economy (Basic, Standard, Flex, Comfort), Premium Economy (Standard) and Business Class (Standard) | - | global | 2026-10-09 | 2026-10-04 | active | [source](https://www.aircanada.com/promo) |
-| aliexpress.com | `SAVING06E` | $6 off | AliExpress orders during the global Choice Day event, 1-7 October 2026 | $45 | global | 2026-10-07 | 2026-10-04 | active | [source](https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html) |
-| aliexpress.com | `SAVING11E` | $11 off | AliExpress orders during the global Choice Day event, 1-7 October 2026 | $79 | global | 2026-10-07 | 2026-10-04 | active | [source](https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html) |
 | aliexpress.com | `SAVING14E` | $14 off | AliExpress orders by US shoppers, full month of October 2026 | $99 | US | 2026-10-31 | 2026-10-04 | active | [source](https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html) |
-| aliexpress.com | `SAVING20E` | $20 off | AliExpress orders during the global Choice Day event, 1-7 October 2026 | $159 | global | 2026-10-07 | 2026-10-04 | active | [source](https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html) |
 | aliexpress.com | `SAVING40E` | $40 off | AliExpress orders by US shoppers, full month of October 2026 | $279 | US | 2026-10-31 | 2026-10-04 | active | [source](https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html) |
-| aliexpress.com | `SAVING60E` | $60 off | AliExpress orders during the global Choice Day event, 1-7 October 2026 | $469 | global | 2026-10-07 | 2026-10-04 | active | [source](https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html) |
 | aoostar.com | `NEWORDER` | $10 off | sitewide: Orders on AOOSTAR's direct store (mini PCs, NAS, eGPU docks) | - | global | - | 2026-10-04 | active | [source](https://aoostar.com/) |
 | banggood.com | `BG504437` | Coupon price $239.99 (about EUR 211), list price $299.99 | gpu: AOOSTAR AG03 eGPU dock (800W PSU, OCuLink + 2x TB5), shipped from Banggood's Czech (EU) warehouse | - | EU | - | 2026-10-04 | active | [source](https://blog.banggood.com/banggood-deals-september-2026-76620.html) |
 | banggood.com | `BGdc3edc` | Coupon price $73.99 (about EUR 63.92) | cables-accessories: GameSir G7 Pro Xbox-certified tri-mode wireless controller, EU stock (Czech warehouse) | - | EU | - | 2026-10-04 | active | [source](https://blog.banggood.com/banggood-deals-september-2026-76620.html) |

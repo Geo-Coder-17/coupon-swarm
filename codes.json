@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "name": "coupon-swarm",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "codes": [
     {
       "id": "aarhushavnerundfart.dk:MOLS15",
@@ -46,48 +46,6 @@
       "last_report": null
     },
     {
-      "id": "aliexpress.com:SAVING06E",
-      "store": "aliexpress.com",
-      "code": "SAVING06E",
-      "discount": "$6 off",
-      "applies_to": "AliExpress orders during the global Choice Day event, 1-7 October 2026",
-      "min_order": "$45",
-      "region": [
-        "global"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-07",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "AliExpress's own press release (GlobeNewswire, 2026-09-30). Global Choice Day tiers on the same release: SAVING02F ($2/$18), SAVING11E ($11/$79), SAVING20E ($20/$159), SAVING30E ($30/$239), SAVING45E ($45/$359), SAVING60E ($60/$469). Thresholds are in USD; the release says these are time-sensitive and valid only 1-7 October. Separate US-only codes (SAVING02E ... SAVING80E) run all month.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "aliexpress.com:SAVING11E",
-      "store": "aliexpress.com",
-      "code": "SAVING11E",
-      "discount": "$11 off",
-      "applies_to": "AliExpress orders during the global Choice Day event, 1-7 October 2026",
-      "min_order": "$79",
-      "region": [
-        "global"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-07",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "AliExpress's own press release (GlobeNewswire, 2026-09-30). Other global tiers on the release: SAVING02F ($2/$18), SAVING30E ($30/$239), SAVING45E ($45/$359), SAVING60E ($60/$469). Thresholds in USD; one code per order.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
       "id": "aliexpress.com:SAVING14E",
       "store": "aliexpress.com",
       "code": "SAVING14E",
@@ -109,27 +67,6 @@
       "last_report": null
     },
     {
-      "id": "aliexpress.com:SAVING20E",
-      "store": "aliexpress.com",
-      "code": "SAVING20E",
-      "discount": "$20 off",
-      "applies_to": "AliExpress orders during the global Choice Day event, 1-7 October 2026",
-      "min_order": "$159",
-      "region": [
-        "global"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-07",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Same AliExpress press release as SAVING06E. Code strings cross-checked against the Yahoo Finance syndication of the release. Enter in the promo-code field at checkout; one code per order.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
       "id": "aliexpress.com:SAVING40E",
       "store": "aliexpress.com",
       "code": "SAVING40E",
@@ -145,27 +82,6 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
       "submitted_by": "claude-fable-5-1",
       "notes": "US-only monthly tier from AliExpress's official October 2026 release (valid 1-31 October). Not valid outside the US.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "aliexpress.com:SAVING60E",
-      "store": "aliexpress.com",
-      "code": "SAVING60E",
-      "discount": "$60 off",
-      "applies_to": "AliExpress orders during the global Choice Day event, 1-7 October 2026",
-      "min_order": "$469",
-      "region": [
-        "global"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-07",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Top global Choice Day tier on AliExpress's 2026-09-30 press release. Valid 1-7 October only; one code per order.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -2379,6 +2295,90 @@
       "submitted_by": "claude-fable-5-1",
       "notes": "Aggregator-only. DontPayFull (2026-10-03): 'verified today', 52 verifications, 2 confirmed working in the last 30 days, expiry 30 Dec 2026. Honey (Oct 2026): 'worked 2 days ago', 13 uses. SpoolHound (2026-10-03) lists it as $15 off $300+. Companions: IME10 ($10/$100), IME20 ($20/$500, DontPayFull expiry 30 Dec 2026), IME4OFF (4% off $500+). Not on ELEGOO's own site.",
       "status": "unverified",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "aliexpress.com:SAVING06E",
+      "store": "aliexpress.com",
+      "code": "SAVING06E",
+      "discount": "$6 off",
+      "applies_to": "AliExpress orders during the global Choice Day event, 1-7 October 2026",
+      "min_order": "$45",
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-07",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "AliExpress's own press release (GlobeNewswire, 2026-09-30). Global Choice Day tiers on the same release: SAVING02F ($2/$18), SAVING11E ($11/$79), SAVING20E ($20/$159), SAVING30E ($30/$239), SAVING45E ($45/$359), SAVING60E ($60/$469). Thresholds are in USD; the release says these are time-sensitive and valid only 1-7 October. Separate US-only codes (SAVING02E ... SAVING80E) run all month.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "aliexpress.com:SAVING11E",
+      "store": "aliexpress.com",
+      "code": "SAVING11E",
+      "discount": "$11 off",
+      "applies_to": "AliExpress orders during the global Choice Day event, 1-7 October 2026",
+      "min_order": "$79",
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-07",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "AliExpress's own press release (GlobeNewswire, 2026-09-30). Other global tiers on the release: SAVING02F ($2/$18), SAVING30E ($30/$239), SAVING45E ($45/$359), SAVING60E ($60/$469). Thresholds in USD; one code per order.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "aliexpress.com:SAVING20E",
+      "store": "aliexpress.com",
+      "code": "SAVING20E",
+      "discount": "$20 off",
+      "applies_to": "AliExpress orders during the global Choice Day event, 1-7 October 2026",
+      "min_order": "$159",
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-07",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Same AliExpress press release as SAVING06E. Code strings cross-checked against the Yahoo Finance syndication of the release. Enter in the promo-code field at checkout; one code per order.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "aliexpress.com:SAVING60E",
+      "store": "aliexpress.com",
+      "code": "SAVING60E",
+      "discount": "$60 off",
+      "applies_to": "AliExpress orders during the global Choice Day event, 1-7 October 2026",
+      "min_order": "$469",
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-07",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Top global Choice Day tier on AliExpress's 2026-09-30 press release. Valid 1-7 October only; one code per order.",
+      "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,
       "last_report": null
