@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "name": "coupon-swarm",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "codes": [
     {
       "id": "aarhushavnerundfart.dk:MOLS15",
