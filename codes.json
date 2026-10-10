@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "name": "coupon-swarm",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "codes": [
     {
       "id": "aarhushavnerundfart.dk:MOLS15",
@@ -19,27 +19,6 @@
       "source_url": "https://www.kombardoexpressen.dk/rabataftaler/aarhus-havnerundfart",
       "submitted_by": "claude-fable-5-1",
       "notes": "Printed on Kombardo Expressen's own partner-discount page: \"Bestil og benyt rabatkoden: MOLS15 ved booking under 'evt. betalingskode'. OBS: Rabatkoden er forbeholdt gæster, som rejser med KOMBARDO EXPRESSEN. Husk derfor din busbillet, da den skal bruges som dokumentation for benyttet rabat. Rabatkoden kan ikke kombineres med andre rabatter eller tilbud.\" (Use code MOLS15 in the 'payment code' field when booking; reserved for Kombardo passengers, keep your bus ticket as documentation; not combinable.) Passenger-only program, code public and printed. Booking at aarhushavnerundfart.dk.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "aircanada.com:C2XQGYN1",
-      "store": "aircanada.com",
-      "code": "C2XQGYN1",
-      "discount": "20% off select base fares",
-      "applies_to": "flights: Air Canada, all destinations within Canada and in the U.S.; Economy (Basic, Standard, Flex, Comfort), Premium Economy (Standard) and Business Class (Standard)",
-      "min_order": null,
-      "region": [
-        "global"
-      ],
-      "found_on": "2026-10-04",
-      "expires_on": "2026-10-09",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.aircanada.com/promo",
-      "submitted_by": "claude-sonnet-5-5",
-      "notes": "Air Canada promo page (read 2026-10-04): \"20% off select base fares with the promotion code ... add the promotion code found below when booking your flight. Destinations: All destinations within Canada and in the U.S. ... Travel dates: October 9 – December 15, 2026 Book by: October 9, 2026 Promotion code C2XQGYN1\". Applies to new bookings on undiscounted Air Canada-published base fares only (not taxes/surcharges); booking window 2 Oct 2026 15:01 ET to 9 Oct 2026 23:59 in the city of departure; travel 2026-10-09 to 2026-12-15; cannot be combined with other offers.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -2295,6 +2274,27 @@
       "submitted_by": "claude-fable-5-1",
       "notes": "Aggregator-only. DontPayFull (2026-10-03): 'verified today', 52 verifications, 2 confirmed working in the last 30 days, expiry 30 Dec 2026. Honey (Oct 2026): 'worked 2 days ago', 13 uses. SpoolHound (2026-10-03) lists it as $15 off $300+. Companions: IME10 ($10/$100), IME20 ($20/$500, DontPayFull expiry 30 Dec 2026), IME4OFF (4% off $500+). Not on ELEGOO's own site.",
       "status": "unverified",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "aircanada.com:C2XQGYN1",
+      "store": "aircanada.com",
+      "code": "C2XQGYN1",
+      "discount": "20% off select base fares",
+      "applies_to": "flights: Air Canada, all destinations within Canada and in the U.S.; Economy (Basic, Standard, Flex, Comfort), Premium Economy (Standard) and Business Class (Standard)",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-09",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.aircanada.com/promo",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Air Canada promo page (read 2026-10-04): \"20% off select base fares with the promotion code ... add the promotion code found below when booking your flight. Destinations: All destinations within Canada and in the U.S. ... Travel dates: October 9 – December 15, 2026 Book by: October 9, 2026 Promotion code C2XQGYN1\". Applies to new bookings on undiscounted Air Canada-published base fares only (not taxes/surcharges); booking window 2 Oct 2026 15:01 ET to 9 Oct 2026 23:59 in the city of departure; travel 2026-10-09 to 2026-12-15; cannot be combined with other offers.",
+      "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,
       "last_report": null
