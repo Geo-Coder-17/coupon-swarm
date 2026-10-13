@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "name": "coupon-swarm",
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "codes": [
     {
       "id": "aarhushavnerundfart.dk:MOLS15",
@@ -781,28 +781,6 @@
       "source_url": "https://eu.ugreen.com/products/copy-of-weekly-sale-product-9-in-1-usb-c-docking-station",
       "submitted_by": "claude-fable-5-1",
       "notes": "PC hardware: Shown as '40% OFF HOT ... Code: DL90912' on the UGREEN EU store homepage (Autumn Sale, no end date stated). Product-specific code. Other dock/hub codes on the same page: DL55767 (40% off Revodok Pro 12-port triple-4K dock), DL55766 (34% off Revodok Pro 11-port dock), DL45366 (42% off Revodok Pro 2102 10-in-1 dock), DL60515 (40% off 7-in-1 USB-C hub with 4K60 HDMI), DL15495 (34% off Revodok 105 5-in-1 hub), DL75126 (38% off Steam Deck 6-in-1 dock). Honey (Oct 2026) lists DL90912 at 40% off. | Product page: 'Save 40% Code: DL90912 Limited Time Offer'. Also on the eu.ugreen.com homepage deals strip. No end date shown.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "fjellsport.no:TUR25",
-      "store": "fjellsport.no",
-      "code": "TUR25",
-      "discount": "25% off",
-      "applies_to": "your next purchase; minimum 2 items at regular price",
-      "min_order": "2 items at regular price",
-      "region": [
-        "NO",
-        "SJ"
-      ],
-      "found_on": "2026-10-04",
-      "expires_on": "2026-10-12",
-      "last_verified": "2026-10-04",
-      "source_url": "https://fjellsport.no/kampanjer/rabattkoder",
-      "submitted_by": "claude-sonnet-5-5",
-      "notes": "Fjellsport rabattkoder page (read 2026-10-04): \"-25% på ditt neste kjøp med rabattkode: TUR25 ... Ved kjøp av minimum 2 varer til ordinærpris. ... Gjelder ikke Norrøna, Patagonia, Hilleberg, Fjällräven, Arc'teryx, Fjellsportpris, turmat, elektronikk, kart, pakkepriser, gavekort eller allerede nedsatte varer. Kan ikke kombineres med andre koder. Varighet til og med 12.10.26.\" (25% off your next purchase, min. 2 items at regular price, excludes listed brands/categories, not combinable, valid through 12 Oct 2026). Svalbard: MVA deducted for Svalbard addresses (shipping page: \"Vi tilbyr momsfri levering til Svalbard.\"); terms do not exclude Svalbard.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1943,27 +1921,6 @@
       "last_report": null
     },
     {
-      "id": "us.govee.com:TF30",
-      "store": "us.govee.com",
-      "code": "TF30",
-      "discount": "$30 off",
-      "applies_to": "GoveeLife 42'' Smart Tower Fan 2 Max",
-      "min_order": null,
-      "region": [
-        "US"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-12",
-      "last_verified": "2026-10-04",
-      "source_url": "https://us.govee.com/products/goveelife-42-smart-tower-fan-2-max",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Product page shows 'Limited Stock Remaining! Save $30.00 With Code: TF30'. End date from embedded discount data (2026-10-12 07:00 UTC). US store only.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
       "id": "us.qidi3d.com:30FOR500",
       "store": "us.qidi3d.com",
       "code": "30FOR500",
@@ -2426,6 +2383,28 @@
       "last_report": null
     },
     {
+      "id": "fjellsport.no:TUR25",
+      "store": "fjellsport.no",
+      "code": "TUR25",
+      "discount": "25% off",
+      "applies_to": "your next purchase; minimum 2 items at regular price",
+      "min_order": "2 items at regular price",
+      "region": [
+        "NO",
+        "SJ"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-12",
+      "last_verified": "2026-10-04",
+      "source_url": "https://fjellsport.no/kampanjer/rabattkoder",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Fjellsport rabattkoder page (read 2026-10-04): \"-25% på ditt neste kjøp med rabattkode: TUR25 ... Ved kjøp av minimum 2 varer til ordinærpris. ... Gjelder ikke Norrøna, Patagonia, Hilleberg, Fjällräven, Arc'teryx, Fjellsportpris, turmat, elektronikk, kart, pakkepriser, gavekort eller allerede nedsatte varer. Kan ikke kombineres med andre koder. Varighet til og med 12.10.26.\" (25% off your next purchase, min. 2 items at regular price, excludes listed brands/categories, not combinable, valid through 12 Oct 2026). Svalbard: MVA deducted for Svalbard addresses (shipping page: \"Vi tilbyr momsfri levering til Svalbard.\"); terms do not exclude Svalbard.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "jotex.dk:424965",
       "store": "jotex.dk",
       "code": "424965",
@@ -2462,6 +2441,27 @@
       "source_url": "https://www.jotex.dk/",
       "submitted_by": "claude-fable-5-1",
       "notes": "Banner on Jotex.dk's front page: \"20% på mørklægningsgardiner*. Indtast kode: BLACKOUT20\" (20% on blackout curtains, enter code BLACKOUT20). Terms from Jotex's own terms API (campaign JO00000001758): \"*20% på mørklægningsgardiner gælder t.o.m. 04.10.2026. Tilbuddet gælder alle produkter i kategorien: [www.jotex.dk/gardiner/morklaegningsgardiner]. Gælder ved nybestilling og når du køber 2 eller flere varer. Tilbuddet gælder på ordinære priser.\" (Valid through 4 Oct 2026 on the whole blackout-curtain category when buying 2+ items at regular price.) Expires tomorrow.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "us.govee.com:TF30",
+      "store": "us.govee.com",
+      "code": "TF30",
+      "discount": "$30 off",
+      "applies_to": "GoveeLife 42'' Smart Tower Fan 2 Max",
+      "min_order": null,
+      "region": [
+        "US"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-12",
+      "last_verified": "2026-10-04",
+      "source_url": "https://us.govee.com/products/goveelife-42-smart-tower-fan-2-max",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Product page shows 'Limited Stock Remaining! Save $30.00 With Code: TF30'. End date from embedded discount data (2026-10-12 07:00 UTC). US store only.",
       "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,

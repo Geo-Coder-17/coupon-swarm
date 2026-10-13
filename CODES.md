@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-12 (UTC). 98 active, 10 unverified, 11 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-13 (UTC). 96 active, 10 unverified, 13 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -43,7 +43,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | eu.ugreen.com | `DL65488` | 35% off | cables-accessories: UGREEN Mac Mini M4 Dockningsstation (10-porte, 8K@120Hz, 8TB) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
 | eu.ugreen.com | `DL75126` | 38% off | cables-accessories: UGREEN Steam Deck Dockningsstation (6-i-1, 4K@120Hz, 100W, Gigabit Ethernet) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
 | eu.ugreen.com | `DL90912` | 40% off | cables-accessories: UGREEN Revodok Pro 209 Dual Display 9-in-1 USB-C 4K docking station on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/copy-of-weekly-sale-product-9-in-1-usb-c-docking-station) |
-| fjellsport.no | `TUR25` | 25% off | your next purchase; minimum 2 items at regular price | 2 items at regular price | NO, SJ | 2026-10-12 | 2026-10-04 | active | [source](https://fjellsport.no/kampanjer/rabattkoder) |
 | footlocker.co.nz | `FINALS` | $100 off | Orders $500 or more | $500 | NZ | - | 2026-10-04 | active | [source](https://www.footlocker.co.nz/) |
 | geekbuying.com | `DESTOCK1` | 7% off | sitewide: Products shipped from Geekbuying's Germany (EU) warehouse, as listed on the EU Warehouse Sale promo page | - | EU | - | 2026-10-04 | active | [source](https://promotion.geekbuying.com/promotion/eu_warehouse_sale) |
 | geekbuying.com | `DESTOCK2` | $15 off every $200 spent | sitewide: Products shipped from Geekbuying's Germany (EU) warehouse, as listed on the EU Warehouse Sale promo page | $200 | EU | - | 2026-10-04 | active | [source](https://promotion.geekbuying.com/promotion/eu_warehouse_sale) |
@@ -98,7 +97,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | surfshark.com | `Sharkgift` | 80% off plus one extra month free | Surfshark VPN subscription (plan not specified on the page; discount is on long-term plans) | - | global | - | 2026-10-03 | active | [source](https://surfshark.com/coupon) |
 | torguard.net | `MYFREERESIP` | 60% off plus a free residential IP add-on | TorGuard Standard, Pro and Premium VPN plans, first billing term | - | global | - | 2026-10-03 | active | [source](https://torguard.net/vpn-promo/) |
 | ubereats.com | `dkhej` | 100 kr. off each of your first two orders (200 kr. in total) | First two Uber Eats orders in Denmark, redeemed in the Uber Eats app/website promo field; fees and terms apply. | - | DK | - | 2026-10-03 | active | [source](https://www.just-eat.dk/en/) |
-| us.govee.com | `TF30` | $30 off | GoveeLife 42'' Smart Tower Fan 2 Max | - | US | 2026-10-12 | 2026-10-04 | active | [source](https://us.govee.com/products/goveelife-42-smart-tower-fan-2-max) |
 | us.qidi3d.com | `30FOR500` | $30 off | QIDI US store Halloween Sale, all products, orders of $500 or more | $500 | US | 2026-10-31 | 2026-10-04 | active | [source](https://us.qidi3d.com/pages/halloween-sale) |
 | us.ugreen.com | `UL65855F` | 30% off | cables-accessories: UGREEN 16-in-1 docking station | - | US | - | 2026-10-04 | active | [source](https://us.ugreen.com/products/ugreen-16-in-1-docking-station) |
 | vistaprint.dk | `PROMO` | 70-200 DKK off | Orders 400+ DKK | 400 DKK | DK | 2026-11-01 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
