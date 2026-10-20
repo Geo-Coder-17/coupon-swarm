@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "name": "coupon-swarm",
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "codes": [
     {
       "id": "aarhushavnerundfart.dk:MOLS15",
@@ -1186,48 +1186,6 @@
       "last_report": null
     },
     {
-      "id": "jollyroom.dk:WOW",
-      "store": "jollyroom.dk",
-      "code": "WOW",
-      "discount": "10-25% off (percentage shown per product)",
-      "applies_to": "Selected products labelled with the code on jollyroom.dk (car seats, snowsuits, boots, toys, interior, baby gear etc.). Codes cannot be combined.",
-      "min_order": null,
-      "region": [
-        "DK"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-19",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.jollyroom.dk/rabatkoder/wow",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Jollyroom's own 'Aktuelle rabatkoder' page: \"Brug rabatkoden: WOW. Rabatkoder kan ikke kombineres. Gælder på udvalgte produkter til 19/10 kl. 10.00.\" (Use code WOW; codes cannot be combined; valid on selected products until 19 Oct at 10:00.) Each eligible product shows its own percentage, e.g. '25% kode: WOW', '10% kode: WOW'. Campaign ends at 10:00 on the expiry date.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "jollyroom.no:WOW",
-      "store": "jollyroom.no",
-      "code": "WOW",
-      "discount": "10–25% off",
-      "applies_to": "selected products",
-      "min_order": null,
-      "region": [
-        "NO"
-      ],
-      "found_on": "2026-10-04",
-      "expires_on": "2026-10-19",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.jollyroom.no/rabattkoder/wow",
-      "submitted_by": "claude-sonnet-5-5",
-      "notes": "Jollyroom rabattkoder page (read 2026-10-04): \"Rabattkode: WOW. Rabattkoder kan ikke kombineres, gjelder på utvalgte produkter til 19/10 kl 10:00.\" (code WOW, 10–25% on selected products, not combinable, valid until 19 Oct 10:00). Jollyroom does not deliver to Svalbard (\"Jollyroom leverer ikke til Svalbard.\"), so region is NO only.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
       "id": "jotex.dk:STORAGE20",
       "store": "jotex.dk",
       "code": "STORAGE20",
@@ -2399,6 +2357,48 @@
       "source_url": "https://fjellsport.no/kampanjer/rabattkoder",
       "submitted_by": "claude-sonnet-5-5",
       "notes": "Fjellsport rabattkoder page (read 2026-10-04): \"-25% på ditt neste kjøp med rabattkode: TUR25 ... Ved kjøp av minimum 2 varer til ordinærpris. ... Gjelder ikke Norrøna, Patagonia, Hilleberg, Fjällräven, Arc'teryx, Fjellsportpris, turmat, elektronikk, kart, pakkepriser, gavekort eller allerede nedsatte varer. Kan ikke kombineres med andre koder. Varighet til og med 12.10.26.\" (25% off your next purchase, min. 2 items at regular price, excludes listed brands/categories, not combinable, valid through 12 Oct 2026). Svalbard: MVA deducted for Svalbard addresses (shipping page: \"Vi tilbyr momsfri levering til Svalbard.\"); terms do not exclude Svalbard.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "jollyroom.dk:WOW",
+      "store": "jollyroom.dk",
+      "code": "WOW",
+      "discount": "10-25% off (percentage shown per product)",
+      "applies_to": "Selected products labelled with the code on jollyroom.dk (car seats, snowsuits, boots, toys, interior, baby gear etc.). Codes cannot be combined.",
+      "min_order": null,
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-19",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.jollyroom.dk/rabatkoder/wow",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Jollyroom's own 'Aktuelle rabatkoder' page: \"Brug rabatkoden: WOW. Rabatkoder kan ikke kombineres. Gælder på udvalgte produkter til 19/10 kl. 10.00.\" (Use code WOW; codes cannot be combined; valid on selected products until 19 Oct at 10:00.) Each eligible product shows its own percentage, e.g. '25% kode: WOW', '10% kode: WOW'. Campaign ends at 10:00 on the expiry date.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "jollyroom.no:WOW",
+      "store": "jollyroom.no",
+      "code": "WOW",
+      "discount": "10–25% off",
+      "applies_to": "selected products",
+      "min_order": null,
+      "region": [
+        "NO"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-19",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.jollyroom.no/rabattkoder/wow",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "Jollyroom rabattkoder page (read 2026-10-04): \"Rabattkode: WOW. Rabattkoder kan ikke kombineres, gjelder på utvalgte produkter til 19/10 kl 10:00.\" (code WOW, 10–25% on selected products, not combinable, valid until 19 Oct 10:00). Jollyroom does not deliver to Svalbard (\"Jollyroom leverer ikke til Svalbard.\"), so region is NO only.",
       "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,

@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-19 (UTC). 96 active, 10 unverified, 13 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-20 (UTC). 94 active, 10 unverified, 15 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -62,8 +62,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | interflora.dk | `BLOMSTGLÆDE10` | 10% off | All products on interflora.dk; not delivery costs, the funeral range, international deliveries or subscriptions. One code per order. | - | DK | 2026-10-31 | 2026-10-04 | active | [source](https://interflora.dk/rabatkode) |
 | joindeleteme.com | `DM20` | 20% off | All DeleteMe privacy protection plans (1-year and 2-year; 1 person, 2 people, family), new members only, USA consumer plans | - | US | - | 2026-10-04 | active | [source](https://joindeleteme.com/offers/couponco/) |
 | joindeleteme.com | `PARTNER20` | 20% off | First DeleteMe subscription (individual, couple or family plans) | - | global | - | 2026-10-03 | active | [source](https://www.dontpayfull.com/at/joindeleteme.com) |
-| jollyroom.dk | `WOW` | 10-25% off (percentage shown per product) | Selected products labelled with the code on jollyroom.dk (car seats, snowsuits, boots, toys, interior, baby gear etc.). Codes cannot be combined. | - | DK | 2026-10-19 | 2026-10-04 | active | [source](https://www.jollyroom.dk/rabatkoder/wow) |
-| jollyroom.no | `WOW` | 10–25% off | selected products | - | NO | 2026-10-19 | 2026-10-04 | active | [source](https://www.jollyroom.no/rabattkoder/wow) |
 | jotex.dk | `STORAGE20` | 20% off | Storage furniture (opbevaring category, jotex.dk/mobler/opbevaring). | - | DK | - | 2026-10-04 | active | [source](https://www.jotex.dk/) |
 | kenya-airways.com | `KQMOBILE` | up to 15% off flights | flights: all routes, Kenya Airways mobile app bookings only | - | global | - | 2026-10-04 | active | [source](https://www.kenya-airways.com/) |
 | kenya-airways.com | `SCM26` | up to 7% off domestic, up to 15% off international flights | flights: Kenya Airways flights for the marathon event promotion (domestic and international) | - | global | - | 2026-10-04 | active | [source](https://www.kenya-airways.com/) |
