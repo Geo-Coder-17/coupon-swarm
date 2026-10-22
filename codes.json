@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "name": "coupon-swarm",
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "codes": [
     {
       "id": "aarhushavnerundfart.dk:MOLS15",
@@ -319,27 +319,6 @@
       "source_url": "https://www.dynadot.com/899com",
       "submitted_by": "claude-fable-5-1",
       "notes": "Official Dynadot promo page ('Enter promo code 899COM at checkout and your .COM domain will be reduced to $8.99'), also documented in Dynadot's help centre. No per-account redemption limit; limited total quantity, code is disabled once supply runs out. First-year catch: the domain sits at a partner registrar for year one, so WHOIS privacy is forced on, there is a 60-day renewal lock, no Afternic Fast Transfer/Sedo MLS, no DNSSEC and no grace deletions until renewal. Domnest (Oct 2026) also lists DYNA12 ($10.12 .com transfer); that one is not shown on Dynadot's site. | Official Dynadot landing page: 'Enter promo code 899COM at checkout and your .COM domain will be reduced to $8.99!' Dynadot help article: no per-account limit, no set end date, first come first served until the allocated supply runs out; 60-day renewal lock, WHOIS privacy locked on in year one, not eligible for Afternic Fast Transfer / Sedo MLS in year one. Footnote '*Use coupon code 899COM' also on dynadot.com/domain/com",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "edx.org:SUCCESS2026",
-      "store": "edx.org",
-      "code": "SUCCESS2026",
-      "discount": "15% off",
-      "applies_to": "Select verified courses, Professional Certificates, MicroBachelors and MicroMasters programs on edX.org; not degree programs or executive education",
-      "min_order": null,
-      "region": [
-        "global"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-21",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.edx.org/courses-and-programs-promo",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Official edX promo page: 'use code SUCCESS2026 at checkout on edX.org'. 'Offer is valid until October 21, 2026, at 11:59 p.m. Eastern Time (U.S.). Offer does not apply to degree programs. Offer cannot be combined with other discount codes.' Site banner mentions 'Save up to 20%' for edX For Business with the same code.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -2314,6 +2293,27 @@
       "source_url": "https://www.bergfreunde.dk/black-weekend/",
       "submitted_by": "claude-haiku-4-5",
       "notes": "Does not apply to gift cards, GPS devices/accessories, or brands Patagonia, Arc'teryx, or Norrøna. Expires 2026-10-05 at 11:59 PM.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "edx.org:SUCCESS2026",
+      "store": "edx.org",
+      "code": "SUCCESS2026",
+      "discount": "15% off",
+      "applies_to": "Select verified courses, Professional Certificates, MicroBachelors and MicroMasters programs on edX.org; not degree programs or executive education",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-21",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.edx.org/courses-and-programs-promo",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Official edX promo page: 'use code SUCCESS2026 at checkout on edX.org'. 'Offer is valid until October 21, 2026, at 11:59 p.m. Eastern Time (U.S.). Offer does not apply to degree programs. Offer cannot be combined with other discount codes.' Site banner mentions 'Save up to 20%' for edX For Business with the same code.",
       "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,

@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-21 (UTC). 94 active, 10 unverified, 15 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-22 (UTC). 93 active, 10 unverified, 16 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -21,7 +21,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | dell.com | `PROMO20` | 20% off | monitor: Dell monitors and accessories when purchased together with a PC | - | DK, BE, IT, CH, AT | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-dk/lp/promo) |
 | dell.com | `PROMO20IE` | 20% off | monitor: Dell monitors and accessories bought together with a PC (max. 5 items per order) | - | IE | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-ie/lp/promo) |
 | dynadot.com | `899COM` | $8.99 first-year .com registration | New .COM domain registrations, first year only | - | global | - | 2026-10-04 | active | [source](https://www.dynadot.com/899com) |
-| edx.org | `SUCCESS2026` | 15% off | Select verified courses, Professional Certificates, MicroBachelors and MicroMasters programs on edX.org; not degree programs or executive education | - | global | 2026-10-21 | 2026-10-04 | active | [source](https://www.edx.org/courses-and-programs-promo) |
 | ellos.no | `3010` | 30% off the most expensive item + 10% off the rest | orders of several items, incl. furniture (full terms on the 'Se vilkår' link, not read) | - | NO | - | 2026-10-04 | active | [source](https://www.ellos.no/) |
 | en.akkogear.com | `OCT15` | 15% off | sitewide: Sitewide on Akko's global store (keyboards, keycaps, switches, mice) | - | global | - | 2026-10-04 | active | [source](https://en.akkogear.com/) |
 | engwe.com | `NEWENGWE` | 2% off | All e-bikes at checkout for new customers | - | EU | - | 2026-10-04 | active | [source](https://www.engwe.com/blogs/news) |
