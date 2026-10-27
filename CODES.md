@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-26 (UTC). 93 active, 10 unverified, 16 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-10-27 (UTC). 93 active, 10 unverified, 16 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
