@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "name": "coupon-swarm",
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "codes": [
     {
       "id": "aarhushavnerundfart.dk:MOLS15",
@@ -19,48 +19,6 @@
       "source_url": "https://www.kombardoexpressen.dk/rabataftaler/aarhus-havnerundfart",
       "submitted_by": "claude-fable-5-1",
       "notes": "Printed on Kombardo Expressen's own partner-discount page: \"Bestil og benyt rabatkoden: MOLS15 ved booking under 'evt. betalingskode'. OBS: Rabatkoden er forbeholdt gæster, som rejser med KOMBARDO EXPRESSEN. Husk derfor din busbillet, da den skal bruges som dokumentation for benyttet rabat. Rabatkoden kan ikke kombineres med andre rabatter eller tilbud.\" (Use code MOLS15 in the 'payment code' field when booking; reserved for Kombardo passengers, keep your bus ticket as documentation; not combinable.) Passenger-only program, code public and printed. Booking at aarhushavnerundfart.dk.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "aliexpress.com:SAVING14E",
-      "store": "aliexpress.com",
-      "code": "SAVING14E",
-      "discount": "$14 off",
-      "applies_to": "AliExpress orders by US shoppers, full month of October 2026",
-      "min_order": "$99",
-      "region": [
-        "US"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-31",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "US-only monthly set on the same official release: SAVING02E ($2/$15), SAVING05E ($5/$35), SAVING09E ($9/$65), SAVING23E ($23/$169), SAVING40E ($40/$279), SAVING55E ($55/$379), SAVING80E ($80/$559). Not valid outside the US.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "aliexpress.com:SAVING40E",
-      "store": "aliexpress.com",
-      "code": "SAVING40E",
-      "discount": "$40 off",
-      "applies_to": "AliExpress orders by US shoppers, full month of October 2026",
-      "min_order": "$279",
-      "region": [
-        "US"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-31",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "US-only monthly tier from AliExpress's official October 2026 release (valid 1-31 October). Not valid outside the US.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -258,52 +216,6 @@
       "last_report": null
     },
     {
-      "id": "dell.com:PROMO20",
-      "store": "dell.com",
-      "code": "PROMO20",
-      "discount": "20% off",
-      "applies_to": "monitor: Dell monitors and accessories when purchased together with a PC",
-      "min_order": null,
-      "region": [
-        "DK",
-        "BE",
-        "IT",
-        "CH",
-        "AT"
-      ],
-      "found_on": "2026-10-04",
-      "expires_on": "2026-10-31",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.dell.com/en-dk/lp/promo",
-      "submitted_by": "claude-haiku-4-5",
-      "notes": "PC hardware: Official Dell Denmark promotional page. Code applies to qualifying products at checkout. Can be combined with other selected offers but not with other coupon codes. Maximum 5 products per order. Also confirmed on Dell UK page (dell.com/en-uk/shop/promo). | Also shown with the same 20% monitors+accessories offer and \"31/10/2026\" end date on the dell.com BE (fr-be), IT (it-it), CH (de-ch) and AT (de-at) promo pages (read 2026-10-04). UK and DE pages state 30 Oct 2026, and the Norwegian locale pages return the Danish page, so GB, DE and NO are not tagged.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "dell.com:PROMO20IE",
-      "store": "dell.com",
-      "code": "PROMO20IE",
-      "discount": "20% off",
-      "applies_to": "monitor: Dell monitors and accessories bought together with a PC (max. 5 items per order)",
-      "min_order": null,
-      "region": [
-        "IE"
-      ],
-      "found_on": "2026-10-04",
-      "expires_on": "2026-10-31",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.dell.com/en-ie/lp/promo",
-      "submitted_by": "claude-sonnet-5-5",
-      "notes": "PC hardware: dell.com/en-ie promo page (read 2026-10-04): \"Save 20% on monitors and accessories purchased with a PC use code PROMO20IE. Discount not available when monitors and accessories are purchased separately. Offer cannot be combined with other coupons unless otherwise stated. Offer limited to 5 monitors or accessories per order. Offer ends 31/10/2026\". Ireland storefront code (other Dell storefronts use PROMO20).",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
       "id": "dynadot.com:899COM",
       "store": "dynadot.com",
       "code": "899COM",
@@ -424,27 +336,6 @@
       "source_url": "https://eu.lookfantastic.com/",
       "submitted_by": "claude-sonnet-5-5",
       "notes": "Banner on the homepage (lookfantastic.dk redirects here): \"10% OFF your first order with code FIRST10\"",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "eu.qidi3d.com:30FOR500",
-      "store": "eu.qidi3d.com",
-      "code": "30FOR500",
-      "discount": "EUR 30 off",
-      "applies_to": "QIDI EU store Halloween Sale, all products, orders of EUR 500 or more",
-      "min_order": "EUR 500",
-      "region": [
-        "EU"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-31",
-      "last_verified": "2026-10-04",
-      "source_url": "https://eu.qidi3d.com/pages/halloween-sale",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Official QIDI EU Halloween Sale page shows 'Code:30FOR500' behind a tap-a-pumpkin reveal, with companions 40FOR700 (EUR 40 off EUR 700), 50FOR900 (EUR 50 off EUR 900) and 100FOR1500 (EUR 100 off EUR 1,500). Thresholds follow the code names and QIDI's own wording on its Back-to-School page ('30FOR500 - EUR 30 off orders over EUR 500'); the Halloween page itself does not restate them. Sale period per the page's terms: 30 Sep 2026 00:00 to 31 Oct 2026 23:59 CST. The identical four code strings run on us.qidi3d.com in USD.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1102,27 +993,6 @@
       "last_report": null
     },
     {
-      "id": "interflora.dk:BLOMSTGLÆDE10",
-      "store": "interflora.dk",
-      "code": "BLOMSTGLÆDE10",
-      "discount": "10% off",
-      "applies_to": "All products on interflora.dk; not delivery costs, the funeral range, international deliveries or subscriptions. One code per order.",
-      "min_order": null,
-      "region": [
-        "DK"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-31",
-      "last_verified": "2026-10-04",
-      "source_url": "https://interflora.dk/rabatkode",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Interflora's own rabatkode page. The 'Få rabat - klik her og bestil' button links to /c/bestil-blomster?cp=BLOMSTGLÆDE10, which applies the code automatically; it can also be typed at checkout. Page wording: \"Rabatten er gældende for alle produkter på interflora.dk i perioden 1. august 2026 - 31. oktober 2026. Rabatten omfatter ikke leveringsomkostninger, begravelsessortiment, udlandsleveringer og abonnement. Kun én rabatkode pr. bestilling.\" (Valid on all products 1 Aug - 31 Oct 2026; excludes delivery costs, funeral range, international deliveries and subscriptions; one code per order.) Note the Danish letter Æ in the code.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
       "id": "joindeleteme.com:DM20",
       "store": "joindeleteme.com",
       "code": "DM20",
@@ -1264,69 +1134,6 @@
       "source_url": "https://lyko.com/da/deals-kup/kampagne/rabatkoder-til-lyko",
       "submitted_by": "claude-fable-5-1",
       "notes": "Lyko's own 'Rabatkoder til Lyko' page (Danish site): \"20 % rabat på alt fra Uniq One - Angiv rabatkoden: 20uniqone\" (20% off everything from Uniq One, enter code 20uniqone). Page also says \"det kun er muligt at bruge én rabatkode pr. køb\" (only one code per purchase). No end date stated. Entered in the checkout code field.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "namecheap.com:GHOSTDOT",
-      "store": "namecheap.com",
-      "code": "GHOSTDOT",
-      "discount": "Discounted first-year domain registration and transfer (.com at $11.08 + $0.20 ICANN fee; transfer $11.28 + $0.20)",
-      "applies_to": "Domain registrations and transfers, first year only; not premium or aftermarket domains",
-      "min_order": null,
-      "region": [
-        "global"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-31",
-      "last_verified": "2026-10-03",
-      "source_url": "https://www.namecheap.com/promos/coupons/",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Official Namecheap monthly coupons page, 'Valid October 1 - October 31, 2026'. Same page also lists GHOSTPE (up to 40% off Professional Business Email) and GHOSTSSL (up to 21% off Standard Wildcard SSL) for the same period.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "namecheap.com:GHOSTPE",
-      "store": "namecheap.com",
-      "code": "GHOSTPE",
-      "discount": "Up to 40% off Professional Business Email plans",
-      "applies_to": "Namecheap Professional Business Email, 1- and 2-year billing cycles (discount varies by plan and term)",
-      "min_order": null,
-      "region": [
-        "global"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-31",
-      "last_verified": "2026-10-03",
-      "source_url": "https://www.namecheap.com/promos/coupons/",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Official Namecheap monthly coupons page, 'Valid October 1 - October 31, 2026'. Companion codes on the same page: GHOSTDOT (domains, already in ledger) and GHOSTSSL (Standard Wildcard SSL).",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "namecheap.com:GHOSTSSL",
-      "store": "namecheap.com",
-      "code": "GHOSTSSL",
-      "discount": "Up to 21% off Standard Wildcard SSL certificates",
-      "applies_to": "Namecheap Standard Wildcard SSL, 1- to 5-year terms (discount varies by duration)",
-      "min_order": null,
-      "region": [
-        "global"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-31",
-      "last_verified": "2026-10-03",
-      "source_url": "https://www.namecheap.com/promos/coupons/",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Official Namecheap monthly coupons page, 'Valid October 1 - October 31, 2026'. Same page lists GHOSTDOT (domains) and GHOSTPE (business email).",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -1858,27 +1665,6 @@
       "last_report": null
     },
     {
-      "id": "us.qidi3d.com:30FOR500",
-      "store": "us.qidi3d.com",
-      "code": "30FOR500",
-      "discount": "$30 off",
-      "applies_to": "QIDI US store Halloween Sale, all products, orders of $500 or more",
-      "min_order": "$500",
-      "region": [
-        "US"
-      ],
-      "found_on": "2026-10-03",
-      "expires_on": "2026-10-31",
-      "last_verified": "2026-10-04",
-      "source_url": "https://us.qidi3d.com/pages/halloween-sale",
-      "submitted_by": "claude-fable-5-1",
-      "notes": "Official QIDI US Halloween Sale page ('Code:30FOR500 Use your coupon before it disappears!'). Companions on the same page: 40FOR700 ($40 off $700), 50FOR900 ($50 off $900), 100FOR1500 ($100 off $1,500). Sale period per the page's terms: 30 Sep 2026 00:00 to 31 Oct 2026 23:59 CST. Same codes exist on the EU store in EUR (see eu.qidi3d.com entry).",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
       "id": "us.ugreen.com:UL65855F",
       "store": "us.ugreen.com",
       "code": "UL65855F",
@@ -2236,6 +2022,27 @@
       "last_report": null
     },
     {
+      "id": "aliexpress.com:SAVING14E",
+      "store": "aliexpress.com",
+      "code": "SAVING14E",
+      "discount": "$14 off",
+      "applies_to": "AliExpress orders by US shoppers, full month of October 2026",
+      "min_order": "$99",
+      "region": [
+        "US"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "US-only monthly set on the same official release: SAVING02E ($2/$15), SAVING05E ($5/$35), SAVING09E ($9/$65), SAVING23E ($23/$169), SAVING40E ($40/$279), SAVING55E ($55/$379), SAVING80E ($80/$559). Not valid outside the US.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "aliexpress.com:SAVING20E",
       "store": "aliexpress.com",
       "code": "SAVING20E",
@@ -2251,6 +2058,27 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
       "submitted_by": "claude-fable-5-1",
       "notes": "Same AliExpress press release as SAVING06E. Code strings cross-checked against the Yahoo Finance syndication of the release. Enter in the promo-code field at checkout; one code per order.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "aliexpress.com:SAVING40E",
+      "store": "aliexpress.com",
+      "code": "SAVING40E",
+      "discount": "$40 off",
+      "applies_to": "AliExpress orders by US shoppers, full month of October 2026",
+      "min_order": "$279",
+      "region": [
+        "US"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "US-only monthly tier from AliExpress's official October 2026 release (valid 1-31 October). Not valid outside the US.",
       "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,
@@ -2299,6 +2127,52 @@
       "last_report": null
     },
     {
+      "id": "dell.com:PROMO20",
+      "store": "dell.com",
+      "code": "PROMO20",
+      "discount": "20% off",
+      "applies_to": "monitor: Dell monitors and accessories when purchased together with a PC",
+      "min_order": null,
+      "region": [
+        "DK",
+        "BE",
+        "IT",
+        "CH",
+        "AT"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.dell.com/en-dk/lp/promo",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "PC hardware: Official Dell Denmark promotional page. Code applies to qualifying products at checkout. Can be combined with other selected offers but not with other coupon codes. Maximum 5 products per order. Also confirmed on Dell UK page (dell.com/en-uk/shop/promo). | Also shown with the same 20% monitors+accessories offer and \"31/10/2026\" end date on the dell.com BE (fr-be), IT (it-it), CH (de-ch) and AT (de-at) promo pages (read 2026-10-04). UK and DE pages state 30 Oct 2026, and the Norwegian locale pages return the Danish page, so GB, DE and NO are not tagged.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "dell.com:PROMO20IE",
+      "store": "dell.com",
+      "code": "PROMO20IE",
+      "discount": "20% off",
+      "applies_to": "monitor: Dell monitors and accessories bought together with a PC (max. 5 items per order)",
+      "min_order": null,
+      "region": [
+        "IE"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.dell.com/en-ie/lp/promo",
+      "submitted_by": "claude-sonnet-5-5",
+      "notes": "PC hardware: dell.com/en-ie promo page (read 2026-10-04): \"Save 20% on monitors and accessories purchased with a PC use code PROMO20IE. Discount not available when monitors and accessories are purchased separately. Offer cannot be combined with other coupons unless otherwise stated. Offer limited to 5 monitors or accessories per order. Offer ends 31/10/2026\". Ireland storefront code (other Dell storefronts use PROMO20).",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "edx.org:SUCCESS2026",
       "store": "edx.org",
       "code": "SUCCESS2026",
@@ -2341,6 +2215,27 @@
       "last_report": null
     },
     {
+      "id": "eu.qidi3d.com:30FOR500",
+      "store": "eu.qidi3d.com",
+      "code": "30FOR500",
+      "discount": "EUR 30 off",
+      "applies_to": "QIDI EU store Halloween Sale, all products, orders of EUR 500 or more",
+      "min_order": "EUR 500",
+      "region": [
+        "EU"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-04",
+      "source_url": "https://eu.qidi3d.com/pages/halloween-sale",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Official QIDI EU Halloween Sale page shows 'Code:30FOR500' behind a tap-a-pumpkin reveal, with companions 40FOR700 (EUR 40 off EUR 700), 50FOR900 (EUR 50 off EUR 900) and 100FOR1500 (EUR 100 off EUR 1,500). Thresholds follow the code names and QIDI's own wording on its Back-to-School page ('30FOR500 - EUR 30 off orders over EUR 500'); the Halloween page itself does not restate them. Sale period per the page's terms: 30 Sep 2026 00:00 to 31 Oct 2026 23:59 CST. The identical four code strings run on us.qidi3d.com in USD.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "fjellsport.no:TUR25",
       "store": "fjellsport.no",
       "code": "TUR25",
@@ -2357,6 +2252,27 @@
       "source_url": "https://fjellsport.no/kampanjer/rabattkoder",
       "submitted_by": "claude-sonnet-5-5",
       "notes": "Fjellsport rabattkoder page (read 2026-10-04): \"-25% på ditt neste kjøp med rabattkode: TUR25 ... Ved kjøp av minimum 2 varer til ordinærpris. ... Gjelder ikke Norrøna, Patagonia, Hilleberg, Fjällräven, Arc'teryx, Fjellsportpris, turmat, elektronikk, kart, pakkepriser, gavekort eller allerede nedsatte varer. Kan ikke kombineres med andre koder. Varighet til og med 12.10.26.\" (25% off your next purchase, min. 2 items at regular price, excludes listed brands/categories, not combinable, valid through 12 Oct 2026). Svalbard: MVA deducted for Svalbard addresses (shipping page: \"Vi tilbyr momsfri levering til Svalbard.\"); terms do not exclude Svalbard.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "interflora.dk:BLOMSTGLÆDE10",
+      "store": "interflora.dk",
+      "code": "BLOMSTGLÆDE10",
+      "discount": "10% off",
+      "applies_to": "All products on interflora.dk; not delivery costs, the funeral range, international deliveries or subscriptions. One code per order.",
+      "min_order": null,
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-04",
+      "source_url": "https://interflora.dk/rabatkode",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Interflora's own rabatkode page. The 'Få rabat - klik her og bestil' button links to /c/bestil-blomster?cp=BLOMSTGLÆDE10, which applies the code automatically; it can also be typed at checkout. Page wording: \"Rabatten er gældende for alle produkter på interflora.dk i perioden 1. august 2026 - 31. oktober 2026. Rabatten omfatter ikke leveringsomkostninger, begravelsessortiment, udlandsleveringer og abonnement. Kun én rabatkode pr. bestilling.\" (Valid on all products 1 Aug - 31 Oct 2026; excludes delivery costs, funeral range, international deliveries and subscriptions; one code per order.) Note the Danish letter Æ in the code.",
       "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,
@@ -2447,6 +2363,69 @@
       "last_report": null
     },
     {
+      "id": "namecheap.com:GHOSTDOT",
+      "store": "namecheap.com",
+      "code": "GHOSTDOT",
+      "discount": "Discounted first-year domain registration and transfer (.com at $11.08 + $0.20 ICANN fee; transfer $11.28 + $0.20)",
+      "applies_to": "Domain registrations and transfers, first year only; not premium or aftermarket domains",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-03",
+      "source_url": "https://www.namecheap.com/promos/coupons/",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Official Namecheap monthly coupons page, 'Valid October 1 - October 31, 2026'. Same page also lists GHOSTPE (up to 40% off Professional Business Email) and GHOSTSSL (up to 21% off Standard Wildcard SSL) for the same period.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "namecheap.com:GHOSTPE",
+      "store": "namecheap.com",
+      "code": "GHOSTPE",
+      "discount": "Up to 40% off Professional Business Email plans",
+      "applies_to": "Namecheap Professional Business Email, 1- and 2-year billing cycles (discount varies by plan and term)",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-03",
+      "source_url": "https://www.namecheap.com/promos/coupons/",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Official Namecheap monthly coupons page, 'Valid October 1 - October 31, 2026'. Companion codes on the same page: GHOSTDOT (domains, already in ledger) and GHOSTSSL (Standard Wildcard SSL).",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "namecheap.com:GHOSTSSL",
+      "store": "namecheap.com",
+      "code": "GHOSTSSL",
+      "discount": "Up to 21% off Standard Wildcard SSL certificates",
+      "applies_to": "Namecheap Standard Wildcard SSL, 1- to 5-year terms (discount varies by duration)",
+      "min_order": null,
+      "region": [
+        "global"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-03",
+      "source_url": "https://www.namecheap.com/promos/coupons/",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Official Namecheap monthly coupons page, 'Valid October 1 - October 31, 2026'. Same page lists GHOSTDOT (domains) and GHOSTPE (business email).",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
       "id": "us.govee.com:TF30",
       "store": "us.govee.com",
       "code": "TF30",
@@ -2483,6 +2462,27 @@
       "source_url": "https://us.govee.com/products/govee-envisual-tv-backlight-t2",
       "submitted_by": "claude-fable-5-1",
       "notes": "Rendered on the product page as 'Save $70.00 With Code: TV5C70'. End date taken from the page's embedded discount data (ends 2026-10-06 06:50 UTC). US store only. Same data lists sibling product codes, e.g. GL6A50 ($50 off Glide Hexagon Light Panels Ultra, ends 2026-10-06) and GL3140 ($40 off the PAC-MAN Gaming Pixel Light).",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "us.qidi3d.com:30FOR500",
+      "store": "us.qidi3d.com",
+      "code": "30FOR500",
+      "discount": "$30 off",
+      "applies_to": "QIDI US store Halloween Sale, all products, orders of $500 or more",
+      "min_order": "$500",
+      "region": [
+        "US"
+      ],
+      "found_on": "2026-10-03",
+      "expires_on": "2026-10-31",
+      "last_verified": "2026-10-04",
+      "source_url": "https://us.qidi3d.com/pages/halloween-sale",
+      "submitted_by": "claude-fable-5-1",
+      "notes": "Official QIDI US Halloween Sale page ('Code:30FOR500 Use your coupon before it disappears!'). Companions on the same page: 40FOR700 ($40 off $700), 50FOR900 ($50 off $900), 100FOR1500 ($100 off $1,500). Sale period per the page's terms: 30 Sep 2026 00:00 to 31 Oct 2026 23:59 CST. Same codes exist on the EU store in EUR (see eu.qidi3d.com entry).",
       "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,

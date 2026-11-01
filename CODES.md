@@ -1,14 +1,12 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-10-31 (UTC). 93 active, 10 unverified, 16 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-11-01 (UTC). 83 active, 10 unverified, 26 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
 | Store | Code | Discount | Applies to | Min. order | Region | Expires | Last verified | Status | Source |
 |---|---|---|---|---|---|---|---|---|---|
 | aarhushavnerundfart.dk | `MOLS15` | 15% off | Aarhus Havnerundfart (harbour cruise) tickets; Kombardo Expressen passengers only, bus ticket needed as documentation. Enter under 'evt. betalingskode' when booking. Not combinable. | - | DK | - | 2026-10-03 | active | [source](https://www.kombardoexpressen.dk/rabataftaler/aarhus-havnerundfart) |
-| aliexpress.com | `SAVING14E` | $14 off | AliExpress orders by US shoppers, full month of October 2026 | $99 | US | 2026-10-31 | 2026-10-04 | active | [source](https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html) |
-| aliexpress.com | `SAVING40E` | $40 off | AliExpress orders by US shoppers, full month of October 2026 | $279 | US | 2026-10-31 | 2026-10-04 | active | [source](https://www.globenewswire.com/news-release/2026/09/30/3371823/0/en/aliexpress-october-2026-promo-codes-us-global-choice-day-coupons.html) |
 | aoostar.com | `NEWORDER` | $10 off | sitewide: Orders on AOOSTAR's direct store (mini PCs, NAS, eGPU docks) | - | global | - | 2026-10-04 | active | [source](https://aoostar.com/) |
 | banggood.com | `BG504437` | Coupon price $239.99 (about EUR 211), list price $299.99 | gpu: AOOSTAR AG03 eGPU dock (800W PSU, OCuLink + 2x TB5), shipped from Banggood's Czech (EU) warehouse | - | EU | - | 2026-10-04 | active | [source](https://blog.banggood.com/banggood-deals-september-2026-76620.html) |
 | banggood.com | `BGdc3edc` | Coupon price $73.99 (about EUR 63.92) | cables-accessories: GameSir G7 Pro Xbox-certified tri-mode wireless controller, EU stock (Czech warehouse) | - | EU | - | 2026-10-04 | active | [source](https://blog.banggood.com/banggood-deals-september-2026-76620.html) |
@@ -18,15 +16,12 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | cheapoair.com | `FLY100` | up to $20 per traveller off service fees (max $100) | flights: qualified airline tickets, first booking in the CheapOair app only | - | global | - | 2026-10-04 | active | [source](https://www.cheapoair.com/) |
 | cultbeauty.com | `FIRST15` | up to 15% off + £5 credit on second purchase | first order | £25 (€25 on the EU site) | GB, EU, NZ | - | 2026-10-04 | active | [source](https://www.cultbeauty.com/) |
 | cyberpowerpc.com | `GAMER2026` | 5% off | prebuilt: CyberPowerPC systems, orders of $999+ | $999 | US | - | 2026-10-04 | active | [source](https://www.cyberpowerpc.com/coupons) |
-| dell.com | `PROMO20` | 20% off | monitor: Dell monitors and accessories when purchased together with a PC | - | DK, BE, IT, CH, AT | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-dk/lp/promo) |
-| dell.com | `PROMO20IE` | 20% off | monitor: Dell monitors and accessories bought together with a PC (max. 5 items per order) | - | IE | 2026-10-31 | 2026-10-04 | active | [source](https://www.dell.com/en-ie/lp/promo) |
 | dynadot.com | `899COM` | $8.99 first-year .com registration | New .COM domain registrations, first year only | - | global | - | 2026-10-04 | active | [source](https://www.dynadot.com/899com) |
 | ellos.no | `3010` | 30% off the most expensive item + 10% off the rest | orders of several items, incl. furniture (full terms on the 'Se vilkår' link, not read) | - | NO | - | 2026-10-04 | active | [source](https://www.ellos.no/) |
 | en.akkogear.com | `OCT15` | 15% off | sitewide: Sitewide on Akko's global store (keyboards, keycaps, switches, mice) | - | global | - | 2026-10-04 | active | [source](https://en.akkogear.com/) |
 | engwe.com | `NEWENGWE` | 2% off | All e-bikes at checkout for new customers | - | EU | - | 2026-10-04 | active | [source](https://www.engwe.com/blogs/news) |
 | eu.baseus.com | `AM7120` | EUR 20 off (EUR 69.99 to EUR 49.99) | cables-accessories: Baseus PicoGo Air AM71 5000mAh 22.5W magnetic power bank (Black, Silver, Dark Cherry) | - | EU | - | 2026-10-04 | active | [source](https://eu.baseus.com/products/picogo-air-am71-3c-magnetic-power-bank-5000mah-22-5w) |
 | eu.lookfantastic.com | `FIRST10` | 10% off | first order | - | EU | - | 2026-10-04 | active | [source](https://eu.lookfantastic.com/) |
-| eu.qidi3d.com | `30FOR500` | EUR 30 off | QIDI EU store Halloween Sale, all products, orders of EUR 500 or more | EUR 500 | EU | 2026-10-31 | 2026-10-04 | active | [source](https://eu.qidi3d.com/pages/halloween-sale) |
 | eu.ugreen.com | `DL15495` | 34% off | cables-accessories: UGREEN Revodok 105 USB C Hub 5 i 1 Multiport Adapter 4K HDMI on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
 | eu.ugreen.com | `DL25095` | 38% off (EUR 96.99 to EUR 59.99) | cables-accessories: UGREEN Nexode Pro 160W 4-port GaN mini fast charger | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger) |
 | eu.ugreen.com | `DL25869` | 37% off | cables-accessories: UGREEN 9-i-1 Steam Deck Dockningsstation (4K@60Hz, PD 100W) on the UGREEN EU store | - | EU | - | 2026-10-04 | active | [source](https://eu.ugreen.com/) |
@@ -58,7 +53,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | homeofcarlsberg.com | `MOLSLINJEN2026` | 15% off | Entry tickets to Home of Carlsberg (Copenhagen) booked online; Kombardo Expressen passengers only - show your bus ticket at the entrance. Not combinable with other discounts. | - | DK | - | 2026-10-03 | active | [source](https://www.kombardoexpressen.dk/rabataftaler/home-of-carlsberg) |
 | hostinger.com | `COUPONSPAGE` | Up to 80% off web hosting (Premium 76% off at $2.84/mo, Unlimited 80% off at $3.79/mo, Cloud Startup 73% off at $7.59/mo) | Hostinger web hosting and cloud hosting plans, new sign-ups | - | global | - | 2026-10-04 | active | [source](https://www.hostinger.com/coupons) |
 | incogni.com | `INCOGNI_BLOG` | 55% off | Incogni annual plans (data-broker removal service) | - | global | - | 2026-10-04 | active | [source](https://blog.incogni.com/incogni-discount-code/) |
-| interflora.dk | `BLOMSTGLÆDE10` | 10% off | All products on interflora.dk; not delivery costs, the funeral range, international deliveries or subscriptions. One code per order. | - | DK | 2026-10-31 | 2026-10-04 | active | [source](https://interflora.dk/rabatkode) |
 | joindeleteme.com | `DM20` | 20% off | All DeleteMe privacy protection plans (1-year and 2-year; 1 person, 2 people, family), new members only, USA consumer plans | - | US | - | 2026-10-04 | active | [source](https://joindeleteme.com/offers/couponco/) |
 | joindeleteme.com | `PARTNER20` | 20% off | First DeleteMe subscription (individual, couple or family plans) | - | global | - | 2026-10-03 | active | [source](https://www.dontpayfull.com/at/joindeleteme.com) |
 | jotex.dk | `STORAGE20` | 20% off | Storage furniture (opbevaring category, jotex.dk/mobler/opbevaring). | - | DK | - | 2026-10-04 | active | [source](https://www.jotex.dk/) |
@@ -66,9 +60,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | kenya-airways.com | `SCM26` | up to 7% off domestic, up to 15% off international flights | flights: Kenya Airways flights for the marathon event promotion (domestic and international) | - | global | - | 2026-10-04 | active | [source](https://www.kenya-airways.com/) |
 | lamzu.com | `ENVY` | 5% off | mouse: LAMZU x ENVY collaboration (store banner; sitewide scope not stated) | - | global | - | 2026-10-04 | active | [source](https://lamzu.com/products) |
 | lyko.com | `20uniqone` | 20% off | All Uniq One hair-care products on lyko.com/da (Danish site). One code per purchase. | - | DK | - | 2026-10-04 | active | [source](https://lyko.com/da/deals-kup/kampagne/rabatkoder-til-lyko) |
-| namecheap.com | `GHOSTDOT` | Discounted first-year domain registration and transfer (.com at $11.08 + $0.20 ICANN fee; transfer $11.28 + $0.20) | Domain registrations and transfers, first year only; not premium or aftermarket domains | - | global | 2026-10-31 | 2026-10-03 | active | [source](https://www.namecheap.com/promos/coupons/) |
-| namecheap.com | `GHOSTPE` | Up to 40% off Professional Business Email plans | Namecheap Professional Business Email, 1- and 2-year billing cycles (discount varies by plan and term) | - | global | 2026-10-31 | 2026-10-03 | active | [source](https://www.namecheap.com/promos/coupons/) |
-| namecheap.com | `GHOSTSSL` | Up to 21% off Standard Wildcard SSL certificates | Namecheap Standard Wildcard SSL, 1- to 5-year terms (discount varies by duration) | - | global | 2026-10-31 | 2026-10-03 | active | [source](https://www.namecheap.com/promos/coupons/) |
 | newegg.com | `SSF73863` | $20 off | case: Rosewill FBM-X6 Black Micro ATX mid tower case with pre-installed 650W 80+ Gold PSU | - | US | - | 2026-10-04 | active | [source](https://www.newegg.com/deals) |
 | newegg.com | `SSF73865` | $15 off | cpu: AMD Ryzen 5 5600X (AM4, 6-core, 100-100000065BOX) | - | US | - | 2026-10-04 | active | [source](https://www.newegg.com/deals) |
 | newegg.com | `SSF73935` | $16 off | cables-accessories: Rosewill dual monitor mount (15-32 inch, VESA 75/100) | - | US | - | 2026-10-04 | active | [source](https://www.newegg.com/deals) |
@@ -94,7 +85,6 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | surfshark.com | `Sharkgift` | 80% off plus one extra month free | Surfshark VPN subscription (plan not specified on the page; discount is on long-term plans) | - | global | - | 2026-10-03 | active | [source](https://surfshark.com/coupon) |
 | torguard.net | `MYFREERESIP` | 60% off plus a free residential IP add-on | TorGuard Standard, Pro and Premium VPN plans, first billing term | - | global | - | 2026-10-03 | active | [source](https://torguard.net/vpn-promo/) |
 | ubereats.com | `dkhej` | 100 kr. off each of your first two orders (200 kr. in total) | First two Uber Eats orders in Denmark, redeemed in the Uber Eats app/website promo field; fees and terms apply. | - | DK | - | 2026-10-03 | active | [source](https://www.just-eat.dk/en/) |
-| us.qidi3d.com | `30FOR500` | $30 off | QIDI US store Halloween Sale, all products, orders of $500 or more | $500 | US | 2026-10-31 | 2026-10-04 | active | [source](https://us.qidi3d.com/pages/halloween-sale) |
 | us.ugreen.com | `UL65855F` | 30% off | cables-accessories: UGREEN 16-in-1 docking station | - | US | - | 2026-10-04 | active | [source](https://us.ugreen.com/products/ugreen-16-in-1-docking-station) |
 | vistaprint.dk | `PROMO` | 70-200 DKK off | Orders 400+ DKK | 400 DKK | DK | 2026-11-01 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
 | vistaprint.dk | `VISTA50` | Up to 50% off | Bestsellers for new customers | - | DK | 2027-01-30 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
