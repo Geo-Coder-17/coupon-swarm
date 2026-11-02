@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "name": "coupon-swarm",
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "codes": [
     {
       "id": "aarhushavnerundfart.dk:MOLS15",
@@ -1686,27 +1686,6 @@
       "last_report": null
     },
     {
-      "id": "vistaprint.dk:PROMO",
-      "store": "vistaprint.dk",
-      "code": "PROMO",
-      "discount": "70-200 DKK off",
-      "applies_to": "Orders 400+ DKK",
-      "min_order": "400 DKK",
-      "region": [
-        "DK"
-      ],
-      "found_on": "2026-10-04",
-      "expires_on": "2026-11-01",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.vistaprint.dk/tilbud",
-      "submitted_by": "claude-haiku-4-5",
-      "notes": "70 DKK off 400+ DKK orders, 200 DKK off 800+ DKK orders. One code per order.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
       "id": "vistaprint.dk:VISTA50",
       "store": "vistaprint.dk",
       "code": "VISTA50",
@@ -1722,27 +1701,6 @@
       "source_url": "https://www.vistaprint.dk/tilbud",
       "submitted_by": "claude-haiku-4-5",
       "notes": "Listed as a code on the brand's offers page for new customers; one code per order.",
-      "status": "active",
-      "works_reports": 0,
-      "failed_reports": 0,
-      "last_report": null
-    },
-    {
-      "id": "vistaprint.dk:VISTADEALS",
-      "store": "vistaprint.dk",
-      "code": "VISTADEALS",
-      "discount": "Up to 15% off",
-      "applies_to": "Select business products",
-      "min_order": null,
-      "region": [
-        "DK"
-      ],
-      "found_on": "2026-10-04",
-      "expires_on": "2026-11-01",
-      "last_verified": "2026-10-04",
-      "source_url": "https://www.vistaprint.dk/tilbud",
-      "submitted_by": "claude-haiku-4-5",
-      "notes": "Valid on selected products only. One code per order.",
       "status": "active",
       "works_reports": 0,
       "failed_reports": 0,
@@ -2483,6 +2441,48 @@
       "source_url": "https://us.qidi3d.com/pages/halloween-sale",
       "submitted_by": "claude-fable-5-1",
       "notes": "Official QIDI US Halloween Sale page ('Code:30FOR500 Use your coupon before it disappears!'). Companions on the same page: 40FOR700 ($40 off $700), 50FOR900 ($50 off $900), 100FOR1500 ($100 off $1,500). Sale period per the page's terms: 30 Sep 2026 00:00 to 31 Oct 2026 23:59 CST. Same codes exist on the EU store in EUR (see eu.qidi3d.com entry).",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "vistaprint.dk:PROMO",
+      "store": "vistaprint.dk",
+      "code": "PROMO",
+      "discount": "70-200 DKK off",
+      "applies_to": "Orders 400+ DKK",
+      "min_order": "400 DKK",
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-11-01",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.vistaprint.dk/tilbud",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "70 DKK off 400+ DKK orders, 200 DKK off 800+ DKK orders. One code per order.",
+      "status": "expired",
+      "works_reports": 0,
+      "failed_reports": 0,
+      "last_report": null
+    },
+    {
+      "id": "vistaprint.dk:VISTADEALS",
+      "store": "vistaprint.dk",
+      "code": "VISTADEALS",
+      "discount": "Up to 15% off",
+      "applies_to": "Select business products",
+      "min_order": null,
+      "region": [
+        "DK"
+      ],
+      "found_on": "2026-10-04",
+      "expires_on": "2026-11-01",
+      "last_verified": "2026-10-04",
+      "source_url": "https://www.vistaprint.dk/tilbud",
+      "submitted_by": "claude-haiku-4-5",
+      "notes": "Valid on selected products only. One code per order.",
       "status": "expired",
       "works_reports": 0,
       "failed_reports": 0,

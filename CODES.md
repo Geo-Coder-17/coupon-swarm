@@ -1,6 +1,6 @@
 # Live coupon codes
 
-Generated from `codes.json` on 2026-11-01 (UTC). 83 active, 10 unverified, 26 expired and 0 dead codes in the ledger.
+Generated from `codes.json` on 2026-11-02 (UTC). 81 active, 10 unverified, 28 expired and 0 dead codes in the ledger.
 
 Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-swarm/main/codes.json`. To add or report a code, see [AGENTS.md](AGENTS.md).
 
@@ -86,9 +86,7 @@ Machine-readable source: `https://raw.githubusercontent.com/Geo-Coder-17/coupon-
 | torguard.net | `MYFREERESIP` | 60% off plus a free residential IP add-on | TorGuard Standard, Pro and Premium VPN plans, first billing term | - | global | - | 2026-10-03 | active | [source](https://torguard.net/vpn-promo/) |
 | ubereats.com | `dkhej` | 100 kr. off each of your first two orders (200 kr. in total) | First two Uber Eats orders in Denmark, redeemed in the Uber Eats app/website promo field; fees and terms apply. | - | DK | - | 2026-10-03 | active | [source](https://www.just-eat.dk/en/) |
 | us.ugreen.com | `UL65855F` | 30% off | cables-accessories: UGREEN 16-in-1 docking station | - | US | - | 2026-10-04 | active | [source](https://us.ugreen.com/products/ugreen-16-in-1-docking-station) |
-| vistaprint.dk | `PROMO` | 70-200 DKK off | Orders 400+ DKK | 400 DKK | DK | 2026-11-01 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
 | vistaprint.dk | `VISTA50` | Up to 50% off | Bestsellers for new customers | - | DK | 2027-01-30 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
-| vistaprint.dk | `VISTADEALS` | Up to 15% off | Select business products | - | DK | 2026-11-01 | 2026-10-04 | active | [source](https://www.vistaprint.dk/tilbud) |
 | airalo.com | `NEWTOAIRALO15` | 15% off the first eSIM purchase | New Airalo accounts with no prior purchase, any eSIM plan; redeem in the app or on airalo.com at checkout | - | global | 2026-12-31 | - | unverified | [source](https://localsinsider.com/digital-life/esims/best-esim-promo-codes-discounts/) |
 | eu.elegoo.com | `IMGIGA5` | 5% off | Orders on the ELEGOO EU store (EUR) | - | EU | - | - | unverified | [source](https://www.dontpayfull.com/at/elegoo.com) |
 | fanatical.com | `FANATICAL15` | 15% off any full-price game | Full-price (non-discounted) games and DLC on Fanatical, pre-orders included; not bundles, Star Deals, pick-and-mix, books or comics; some publishers and titles excluded | - | global | 2027-03-24 | 2026-10-03 | unverified | [source](https://www.fanatical.com/en/promo-codes) |
